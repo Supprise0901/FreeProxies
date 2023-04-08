@@ -3,6 +3,7 @@
 from datetime import datetime
 import json, re
 import requests
+from bs4 import BeautifulSoup
 
 
 class update():
@@ -99,6 +100,26 @@ class update():
                 except Exception:
                     return current_url
             else:
+                return current_url
+        if id == 41:
+            try:
+                url = "https://freenode.me/f/freenode"
+                f = requests.get(url)
+                soup = BeautifulSoup(f.content, features="html.parser")
+                posts = soup.find("ul", {"class": "post-list"}).find_all("a")
+                latest_release_url = posts[0]["href"]
+                proxy_url = latest_release_url
+                proxy_f = requests.get(proxy_url)
+                proxy_soup = BeautifulSoup(proxy_f.content, features="html.parser")
+                proxy_content = proxy_soup.find("div", {"class": "post-content-content"}).find_all(
+                    "p"
+                )
+                for content in proxy_content:
+                    new_url = content.string
+                    if new_url is not None and "https://freenode.me/wp-content/uploads" in new_url:
+                        return new_url
+                return current_url
+            except Exception:
                 return current_url
 
 if __name__ == '__main__':

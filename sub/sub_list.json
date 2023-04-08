@@ -332,7 +332,7 @@
     "remarks": "TG@FreeNode",
     "site": "https://t.me/freenodechannel",
     "url": "https://freenode.me/wp-content/uploads/2023/01/0110.txt",
-    "update_method": "change_date",
+    "update_method": "page_release",
     "enabled": true
   },
   {
@@ -420,6 +420,14 @@
     "remarks": "githubvpn007/v2rayNvpn",
     "site": "https://github.com/githubvpn007/v2rayNvpn#%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9",
     "url": "https://9527521.xyz/pubconfig/hD45GzVY9viTd6ef",
+    "update_method": "auto",
+    "enabled": true
+  },
+  {
+    "id": 53,
+    "remarks": "Leon406/SubCrawler",
+    "site": "https://github.com/Leon406/SubCrawler",
+    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2|https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/vless",
     "update_method": "auto",
     "enabled": true
   }
