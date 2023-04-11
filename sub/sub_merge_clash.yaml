@@ -248,28 +248,24 @@ proxies:
   - {name: 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 147, server: 81.19.208.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇭🇰 adi|0703v - dg-hk-node02, server: dg-hk-node02.linkthink.app, port: 12025, type: ssr, cipher: dummy, password: e5opjuLDEQ, protocol: origin, obfs: http_post, protocol-param: "", obfs-param: ajax.microsoft.com}
   - {name: 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 148, server: 45.136.244.181, port: 80, type: vmess, uuid: a25881f3-967f-3265-bc7f-9e66857b016b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /fr-unlimitxxx, headers: {Host: 45.136.244.181}}}
-  - {name: 🇨🇳 github.com/freefq - 台湾省台北市中华电信 1, server: tw2.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true}
-  - {name: 🇺🇸 github.com/freefq - 美国惠普HP 2, server: hk1.b.bd6b6c503c93.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
-  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶Dedipath数据中心 3, server: 45.89.106.116, port: 443, type: vmess, uuid: 0050e5f9-5dcf-45b3-92b0-f6ee2b95f7f8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇷🇺 github.com/freefq - 俄罗斯  5, server: 185.143.220.25, port: 443, type: vmess, uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dengxin.one}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 9, server: zhuyong.hucloud-dns.xyz, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: zhuyong.hucloud-dns.xyz}}}
-  - {name: 🇺🇸 github.com/freefq - 美国  11, server: 131.186.41.192, port: 26297, type: vmess, uuid: b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 12, server: 162.159.255.200, port: 80, type: vmess, uuid: 52466dc2-3550-4310-910c-74b7bf8a020e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: us-1.acyun.eu.org}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 16, server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.cloudflare.quest}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 17, server: www.udemy.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /worryfree, headers: {Host: dynamic-sg3b.obfs.xyz}}}
-  - {name: 🇺🇸 github.com/freefq - 美国  18, server: 170.187.206.48, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 19, server: v140.toddns.tk, port: 443, type: vmess, uuid: a25881f3-967f-3265-bc7f-9e66857b016b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: v140.toddns.tk}}}
-  - {name: 🇿🇦 github.com/freefq - 南非豪登省约翰内斯堡Cloudinnovation数据中心 20, server: 156.249.18.232, port: 42542, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇨🇦 github.com/freefq - 加拿大  22, server: 142.202.48.99, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 github.com/freefq - 美国  23, server: 192.203.230.101, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 24, server: new6.huvicloud.com, port: 443, type: vmess, uuid: a11ca760-9ef9-4a63-95c9-4c5c32d56251, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: new6.huvicloud.com}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 25, server: cf.515188.xyz, port: 80, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 26, server: cdn.moonfree.top, port: 8443, type: vmess, uuid: edf140f1-35e9-4160-b5a0-6b27f3419a6f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /figure, headers: {Host: usv6warp.happyfree.top}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 27, server: hk01.kelecloud.xyz, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
-  - {name: 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 28, server: 188.114.96.1, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.sharecentrepro.org}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 30, server: dj02.yumili.cf, port: 2096, type: vmess, uuid: c5cd4673-78de-43cd-b461-dd245c51f7b1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dj02.yumili.cf}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 31, server: cfcdn.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us2.sanfencdn.net}}}
-  - {name: 🇨🇳 github.com/freefq - 台湾省台北市中华电信 32, server: polotw1.applebench.tech, port: 56568, type: vmess, uuid: cc73b2fd-6a45-4690-b0ad-ddb8df4fb333, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 github.com/freefq - 台湾省台北市中华电信 1, server: polotw1.applebench.tech, port: 56568, type: vmess, uuid: cc73b2fd-6a45-4690-b0ad-ddb8df4fb333, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 2, server: 144.34.165.33, port: 10512, type: vmess, uuid: 58781eee-baba-6666-baba-2ca0ada6568b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 github.com/freefq - 台湾省台北市中华电信 3, server: tw2.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true}
+  - {name: 🇮🇷 github.com/freefq - 伊朗  4, server: 5.78.73.163, port: 80, type: vmess, uuid: 0da1d372-ec60-4b89-8a3f-79159438c6f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /masvod/public/2023/04/08/20230408_1875e71ee4d_r1_1200k.mp4, headers: {Host: svideo.mfa.gov.cn}}}
+  - {name: 🇺🇸 github.com/freefq - 美国惠普HP 5, server: hk1.b.bd6b6c503c93.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  8, server: 185.143.220.25, port: 443, type: vmess, uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dengxin.one}}}
+  - {name: 🇿🇦 github.com/freefq - 南非  9, server: 156.225.67.147, port: 51948, type: vmess, uuid: 93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 11, server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.cloudflare.quest}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 14, server: cfcdn.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us2.sanfencdn.net}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 16, server: 162.159.255.200, port: 80, type: vmess, uuid: 52466dc2-3550-4310-910c-74b7bf8a020e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: us-1.acyun.eu.org}}}
+  - {name: 🇺🇸 github.com/freefq - 美国得克萨斯州 17, server: wj-fi-01.wujie.bio, port: 9096, type: vmess, uuid: 234507c5-781a-4e92-8290-8264a0a4de87, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: wj-fi-01.wujie.bio}}}
+  - {name: 🇮🇷 github.com/freefq - 伊朗  18, server: 5.78.96.204, port: 80, type: vmess, uuid: 0da1d372-ec60-4b89-8a3f-79159438c6f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /masvod/public/2023/04/07/20230407_18759421dff_r1_1200k.mp4, headers: {Host: svideo.mfa.gov.cn}}}
+  - {name: 🇺🇸 github.com/freefq - 美国  19, server: 170.187.206.48, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20, server: www.udemy.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /worryfree, headers: {Host: dynamic-sg3b.obfs.xyz}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 22, server: 104.26.6.13, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: lg2.v2ray6.xyz}}}
+  - {name: 🇧🇷 github.com/freefq - 巴西圣保罗CloudFlare节点 23, server: 188.114.96.1, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.sharecentrepro.org}}}
+  - {name: 🇺🇸 github.com/freefq - 美国  24, server: 172.99.188.99, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 25, server: vx.tony0339.ml, port: 443, type: vmess, uuid: 2729d517-086e-4357-a6be-12606daf9487, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: vx.tony0339.ml}}}
   - {name: 190.103.176.29989, server: 190.103.176.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 43.200.6.15443, server: 43.200.6.15, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 158.247.213.230989, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -281,7 +277,6 @@ proxies:
   - {name: "", server: n1680936778.sxhucjg.cn, port: 443, type: vmess, uuid: f0532e19-dc6a-4cf0-9194-320d8bca458e, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: n1680936778.sxhucjg.cn}}}
   - {name: 2, server: 36.134.16.171, port: 11023, type: vmess, uuid: 8c042a38-71c1-1dcb-00df-54880236e0dc, alterId: 64, cipher: auto, tls: false}
   - {name: 3, server: la.awsbest.com, port: 443, type: vmess, uuid: 8b6dd709-4d4e-4b92-f542-54a676efbfe4, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /shares, headers: {Host: la.awsbest.com}}}
-  - {name: 4, server: Kansas.v2ray.online, port: 443, type: vmess, uuid: 00BBF5B8-173E-6818-9927-5AD1AA073C7D, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest, headers: {Host: Kansas.v2ray.online}}}
   - {name: AM(AzadNet.t.me), server: 185.162.228.4, port: 80, type: vmess, uuid: 44c467a9-8f0d-41a5-f00b-86569753e5b0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/?ed=2048"}}
   - {name: 🇦🇺 AU(AzadNet.t.me)_1, server: 103.136.146.143, port: 10011, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇦🇺 AU(AzadNet.t.me)_5, server: 168.138.102.89, port: 80, type: vmess, uuid: 0792ca95-a0ba-4510-eab3-8ea03239c532, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -304,14 +299,15 @@ proxies:
   - {name: 🇨🇳 CN(AzadNet.t.me)_14, server: 116.192.175.213, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.org.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_15, server: 116.192.172.230, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.cn.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_16, server: 116.192.171.97, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.if.ua, skip-cert-verify: true}
-  - {name: 🇨🇳 CN(AzadNet.t.me)_17, server: 116.192.170.177, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.net.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_18, server: 116.192.169.8, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.com.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_19, server: 116.192.169.51, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.cn.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_20, server: 116.192.169.219, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.net.ua, skip-cert-verify: true}
-  - {name: 🇨🇳 CN(AzadNet.t.me)_21, server: 116.192.167.58, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.if.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_22, server: 116.192.164.165, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.kyiv.ua, skip-cert-verify: true}
+  - {name: 🇨🇳 CN(AzadNet.t.me)_23, server: 116.192.162.234, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.co.ua, skip-cert-verify: true}
+  - {name: 🇨🇳 CN(AzadNet.t.me)_24, server: 116.192.162.113, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.if.ua, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_32, server: 116.192.160.51, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, sni: official.taipeicitygovernment.if.ua, skip-cert-verify: true}
-  - {name: 🇨🇳 CN(AzadNet.t.me)_66, server: official.taipeicitygovernment.kyiv.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
+  - {name: 🇨🇳 CN(AzadNet.t.me)_53, server: official.taipeicitygovernment.co.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
+  - {name: 🇨🇳 CN(AzadNet.t.me)_55, server: official.taipeicitygovernment.chernovtsy.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
   - {name: 🇨🇳 CN(AzadNet.t.me)_78, server: 194.156.99.39, port: 443, type: trojan, password: xxoo, skip-cert-verify: true}
   - {name: CY(AzadNet.t.me), server: 195.85.59.161, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker}}
   - {name: CZ(AzadNet.t.me)_1, server: 92.118.149.85, port: 443, type: trojan, password: 3gLlCYBipVwr6Y5F, skip-cert-verify: true}
@@ -328,7 +324,7 @@ proxies:
   - {name: 🇫🇷 FR(AzadNet.t.me)_5, server: 62.210.136.177, port: 1935, type: trojan, password: 392f8755-75e7-481e-927e-0f3aae34234e, sni: $www.stream.shoppingitalia.live, skip-cert-verify: true}
   - {name: 🇫🇷 FR(AzadNet.t.me)_6, server: 195.154.118.180, port: 443, type: trojan, password: d08a51e0-c1c7-11ed-b824-1239d0255272, sni: yahoo.com, skip-cert-verify: true}
   - {name: 🇫🇷 FR(AzadNet.t.me)_7, server: 51.255.49.192, port: 443, type: trojan, password: b3df8f31-da3a-4cda-90b1-b3b777cd48e7, sni: ba24.ir, skip-cert-verify: true}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_9, server: 5.135.235.163, port: 443, type: trojan, password: a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671, sni: upload.soft98.download, skip-cert-verify: true}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_8, server: upload.soft98.download, port: 443, type: trojan, password: a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671, skip-cert-verify: true}
   - {name: 🇫🇷 FR(AzadNet.t.me)_28, server: 51.38.99.96, port: 443, type: trojan, password: b8808043-6566-4923-9195-e66bfb553d57, sni: ba24.ir, skip-cert-verify: true}
   - {name: 🇫🇷 FR(AzadNet.t.me)_82, server: 45.77.61.111, port: 2096, type: vmess, uuid: d5949d48-22db-4dd6-c8e3-d5292c65f620, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇬🇧 GB(AzadNet.t.me)_1, server: 23.106.33.156, port: 443, type: trojan, password: ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U, sni: scottie.golfland.club, skip-cert-verify: true}
@@ -341,17 +337,17 @@ proxies:
   - {name: 🇬🇧 GB(AzadNet.t.me)_16, server: 146.19.230.241, port: 443, type: trojan, password: xxoo, sni: 146.19.230.241, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_1, server: 47.242.63.176, port: 443, type: trojan, password: 91ef9bbb-25d9-4593-9f9e-d17e713f5aad, sni: 805hk.ok365.cyou, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_2, server: my01.awcloud.top, port: 443, type: trojan, password: 7f9ef59e-20fb-4343-bafc-3a84fa22fe70, skip-cert-verify: true}
+  - {name: 🇭🇰 HK(AzadNet.t.me)_3, server: in01.awcloud.top, port: 443, type: trojan, password: 7f9ef59e-20fb-4343-bafc-3a84fa22fe70, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_4, server: ru.mjt001.com, port: 443, type: trojan, password: 5a035db3-34ea-48ca-9aa2-72c8229e1532, skip-cert-verify: true}
+  - {name: 🇭🇰 HK(AzadNet.t.me)_5, server: kr.mjt001.com, port: 443, type: trojan, password: 3b14c162-43a0-4f16-bedf-50e818a9a8e3, sni: kr.mjt001.com, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_6, server: 23.247.138.108, port: 10011, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_7, server: 202.81.231.168, port: 10011, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_8, server: 202.8.105.111, port: 10012, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_9, server: 194.104.147.169, port: 10013, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_10, server: 156.59.152.137, port: 10011, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_11, server: 156.251.180.47, port: 10012, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
+  - {name: 🇭🇰 HK(AzadNet.t.me)_12, server: uk.mjt001.com, port: 443, type: trojan, password: 0a5a2476-ac92-4703-9293-0d4fa5d33308, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_13, server: 45.11.104.94, port: 3389, type: trojan, password: d4e41ff772c7fd45, sni: sbank.ir, skip-cert-verify: true}
-  - {name: 🇭🇰 HK(AzadNet.t.me)_38, server: uk.mjt001.com, port: 443, type: trojan, password: 0a5a2476-ac92-4703-9293-0d4fa5d33308, skip-cert-verify: true}
-  - {name: 🇭🇰 HK(AzadNet.t.me)_42, server: in01.awcloud.top, port: 443, type: trojan, password: 7f9ef59e-20fb-4343-bafc-3a84fa22fe70, skip-cert-verify: true}
-  - {name: 🇭🇰 HK(AzadNet.t.me)_43, server: hinet.mjt001.com, port: 443, type: trojan, password: 74400921-f59f-4009-b52a-c2789b49fab6, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_53, server: 20.205.60.183, port: 80, type: vmess, uuid: b99d3702-2f7d-46bc-aaa1-d74d5e1a3bac, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tuananh4g}}
   - {name: 🇭🇰 HK(AzadNet.t.me)_55, server: 182.16.1.194, port: 80, type: vmess, uuid: 00a1da14-d55f-5f75-e346-79b985e1a723, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /opt/video/images}}
   - {name: 🇭🇰 HK(AzadNet.t.me)_57, server: 43.154.250.159, port: 28864, type: vmess, uuid: 9dc18843-47c7-4ea2-a8b9-0625a9595efa, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /hk14/getData}}
@@ -368,6 +364,7 @@ proxies:
   - {name: 🇮🇳 IN(AzadNet.t.me)_22, server: 152.67.190.183, port: 443, type: trojan, password: 006baa3f-4bc3-4915-b60d-c8c5dae11a11, sni: 152.67.190.183, skip-cert-verify: true}
   - {name: IT(AzadNet.t.me)_1, server: 129.152.28.100, port: 443, type: trojan, password: 9e4fa728-3d7d-4371-8053-f175c019ef2c, sni: yangleduo.cf, skip-cert-verify: true}
   - {name: IT(AzadNet.t.me)_2, server: yangleduo.cf, port: 443, type: trojan, password: 9e4fa728-3d7d-4371-8053-f175c019ef2c, skip-cert-verify: true}
+  - {name: IT(AzadNet.t.me)_4, server: yangleduo.cf, port: 443, type: trojan, password: 9e4fa728-3d7d-4371-8053-f175c019ef2c, skip-cert-verify: true}
   - {name: 🇯🇵 JP(AzadNet.t.me)_1, server: trs09.bolab.net, port: 443, type: trojan, password: 7a566d21dfcd0f12490275fd3dd3cfc4, skip-cert-verify: true}
   - {name: 🇯🇵 JP(AzadNet.t.me)_2, server: 49.212.221.47, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
   - {name: 🇯🇵 JP(AzadNet.t.me)_3, server: 133.167.100.203, port: 2053, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
@@ -429,9 +426,11 @@ proxies:
   - {name: RO(AzadNet.t.me)_10, server: 45.85.119.208, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker}}
   - {name: RO(AzadNet.t.me)_12, server: 45.85.119.120, port: 2053, type: vmess, uuid: b06c6ccf-0a68-4eba-89f9-dffc44b06ec5, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: RO(AzadNet.t.me)_14, server: fast_2ray_channel.fastv2ray.eu.org, port: 2053, type: vmess, uuid: 84d8a5f2-703b-4a20-ca24-2107a2902c75, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: fast_2ray_channel.fastv2ray.eu.org}}}
+  - {name: RO(AzadNet.t.me)_19, server: 45.85.119.5, port: 2053, type: vmess, uuid: 84d8a5f2-703b-4a20-ca24-2107a2902c75, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: RO(AzadNet.t.me)_20, server: 45.85.119.48, port: 2053, type: vmess, uuid: 72f76c36-3e3c-45b3-a61f-d8f017345958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: 🇷🇺 RU(AzadNet.t.me)_1, server: insaneguo2333.top, port: 443, type: trojan, password: 1d0a80ca-0f96-4016-ac51-c284dedd28a1, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_1, server: sg.liangyuandian.top, port: 443, type: trojan, password: b341f309-7e2b-45c4-a316-9e23037e3711, skip-cert-verify: true}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_2, server: ca.liangyuandian.top, port: 443, type: trojan, password: 58dcd460-65df-47b1-b062-517df30bef29, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_3, server: ap.stablize.top, port: 443, type: trojan, password: 1bf16b43-0ad5-4512-a0e8-34bb8966278e, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_4, server: ca.stablize.top, port: 443, type: trojan, password: 1bf16b43-0ad5-4512-a0e8-34bb8966278e, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_5, server: 172.105.127.58, port: 443, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: sg1.nodegz.top, skip-cert-verify: true}
@@ -439,6 +438,7 @@ proxies:
   - {name: 🇸🇬 SG(AzadNet.t.me)_7, server: 184.168.127.50, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_8, server: 5.44.249.43, port: 3389, type: trojan, password: 6f0a9d0fa39d65fa, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_9, server: 18.141.8.87, port: 443, type: trojan, password: iyinglong, skip-cert-verify: true}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_10, server: uk.liangyuandian.top, port: 443, type: trojan, password: ceaea123-1b4b-469b-8358-bcd5f5529305, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_12, server: 138.2.86.215, port: 443, type: trojan, password: yAcqvPOj, sni: sgb.mdfg.tk, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_13, server: 52.77.214.179, port: 443, type: trojan, password: 41742_920c8caa, sni: hk31.ssgnode.ga, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_14, server: 194.114.138.1, port: 10011, type: trojan, password: 2af31107-e577-4995-8247-e8a57855e90b, sni: xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe, skip-cert-verify: true}
@@ -446,11 +446,8 @@ proxies:
   - {name: 🇸🇬 SG(AzadNet.t.me)_16, server: ap.stablize.top, port: 443, type: trojan, password: 1bf16b43-0ad5-4512-a0e8-34bb8966278e, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_24, server: 54.179.182.190, port: 443, type: trojan, password: iyinglong, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_30, server: nsaghhfhitw.559xp5.cn, port: 443, type: trojan, password: f3389204-7adb-45d8-906c-c17792336574, skip-cert-verify: true}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_41, server: jp.stablize.top, port: 443, type: trojan, password: 8fb84310-7f34-4e8e-baa8-83001844cc27, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_59, server: 194.233.88.107, port: 443, type: trojan, password: "!<str> 123456", sni: trojan-ctb-sg01.globalssh.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_66, server: ca.liangyuandian.top, port: 443, type: trojan, password: 58dcd460-65df-47b1-b062-517df30bef29, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_78, server: hk31.ssgnode.ga, port: 443, type: trojan, password: 41742_920c8caa, skip-cert-verify: true}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_86, server: nsaghhfhitw.559xp5.cn, port: 443, type: trojan, password: f3389204-7adb-45d8-906c-c17792336574, skip-cert-verify: true}
   - {name: 🇸🇬 SG(AzadNet.t.me)_91, server: 27.124.2.38, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/031730091420}}
   - {name: 🇸🇬 SG(AzadNet.t.me)_96, server: 202.79.171.155, port: 443, type: vmess, uuid: 7f37da61-c734-41b4-a8c2-eccfd6ca48f0, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/080712342310}}
   - {name: 🇸🇬 SG(AzadNet.t.me)_105, server: 18.143.123.35, port: 80, type: vmess, uuid: 68df4838-46d0-4b5b-c3f0-a40ec7063245, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -502,11 +499,9 @@ proxies:
   - {name: 🇺🇸 US(AzadNet.t.me)_30, server: 143.42.31.89, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
   - {name: 🇺🇸 US(AzadNet.t.me)_31, server: 143.42.96.118, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
   - {name: 🇺🇸 US(AzadNet.t.me)_45, server: 138.124.183.222, port: 443, type: trojan, password: xxoo, skip-cert-verify: true}
-  - {name: 🇺🇸 US(AzadNet.t.me)_58, server: ap-northeast-1.openssl3.com, port: 443, type: trojan, password: tune7jerky7HAYRICK, sni: ap-northeast-1.openssl3.com, skip-cert-verify: true}
   - {name: 🇺🇸 US(AzadNet.t.me)_64, server: 143.42.99.183, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
   - {name: 🇺🇸 US(AzadNet.t.me)_68, server: 143.42.206.230, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
   - {name: 🇺🇸 US(AzadNet.t.me)_117, server: 104.16.209.12, port: 8880, type: vmess, uuid: 0c664f44-9f69-454f-841a-4616715df26f, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_134, server: ap-northeast-1.openssl3.com, port: 443, type: trojan, password: tune7jerky7HAYRICK, sni: ap-northeast-1.openssl3.com, skip-cert-verify: true}
   - {name: 🇺🇸 US(AzadNet.t.me)_141, server: 147.185.161.178, port: 8443, type: vmess, uuid: 27848739-7e62-4138-9fd3-938a63964b6b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /KTR}}
   - {name: 🇺🇸 US(AzadNet.t.me)_145, server: vau1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vau1.0bad.com}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_149, server: 38.63.0.83, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/120306182525}}
@@ -546,6 +541,7 @@ proxies:
   - {name: 🇺🇸 US(AzadNet.t.me)_352, server: 142.4.118.150, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/120306182525}}
   - {name: 🇺🇸 US(AzadNet.t.me)_359, server: 107.148.209.115, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/080712342310}}
   - {name: 🇺🇸 US(AzadNet.t.me)_364, server: 104.24.176.7, port: 443, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_365, server: 104.21.84.81, port: 80, type: vmess, uuid: 12b1bed9-1534-41db-a530-a1dbf6c2a7c6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /filetransfer}}
   - {name: 🇺🇸 US(AzadNet.t.me)_367, server: 104.21.235.172, port: 80, type: vmess, uuid: d42eaf95-2ca1-41be-8af7-0eb8eb4e719b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /worryfree}}
   - {name: 🇺🇸 US(AzadNet.t.me)_369, server: 104.17.199.25, port: 443, type: vmess, uuid: 860b543f-5039-473b-96ec-4494aebe4416, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /xuexi}}
   - {name: 🇺🇸 US(AzadNet.t.me)_370, server: 104.149.143.105, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV}}
@@ -577,21 +573,21 @@ proxies:
   - {name: VN(AzadNet.t.me)_13, server: 103.197.184.43, port: 80, type: vmess, uuid: 7bea35a3-d29c-4a33-b471-1eb63b3ecf70, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /hahuutung}}
   - {name: VN(AzadNet.t.me)_25, server: 103.197.184.40, port: 80, type: vmess, uuid: 7bea35a3-d29c-4a33-b471-1eb63b3ecf70, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /hahuutung}}
   - {name: VN(AzadNet.t.me)_32, server: 103.182.16.149, port: 80, type: vmess, uuid: a740cddf-bda7-4b58-8eda-35bece740b6e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /anti13.zingfast.vn}}
+  - {name: 🇨🇳 CN(AzadNet.t.me)_53 2, server: official.taipeicitygovernment.co.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_3 2, server: in01.awcloud.top, port: 443, type: trojan, password: 7f9ef59e-20fb-4343-bafc-3a84fa22fe70, skip-cert-verify: true}
-  - {name: IT(AzadNet.t.me)_2 2, server: yangleduo.cf, port: 443, type: trojan, password: 9e4fa728-3d7d-4371-8053-f175c019ef2c, skip-cert-verify: true}
-  - {name: RO(AzadNet.t.me)_14 2, server: fast_2ray_channel.fastv2ray.eu.org, port: 2053, type: vmess, uuid: 84d8a5f2-703b-4a20-ca24-2107a2902c75, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: fast_2ray_channel.fastv2ray.eu.org}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_58 2, server: ap-northeast-1.openssl3.com, port: 443, type: trojan, password: tune7jerky7HAYRICK, sni: ap-northeast-1.openssl3.com, skip-cert-verify: true}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_86 2, server: nsaghhfhitw.559xp5.cn, port: 443, type: trojan, password: f3389204-7adb-45d8-906c-c17792336574, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_134 3, server: ap-northeast-1.openssl3.com, port: 443, type: trojan, password: tune7jerky7HAYRICK, sni: ap-northeast-1.openssl3.com, skip-cert-verify: true}
   - {name: 公益机场https//bit.ly/3BPeo5G, server: 86.wowogg.cyou, port: 52286, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false}
   - {name: 🇺🇸 V001--US-付费推荐suo.yt/ssrsub, server: r2wind.com, port: 80, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}}
-  - {name: 🇺🇸 V002--US-付费推荐suo.yt/ssrsub, server: cf.515188.xyz, port: 80, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}}
+  - {name: 🇺🇸 V003--US-付费推荐suo.yt/ssrsub, server: r2wind.com, port: 8880, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v02.ssrsub.com}}}
+  - {name: 🇺🇸 V004--US-付费推荐suo.yt/ssrsub, server: cf.515188.xyz, port: 8880, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v02.ssrsub.com}}}
   - {name: "@SSRSUB-V05-付费推荐suo.yt/ssrsub", server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: sg1.sharecentrepro.com}}}
   - {name: "@SSRSUB-V07-付费推荐suo.yt/ssrsub", server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /shirker, headers: {Host: de1.sharecentrepro.org}}}
-  - {name: "@SSRSUB-V10-付费推荐suo.yt/ssrsub", server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /shirker, headers: {Host: hk-hytron.ilovescp.com}}}
+  - {name: "@SSRSUB-V09-付费推荐suo.yt/ssrsub", server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk-hytron.ilovescp.com}}}
+  - {name: "@SSRSUB-V11-付费推荐suo.yt/ssrsub", server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
   - {name: "@SSRSUB-V24-付费推荐suo.yt/ssrsub", server: 198.2.208.181, port: 35402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: "@SSRSUB-V25-付费推荐suo.yt/ssrsub", server: 198.204.240.254, port: 5555, type: vmess, uuid: b323481d-1992-4d53-ad4f-8abc52b30811, alterId: 0, cipher: auto, tls: false}
   - {name: "@SSRSUB-V26-付费推荐suo.yt/ssrsub", server: 64.32.20.91, port: 45809, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
-  - {name: "@SSRSUB-V27-付费推荐suo.yt/ssrsub", server: 104.26.6.13, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: lg2.v2ray6.xyz}}}
-  - {name: "@SSRSUB-V28-付费推荐suo.yt/ssrsub", server: po-59.f-sub.xyz, port: 8080, type: vmess, uuid: 88b17347-96d2-4bc8-b739-5ecd3538640a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: po-59.f-sub.xyz}}}
   - {name: "@SSRSUB-V33-付费推荐suo.yt/ssrsub", server: s245.rpscloud3.cloud, port: 80, type: vmess, uuid: d65ca664-72d3-4a14-a836-00eadd0df46e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /graphql, headers: {Host: s245.rpscloud3.cloud}}}
   - {name: AU_02, server: 43.207.1.14, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: AU_03, server: 43.207.68.221, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -632,7 +628,6 @@ proxies:
   - {name: US_144, server: 38.91.101.242, port: 1036, type: ss, cipher: chacha20-ietf-poly1305, password: )1N1E6v0SU_rGTpg}
   - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_146, server: ak1502.free.www.outline.network, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: US_147, server: 172.99.190.149, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: US_148, server: 172.99.188.99, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: US_149, server: 167.88.61.50, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: US_151, server: 38.68.134.9, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: US_152, server: 38.68.134.196, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -683,6 +678,7 @@ proxies:
   - {name: 🇸🇬 新加坡_0411063, server: 00000000000000000000000000000000000000000000000000000000000005a.node-for-bigairport.win, port: 80, type: vmess, uuid: 2100274e-55ae-4686-a380-a66ae8b0ef1b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇸🇬 新加坡_0411100, server: 27.124.43.74, port: 53111, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇯🇵 日本_0411002, server: 139.162.66.166, port: 80, type: vmess, uuid: 52466dc2-3550-4310-910c-74b7bf8a020e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇯🇵 日本_0411007, server: 131.186.41.192, port: 26297, type: vmess, uuid: b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 日本_0411008, server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 64, cipher: auto, tls: false}
   - {name: 🇯🇵 日本_0411029, server: 138.2.14.220, port: 33421, type: vmess, uuid: 94e56ff9-ccf1-414e-a114-46e0a79f6614, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 日本_0411040, server: 132.226.5.189, port: 26369, type: vmess, uuid: f5934f6a-6a07-4c7c-bb0f-3af328ea6897, alterId: 0, cipher: auto, tls: false}
@@ -699,6 +695,7 @@ proxies:
   - {name: 未知_04112075, server: 162.159.137.73, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: 未知_04112079, server: 104.18.56.64, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: 未知_04112085, server: 104.18.56.63, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: jp01.kelecloud.xyz}}}
+  - {name: 未知_0411321, server: hk01.kelecloud.xyz, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: 未知_0411322, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: scw-nl.cloudflare.quest}}}
   - {name: 未知_0411333, server: cf.noaries.de, port: 2086, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: 未知_0411450, server: cf.noaries.de, port: 2082, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
@@ -706,6 +703,7 @@ proxies:
   - {name: 未知_0411644, server: 104.22.52.93, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /huhublog, headers: {Host: zhuyong.hucloud-dns.xyz}}}
   - {name: 未知_0411646, server: 162.159.135.42, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: oplg1.zhujicn2.com}}}
   - {name: 未知_0411647, server: 190.93.245.3, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: oplg1.zhujicn2.com}}}
+  - {name: 🇫🇷 法国_0411001, server: 156.249.18.232, port: 42542, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: false}
   - {name: 🇫🇷 法国_0411006, server: 156.249.18.69, port: 55399, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇫🇷 法国_0411010, server: 54.37.192.0, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇫🇷 法国_0411011, server: 156.249.18.175, port: 42542, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: false}
@@ -741,7 +739,6 @@ proxies:
   - {name: 🇺🇸 美国_0411047, server: 198.2.208.84, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411048, server: 45.58.180.143, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411050, server: 156.225.67.199, port: 47811, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0411051, server: 156.225.67.147, port: 51948, type: vmess, uuid: 93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411052, server: 156.225.67.149, port: 42402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411053, server: 156.225.67.104, port: 49920, type: vmess, uuid: 29a5d48e-24f1-48fd-a5e1-9a46cb31032f, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411054, server: 156.225.67.71, port: 53208, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: false}
@@ -921,6 +918,7 @@ proxies:
   - {name: 🇺🇸 美国_0411461, server: 156.225.67.252, port: 59911, type: vmess, uuid: 3fd637ad-46fe-4f85-a6e8-86b00bca1122, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411462, server: 107.148.194.225, port: 54904, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411464, server: 198.2.192.248, port: 48123, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0411469, server: dj02.yumili.cf, port: 2096, type: vmess, uuid: c5cd4673-78de-43cd-b461-dd245c51f7b1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /aaaa, headers: {Host: dj02.yumili.cf}}}
   - {name: 🇺🇸 美国_0411470, server: 142.4.119.205, port: 53986, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411474, server: 198.2.205.66, port: 30402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0411476, server: 142.0.135.59, port: 44349, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
@@ -996,18 +994,15 @@ proxies:
   - {name: 万人草都不死, server: fn600mlines021.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 507364fb791e}
   - {name: 🇭🇰 香港IEPL内网专线02, server: fn600mliness016.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: b82344b3d531}
   - {name: 14亿人一起都草不死, server: fn600mlines024.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: a801632d2e2e}
-  - {name: 🇺🇸 美国11, server: 5.78.96.204, port: 80, type: vmess, uuid: 0da1d372-ec60-4b89-8a3f-79159438c6f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /masvod/public/2023/04/07/20230407_18759421dff_r1_1200k.mp4, headers: {Host: svideo.mfa.gov.cn}}}
-  - {name: 🇺🇸 美国22, server: 5.78.73.163, port: 80, type: vmess, uuid: 0da1d372-ec60-4b89-8a3f-79159438c6f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /masvod/public/2023/04/08/20230408_1875e71ee4d_r1_1200k.mp4, headers: {Host: svideo.mfa.gov.cn}}}
   - {name: "_[原生][商宽]VNPT", server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: vn.cloudflare.quest}}}
   - {name: "_[WARP]Scaleway", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: fr.cloudflare.quest}}}
   - {name: "_[无审计]BuyVM", server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.cloudflare.quest}}}
   - {name: "_[无审计][DONATE]BuyVM_黑弩捐赠", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: lsb-aries.heinu.cf}}}
-  - {name: "_[PF][数据网络]Scaleway-圣卢西亚Digicel", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: nls.cloudflare.quest}}}
+  - {name: _Scaleway, server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ft.cloudflare.quest}}}
   - {name: "🇹🇭 _[PF][家宽]OVH-泰国AIS", server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: "🇷🇺 _[PF][家宽]Scaleway-白俄罗斯A1.BY", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: pl.cloudflare.quest}}}
-  - {name: "_[原生]pilw", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ee.cloudflare.quest}}}
-  - {name: "🇰🇷 _[PF][家宽]OVH-韩国LG U", server: cf.noaries.de, port: 2086, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
-  - {name: "_[PF][数据中心]VNPT-孟加拉AmberIT", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: vn.cloudflare.quest}}}
+  - {name: "_[WARP]Scaleway 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: scw-nl.cloudflare.quest}}}
+  - {name: "🇮🇳 _[PF][移动数据]Scaleway_印度BeamTelecom", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ft.cloudflare.quest}}}
   - {name: 🇸🇬 新加坡13, server: 52.221.239.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 新加坡02, server: 13.212.139.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 新加坡07, server: 54.179.174.15, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -1021,6 +1016,7 @@ proxies:
   - {name: 🇨🇳 _TW_台湾_1, server: 34.81.61.24, port: 43632, type: vmess, uuid: 18f49289-9ee1-439a-bbaa-dbb59172c42e, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国_2, server: 00000000000000000000000000000000000000000000000000000000000039a.node-for-bigairport.win, port: 12356, type: vmess, uuid: 25c5c11f-c2ae-4865-a25a-5ba20711dca9, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 _JP_日本_1, server: 54.178.60.213, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇨🇳 _TW_台湾_2, server: hinet1261.gfwisbest.xyz, port: 224, type: vmess, uuid: 2285133e-b9ba-3fb5-a246-9c7ddcc2cd7a, alterId: 0, cipher: auto, tls: false}
   - {name: 🇨🇳 _CN_中国_1, server: hnm.xiaohouzi.club, port: 16082, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: $nh-hinet06.xiaohouzi.club, skip-cert-verify: true}
   - {name: 🇨🇳 _CN_中国_2, server: hn.xiaohouzi.club, port: 18835, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: $feilvbin.xiaohouzi.club, skip-cert-verify: true}
   - {name: 🇨🇳 _CN_中国->🇹🇼_TW_台湾, server: 36.156.102.164, port: 10003, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: false}
@@ -1051,12 +1047,13 @@ proxies:
   - {name: US_@youtube资源分享师_28, server: 162.159.130.162, port: 8080, type: vmess, uuid: 5ed400e1-e23e-4665-8abe-5af1ebd3a29a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0}}
   - {name: US_@youtube资源分享师_165, server: 156.225.67.86, port: 59392, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: false}
   - {name: US_@youtube资源分享师_41, server: 198.41.194.117, port: 8080, type: vmess, uuid: 5ed400e1-e23e-4665-8abe-5af1ebd3a29a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0}}
+  - {name: US_@youtube资源分享师_42, server: www.nivod4.tv, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: www.nivod4.tv}}}
   - {name: US_@youtube资源分享师_287, server: quiz.vidio.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: quiz.vidio.com}}}
   - {name: US_@youtube资源分享师_51, server: spectra.aryogen.store, port: 2086, type: vmess, uuid: ca660fd8-56d4-4a09-97bd-e6e7e6027a2c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: spectra.aryogen.store}}}
   - {name: US_@youtube资源分享师_53, server: 104.26.14.6, port: 8080, type: vmess, uuid: 5ed400e1-e23e-4665-8abe-5af1ebd3a29a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0}}
-  - {name: US_@youtube资源分享师_56, server: pm.motori.pw, port: 8880, type: vmess, uuid: d1c59699-1874-49f1-b9ba-bbbfd7968075, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: pm.motori.pw}}}
   - {name: US_@youtube资源分享师_61, server: d.pgypgykmoljklj.xyz, port: 443, type: vmess, uuid: fa4cb529-3ac9-4268-bb04-ed4253813508, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /mR17oBKzZ7, headers: {Host: d.pgypgykmoljklj.xyz}}}
   - {name: US_@youtube资源分享师_69, server: 162.159.141.181, port: 8080, type: vmess, uuid: 5ed400e1-e23e-4665-8abe-5af1ebd3a29a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0}}
+  - {name: US_@youtube资源分享师_70, server: v140.toddns.tk, port: 443, type: vmess, uuid: a25881f3-967f-3265-bc7f-9e66857b016b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /fr-888gikdlx, headers: {Host: v140.toddns.tk}}}
   - {name: US_@youtube资源分享师_71, server: speed.cloudflare.com, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: speed.cloudflare.com}}}
   - {name: US_@youtube资源分享师_79, server: 172.67.147.152, port: 443, type: vmess, uuid: 9e6ceeff-2546-3690-ac00-6fcdf31dec94, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /cutin}}
   - {name: CN_@youtube资源分享师_204, server: video.tiktokuu.xyz, port: 1242, type: vmess, uuid: 97b52f78-4a76-4362-bb22-2d6024b0d11a, alterId: 0, cipher: auto, tls: false}
@@ -1076,12 +1073,12 @@ proxies:
   - {name: US_@youtube资源分享师_155, server: 156.225.67.131, port: 57131, type: vmess, uuid: 515bcb4d-0ba1-4cae-87cf-a047007eec54, alterId: 64, cipher: auto, tls: false}
   - {name: US_@youtube资源分享师_174, server: 137.175.3.226, port: 53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: US_@youtube资源分享师_176, server: cf-cdn.aoop.top, port: 2052, type: vmess, uuid: a0835719-0de6-4d1b-92cd-ebdbc15ca66a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /jntm=2048, headers: {Host: cf-cdn.aoop.top}}}
+  - {name: US_@youtube资源分享师_243, server: amsterdam.v2ray.online, port: 443, type: vmess, uuid: A59E320C-BAC6-45E3-8A27-1518610708D0, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest, headers: {Host: amsterdam.v2ray.online}}}
   - {name: CN_@youtube资源分享师_184, server: 139.226.112.205, port: 63081, type: vmess, uuid: c796ecaf-e6ca-3eba-96d3-21df44550cbc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: US_@youtube资源分享师_198, server: 104.21.41.99, port: 8080, type: vmess, uuid: 5ed400e1-e23e-4665-8abe-5af1ebd3a29a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0}}
   - {name: US_@youtube资源分享师_205, server: sy17.tiktok00002.win, port: 20247, type: vmess, uuid: a587750c-f180-465e-b939-fff18e05cfed, alterId: 0, cipher: auto, tls: true, servername: sy17.tiktok00002.win, network: grpc, grpc-opts: {grpc-service-name: /}}
   - {name: HK_@youtube资源分享师_283, server: petal.ga, port: 443, type: vmess, uuid: b744f5cc-eab2-d2cd-f477-76646d17987f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /petalvws, headers: {Host: petal.ga}}}
   - {name: NL_@youtube资源分享师_220, server: 154.84.1.31, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: US_@youtube资源分享师_237, server: vx.tony0339.ml, port: 443, type: vmess, uuid: 2729d517-086e-4357-a6be-12606daf9487, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /lmm0422, headers: {Host: vx.tony0339.ml}}}
   - {name: US_@youtube资源分享师_244, server: sy13.tiktok00002.win, port: 20243, type: vmess, uuid: a587750c-f180-465e-b939-fff18e05cfed, alterId: 0, cipher: auto, tls: true, servername: sy13.tiktok00002.win, network: grpc, grpc-opts: {grpc-service-name: /}}
   - {name: US_@youtube资源分享师_252, server: sy21.tiktok00002.win, port: 20251, type: vmess, uuid: a587750c-f180-465e-b939-fff18e05cfed, alterId: 0, cipher: auto, tls: true, servername: sy21.tiktok00002.win, network: grpc, grpc-opts: {grpc-service-name: /}}
   - {name: US_@youtube资源分享师_266, server: sy19.tiktok00002.win, port: 20249, type: vmess, uuid: a587750c-f180-465e-b939-fff18e05cfed, alterId: 0, cipher: auto, tls: true, servername: sy19.tiktok00002.win, network: grpc, grpc-opts: {grpc-service-name: /}}
@@ -1103,6 +1100,7 @@ proxies:
   - {name: defaultName_4, server: 98.126.18.116, port: 46506, type: vmess, uuid: 21ebf5af-8383-46ec-a9b8-8ad2e9a7d477, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /usa1/getData}}
   - {name: 🇭🇰 _HK_香港->🇨🇳_CN_中国, server: b1.ss1011.top, port: 1509, type: vmess, uuid: 8c042a38-71c1-1dcb-00df-54880236e0dc, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国->🇳🇱_NL_荷兰_3, server: 156.225.67.153, port: 47331, type: vmess, uuid: a7fa8f14-4fb6-4280-9005-d6bbe99c5da9, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇨🇦 Node-ca.ilovescp.com, server: 104.20.7.77, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ca.ilovescp.com/shirker}}
   - {name: 🇷🇺 俄罗斯联邦 001, server: 1.hk1997.pro, port: 443, type: trojan, password: 2703fdad-d9fd-4884-a16d-00f0fd4a061c, skip-cert-verify: true}
   - {name: 🇷🇺 俄罗斯联邦 002, server: ru1.xiaolongyun.xyz, port: 50403, type: vmess, uuid: fc2038b4-ed83-38e7-a123-17e717c2e543, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vv, headers: {Host: ru1.xiaolongyun.xyz}}}
   - {name: 🇭🇺 匈牙利 001, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 0, cipher: auto, tls: false}
@@ -1129,8 +1127,8 @@ proxies:
   - {name: 🇺🇸 美国 009, server: 198.148.116.134, port: 22618, type: vmess, uuid: 8b7321e5-d6aa-4d81-8156-b671a3b59067, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 美国 010, server: lv1.sharecentrepro.org, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv1.sharecentrepro.org}}}
   - {name: 🇺🇸 美国 011, server: new3.hucloud-dns.xyz, port: 443, type: vmess, uuid: 1c8ad3f2-835c-4fda-b9b6-881d3cadfd8e, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: new3.hucloud-dns.xyz}}}
+  - {name: 🇺🇸 美国 012, server: la.awsbest.com, port: 443, type: vmess, uuid: 8b6dd709-4d4e-4b92-f542-54a676efbfe4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shares, headers: {Host: la.awsbest.com}}}
   - {name: 🇺🇸 美国 013, server: 172.66.41.99, port: 443, type: vmess, uuid: 44bab30b-d1da-40b4-b65d-e0a3a98c0de6, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmessws, headers: {Host: ss.239000.xyz}}}
-  - {name: 🇺🇸 美国 014, server: lv2.sharecentrepro.org, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.sharecentrepro.org}}}
   - {name: 🇺🇸 美国 015, server: best1.glucy.top, port: 443, type: vmess, uuid: 52b06cca-d9a9-4923-fd87-7f0bb0f23854, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /11, headers: {Host: best1.glucy.top}}}
   - {name: 🇺🇸 美国 016, server: 156.225.67.142, port: 50317, type: vmess, uuid: 990006bd-cb20-482f-9c97-f5fc65359605, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国 018, server: swwtr9999.long18167135896.repl.co, port: 443, type: vmess, uuid: 0fb98a2a-41db-41b1-b45b-63ea3ddcfb74, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /0fb98a2a-41db-41b1-b45b-63ea3ddcfb74-vm, headers: {Host: swwtr9999.long18167135896.repl.co}}}
@@ -1160,6 +1158,8 @@ proxies:
   - {name: 🇺🇸 美国 051, server: us1.netflix6.com, port: 443, type: vmess, uuid: f01e97d6-1c25-392d-bd70-106dc804f693, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us1.netflix6.com}}}
   - {name: 🇺🇸 美国 057, server: cf.dalazhi.eu.org, port: 443, type: vmess, uuid: 23fd9f2e-7ff8-4d98-8099-8acce9499433, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ibtrvws, headers: {Host: tj2.dalazhi.eu.org}}}
   - {name: 🇺🇸 美国 060, server: 167.88.62.24, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇺🇸 美国 061, server: pm.motori.pw, port: 8880, type: vmess, uuid: d1c59699-1874-49f1-b9ba-bbbfd7968075, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: pm.motori.pw}}}
+  - {name: 🇺🇸 美国 071, server: cooing-luxuriant-blue.glitch.me, port: 443, type: vmess, uuid: 80e7dd59-b1fc-45a0-98be-1478a9af89f2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /api, headers: {Host: cooing-luxuriant-blue.glitch.me}}}
   - {name: 🇺🇸 美国 073, server: sg4.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true}
   - {name: 🇺🇸 美国 074, server: jp2.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true}
   - {name: 🇺🇸 美国 075, server: 156.225.67.205, port: 47717, type: vmess, uuid: d7735058-1dac-4618-99ff-0aa0441ec2d7, alterId: 64, cipher: auto, tls: false}
@@ -1175,7 +1175,6 @@ proxies:
   - {name: 🇺🇸 美国 095, server: id06tk.ifengsoutu233.tk, port: 18888, type: trojan, password: b065b64a-905a-494a-a25f-5e313e93cca8, sni: id06tk.ifengsoutu233.tk, skip-cert-verify: true}
   - {name: 🇺🇸 美国 096, server: 13.215.191.190, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇸 美国 100, server: id04tk.ifengsoutu233.tk, port: 18888, type: trojan, password: b065b64a-905a-494a-a25f-5e313e93cca8, sni: id04tk.ifengsoutu233.tk, skip-cert-verify: true}
-  - {name: 🇫🇮 芬兰 001, server: wj-fi-01.wujie.bio, port: 9096, type: vmess, uuid: 234507c5-781a-4e92-8290-8264a0a4de87, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: wj-fi-01.wujie.bio}}}
   - {name: 🇬🇧 英国 001, server: 185.162.228.110, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU, headers: {Host: oplg1.cfcdn2.xyz}}}
   - {name: 🇬🇧 英国 002, server: 143.42.110.81, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time}}
   - {name: 🇬🇧 英国 003, server: 6bd8e697-rrslc0-14vzw.uk.tcpbbr.net, port: 80, type: vmess, uuid: f8c51b52-2bbb-11eb-a8bf-f23c91cfbbc9, alterId: 1, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 6bd8e697-rrslc0-14vzw.uk.tcpbbr.net}}}
@@ -1193,21 +1192,24 @@ proxies:
   - {name: 🇰🇷 韩国 008, server: 43.201.60.60, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 韩国 012, server: 43.201.14.240, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇮🇲 马恩岛 001, server: 45.95.241.211, port: 443, type: vmess, uuid: 0b7894eb-6732-4db1-828d-c4754763eae7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmess}}
+  - {name: 🇨🇳 中国【付费推荐：https//tt.vg/vip】13, server: official.taipeicitygovernment.kiev.ua, port: 8443, type: trojan, password: 5505f6ba-cd37-30ce-8f92-be4120c83d7f, sni: 66.42.40.132, skip-cert-verify: true}
   - {name: 🇨🇳 中国【付费推荐：https//tt.vg/vip】267, server: 47.104.237.32, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】197, server: cf.noaries.de, port: 2086, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: NONE, server: 170.187.134.190, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, skip-cert-verify: true}
   - {name: 🇰🇷 韩国【付费推荐：https//tt.vg/vip】81, server: cloud.cluster.download.cloudsys.buzz, port: 80, type: vmess, uuid: 522e8c21-156c-4125-b821-755956840e64, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ac9c9cf8-d1c3-4eb7-aa66-5052edaf9a94.ts, headers: {Host: cloud.cluster.download.cloudsys.buzz}}}
+  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】10, server: quiz.vidio.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dynamic-sg3b.obfs.xyz}}}
   - {name: 更多免费高速v2ray、clash节点www.v2rayfree.eu.org, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 🇮🇷 v2rayfree.eu.org - 伊朗  3, server: free-us1.wvvvv.eu.org, port: 80, type: vmess, uuid: 0da1d372-ec60-4b89-8a3f-79159438c6f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /masvod/public/2023/04/07/20230407_187593f344f_r1_1200k.mp4, headers: {Host: svideo.mfa.gov.cn}}}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 12, server: zhuyong.hucloud-dns.xyz, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: zhuyong.hucloud-dns.xyz}}}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国CloudFlare公司CDN节点 25, server: 104.18.3.2, port: 80, type: vmess, uuid: 1d1c1d94-6987-4658-a4dc-8821a30fe7e0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: idnusanet.vpnexecutive.my.id}}}
-  - {name: 🇯🇵 日本 V2CROSS.COM, server: hk6.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
   - {name: 🇺🇸 _US_美国 3, server: usv6warp.happyfree.top, port: 8443, type: vmess, uuid: edf140f1-35e9-4160-b5a0-6b27f3419a6f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: usv6warp.happyfree.top}}}
   - {name: 🇸🇬 _SG_新加坡, server: 52.74.60.152, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇳🇱 _NL_荷兰, server: 51.15.0.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇰🇷 _KR_韩国, server: 43.201.149.16, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇺🇸 _US_美国 11, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: 🇭🇰 _HK_香港, server: hk1.microsoftjs.top, port: 443, type: trojan, password: be84aea5-9a99-4ca2-94a6-90d0bb1b3759, skip-cert-verify: true}
   - {name: 🇲🇽 _MX_墨西哥, server: 190.103.179.23, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇭🇰 _HK_香港 2, server: hk19.microsoftjs.top, port: 443, type: trojan, password: be84aea5-9a99-4ca2-94a6-90d0bb1b3759, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国 17, server: 142.202.48.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 _US_美国 19, server: 142.4.110.26, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: _CN_中国, server: 112.132.215.189, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国 23, server: ca.ilovescp.com, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: ca.ilovescp.com}}}
@@ -1218,6 +1220,7 @@ proxies:
   - {name: "|118.96Mb", server: 172.67.133.72, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: "|113.81Mb", server: 192.203.230.16, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: "|27.42Mb", server: 129.159.41.233, port: 32586, type: vmess, uuid: 341a9182-c423-499c-c46e-d17838b29037, alterId: 0, cipher: auto, tls: false}
+  - {name: "|98.93Mb", server: 192.203.230.101, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: "|123.52Mb", server: 104.21.231.29, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: "|114.06Mb", server: 162.159.129.21, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
   - {name: "|122.89Mb", server: 162.159.136.21, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
@@ -1240,9 +1243,9 @@ proxies:
   - {name: "|18.04Mb", server: listener.freetrade.link, port: 443, type: trojan, password: Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc, skip-cert-verify: false}
   - {name: 2023-04-11T133049+0800 268 https//github.com/mianfeifq/share, server: github.com, port: 443, type: vmess, uuid: mianfeifq, alterId: 0, cipher: auto, tls: false}
   - {name: JP_13.230.98.114_04112023e130-967ssr, server: jp2.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 17422:TTp0SX, obfs-param: ab93117422.jd.h%%%}
+  - {name: v2cross.com_185, server: 45.89.106.116, port: 443, type: vmess, uuid: 0050e5f9-5dcf-45b3-92b0-f6ee2b95f7f8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 4Jadi-70, server: us-2.shahabb1devz.website, port: 47261, type: vmess, uuid: 5d66e475-6819-4e25-d560-a2b280f651ed, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us-2.shahabb1devz.website}}}
   - {name: 🇺🇸 US美国(youtube阿伟科技) 2, server: 1024.day, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: lg2.v2ray6.xyz}}}
-  - {name: 🇺🇸 United States 30 TG@nodpai, server: 144.34.165.33, port: 10512, type: vmess, uuid: 58781eee-baba-6666-baba-2ca0ada6568b, alterId: 0, cipher: auto, tls: false}
   - {name: US_1853, server: 142.4.110.27, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: KR_43.201.33.9_04112023e130-707ss%%, server: kr1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 17422:TTp0SX, obfs-param: "ab93117422.jd.h%%�%%�\x1f"}
   - {name: 🇺🇸 美国-F6F TG频道@v2ssfly, server: us2.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us2.sanfencdn.net}}}
@@ -1254,12 +1257,12 @@ proxies:
   - {name: 4Jadi-1048, server: 192.74.248.53, port: 53777, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: US_142.4.110.25_04112023e130-925vmess, server: 142.4.110.25, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 4Jadi-428, server: dp3.scproxy.top, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dp3.scproxy.top}}}
-  - {name: US_@youtube资源分享师_61 2, server: d.pgypgykmoljklj.xyz, port: 443, type: vmess, uuid: fa4cb529-3ac9-4268-bb04-ed4253813508, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: d.pgypgykmoljklj.xyz}}}
   - {name: 白嫖-041, server: 129.146.133.157, port: 51009, type: vmess, uuid: 81714cef-9bde-4a08-aa50-d6bc0172d78b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国_@suyucom, server: ccdc2.6252369.xyz, port: 8443, type: vmess, uuid: f8949dfe-c501-453c-96b6-6786fb03d5f9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vxt99, headers: {Host: ccdc2.6252369.xyz}}}
   - {name: RELAY-203.30.190.191-0121, server: 203.30.190.191, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: oplg1.zhujicn2.com}}}
   - {name: 🇨🇳 China 11 TG@nodpai, server: 142.4.110.116, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 4Jadi-703, server: ca.ilovescp.com, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
+  - {name: 🇮🇷 4Iran-364, server: new6.huvicloud.com, port: 443, type: vmess, uuid: a11ca760-9ef9-4a63-95c9-4c5c32d56251, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: new6.huvicloud.com}}}
   - {name: RELAY-203.24.108.9-1283, server: 203.24.108.9, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: oplg1.zhujicn2.com}}}
   - {name: 🇭🇰 IEPL · 日本JP · 209 · 广港移动|, server: 183.213.200.206, port: 28132, type: trojan, password: zYNLlN, sni: download.windowsupdate.com, skip-cert-verify: true}
   - {name: IN_139.59.12.30_041020239cd8-319s%, server: hk1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 17422:TTp0SX, obfs-param: ab93117422.jd.h%%}
@@ -1267,7 +1270,6 @@ proxies:
   - {name: 🇺🇸 悸沫君_🇺🇸_US_美国_kjwl 8, server: 142.4.110.28, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 未知 40, server: vx.tony0339.ml, port: 443, type: vmess, uuid: 2729d517-086e-4357-a6be-12606daf9487, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: vx.tony0339.ml}}}
   - {name: 563, server: 23.224.173.101, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇮🇷 4Iran-16, server: cfcdn.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us2.sanfencdn.net}}}
   - {name: speednode_0164, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 04/08免费节点|TG频道@kxswa_, server: 172.67.144.183, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: IR(AzadNet.t.me)_1, server: 91.107.191.61, port: 80, type: vmess, uuid: c98da152-f3b1-4b65-a3f0-6633a731642e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -1322,6 +1324,7 @@ proxies:
   - {name: 🇺🇸 218_美国-2.38MB, server: 44.199.226.119, port: 42362, type: vmess, uuid: c8dc97a8-697b-4abe-9a72-2adc249bb1b4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: "日2[中转]-流媒体NF", server: cu.netflix6.com, port: 60996, type: vmess, uuid: 784ede01-8b10-3f69-95a3-aa0832557330, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /maojp2, headers: {Host: netflix6.com}}}
   - {name: RELAY-104.21.73.196-2..., server: us11.wanwusheng.me, port: 443, type: vmess, uuid: be75d100-0b4a-438d-8152-74439ecee551, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us11.wanwusheng.me}}}
+  - {name: 🇦🇺 Relay_🇦🇺AU-🇦🇺AU_05, server: hk6.af49c4e4c2ef.sanfen001.pics, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: hk6.af49c4e4c2ef.sanfen001.pics}}}
   - {name: 🇸🇬 182_新加坡-3.53MB, server: 13.214.212.27, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇸 US-107.148.242.211-1..., server: 107.148.242.211, port: 443, type: vmess, uuid: dcca1294-7097-44b7-bd49-5f51c73f532f, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/080712342310}}
   - {name: 🇺🇸 245_美国-3.91MB, server: frgt1.ssr-free2.xyz, port: 443, type: vmess, uuid: 9379fea0-006d-4fd3-8e35-d45a5af72aa2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: frgt1.ssr-free2.xyz}}}
@@ -1382,6 +1385,7 @@ proxies:
   - {name: RELAY-172.67.220.9-2316, server: us1.ghostnet.shop, port: 8443, type: vmess, uuid: 89c41d51-1fda-4a71-d993-fdfa9f94e995, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ws, headers: {Host: us1.ghostnet.shop}}}
   - {name: 🇺🇸 US-170.178.189.46-4215, server: 170.178.189.46, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/220128071100}}
   - {name: SJOID(@Outline_Vpn), server: 37.27.7.86, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
+  - {name: ConfigV2RayNG__, server: cpkj-100.f-sub.xyz, port: 8080, type: vmess, uuid: 3085bf29-571f-235a-4b34-eb2af9c696f9, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: cpkj-100.f-sub.xyz}}}
   - {name: 🇸🇬 SG(AzadNet.t.me)_3 4, server: hkmax01.170203.xyz, port: 443, type: trojan, password: 515a3204-b835-4ee0-b6d3-4e24a61e5a7d, sni: hkmax01.170203.xyz, skip-cert-verify: true}
   - {name: 🇺🇸 US(AzadNet.t.me)_9 4, server: quranweb1.xyz, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: quranweb1.xyz}}}
   - {name: 19. آپتل, server: apt.ircf.space, port: 443, type: vmess, uuid: DCE76061-EE65-49DB-997C-A6A880DADE3A, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Amsterdam.kotick.site, headers: {Host: 19.walidfree19.workers.dev}}}
@@ -1403,11 +1407,13 @@ proxies:
   - {name: ✅ @ShadowSocks_S________, server: svt8.iran2vip.com, port: 36762, type: vmess, uuid: 30d9585d-b21d-44b5-865e-b5e725480586, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: svt8.iran2vip.com}}}
   - {name: RELAY-172.67.46.131-1188, server: 172.67.46.131, port: 2082, type: vmess, uuid: 082122a2-8479-4089-82f0-f32ba5fc5426, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /bb, headers: {Host: hao.huaqian.icu}}}
   - {name: 🇮🇷 4FreeIran-140, server: 77.120.115.235, port: 444, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGb3d3aXBobw}
+  - {name: 🇺🇸 美国 014 2, server: lv2.sharecentrepro.org, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv2.sharecentrepro.org}}}
   - {name: 🇬🇧 英国01|原生|x5, server: bgpgb1.amazon-azure.com, port: 443, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b, headers: {Host: bgpgb1.amazon-azure.com}}}
   - {name: 🇺🇸 -美国-157.90.239.248, server: 157.90.239.248, port: 33706, type: vmess, uuid: 6a8c72a3-abde-472f-a52e-383b3aa376ef, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国_9 2, server: usg.fljsm.com, port: 443, type: vmess, uuid: e5543efd-5400-3760-9bb6-02767728e888, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /video, headers: {Host: usg.fljsm.com}}}
   - {name: 220_未知国家-3.94MB, server: 162.159.130.77, port: 443, type: vmess, uuid: f9e7833c-4889-427c-bb10-dff63d103945, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: 🇸🇬 SG(AzadNet.t.me)_4 4, server: agroup.node3.t.nodelist-gfwairport1.download, port: 50001, type: trojan, password: 26188b3e-c28e-4230-8bee-53d77ff5ff49, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_88 4, server: 104.21.44.124, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time}}
   - {name: 🇭🇰 419_香港-1.83MB, server: 156.245.8.121, port: 59592, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: false}
   - {name: 2861(@Outline_Vpn), server: er.freelike.tech, port: 80, type: vmess, uuid: bb590030-d5d9-480f-9193-3cd67be144d1, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: ger.freelike.tech}}}
   - {name: 🇸🇬 346_新加坡-370.4KB, server: 3.1.50.20, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -1466,6 +1472,7 @@ proxies:
   - {name: 51_中国-3.82MB, server: ltx.leiyingchuanmei.com, port: 19475, type: vmess, uuid: a41c3448-c5a1-4aba-ad94-7e65380fe69e, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-746, server: 78.138.99.86, port: 18760, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZzQ5JFdIODk0M2cz}
   - {name: 🇺🇸 US(AzadNet.t.me)_43 4, server: 104.21.64.41, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time}}
+  - {name: 🇺🇸 美国 034 2, server: v149.toddns.gq, port: 443, type: vmess, uuid: c252d5dd-0ed3-3482-a273-87f855c67c6b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /v149-32023365, headers: {Host: v149.toddns.gq}}}
   - {name: 🇺🇸 US-104.149.130.253-1..., server: 104.149.130.253, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: 🇯🇵 425_日本-1.65MB, server: japam01.aws01cdn.xn--57q977p.com, port: 80, type: vmess, uuid: b261a984-f165-4b2d-92ca-e75d051f1238, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: japam01.aws01cdn.xn--57q977p.com}}}
   - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_1840, server: ming2.kiwireich.com, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: ming2.kiwireich.com}}}
@@ -1503,6 +1510,7 @@ proxies:
   - {name: 🇯🇵 JP(AzadNet.t.me)_1 4, server: bgroup.node1.t.nodelist-gfwairport1.download, port: 50001, type: trojan, password: 9f0ae767-0156-460c-acd6-67cb3000faf1, skip-cert-verify: true}
   - {name: "|10.68Mb", server: 193.108.118.30, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇨🇳 Taiwan(ChatGPT) 01 ..., server: scloudtw2-tg-data.amazonwebservicess.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazonwebservicess.com, skip-cert-verify: true}
+  - {name: 🇺🇸 美国 020 2, server: sg1.sharecentrepro.com, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: sg1.sharecentrepro.com}}}
   - {name: 🇺🇸 US-34.221.94.18-2554..., server: 34.221.94.18, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇭🇰 Hong Kong 20 TG@no..., server: awshk16-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: 🇸🇬 -新加坡-singapore01.aws..., server: singapore01.aws01cdn.xn--57q977p.com, port: 80, type: vmess, uuid: 8131b9e9-332b-4402-a86a-72055b33a130, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /images, headers: {Host: shoutingtoutiao3.10010.com}}}
@@ -1517,7 +1525,6 @@ proxies:
   - {name: 🇩🇪 DE(AzadNet.t.me)_10 4, server: domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net, port: 443, type: vmess, uuid: 3445bb7a-7dcb-408e-be51-a8912bad94ea, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmess, headers: {Host: domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net}}}
   - {name: 🇮🇷 256_伊朗-3.25MB, server: cn1.filmoserial.cfd, port: 32450, type: vmess, uuid: 96c7fa16-f645-4897-d6b3-406faa976549, alterId: 0, cipher: auto, tls: true}
   - {name: 🇯🇵 日本 101, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 32e05686-4e90-316b-8aa9-3d7b54fa3c9d, sni: jpvip102.qlgq1.pw, skip-cert-verify: true}
-  - {name: RELAY-172.67.8.66-0419..., server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: hk-hytron.ilovescp.com}}}
   - {name: 🇩🇪 DE(AzadNet.t.me)_9 4, server: 3.125.211.216, port: 2255, type: trojan, password: cd27884b-c5af-34ec-b75f-8248077818fe, sni: 4.dg.cat77.cloud, skip-cert-verify: true}
   - {name: 🇸🇬 新加坡 015, server: 103.166.228.153, port: 443, type: vmess, uuid: 08ccf743-bb31-4f38-96c1-d34953c4146d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 3528(@Outline_Vpn), server: 18.169.114.181, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
@@ -1567,7 +1574,6 @@ proxies:
   - {name: ConfigV2RayNG_____________, server: chat-bot-r.space, port: 443, type: vmess, uuid: b0555af2-ee94-46b5-8e02-ea6353f50e15, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: chat-bot-r.space}}}
   - {name: 🇯🇵 v2rayfree.eu.org - 日本  7__, server: 43.198.90.91, port: 80, type: vmess, uuid: e7d09c21-31af-4c4b-b9db-ad60d7497a65, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /zh-cn/}}
   - {name: 🇺🇸 188_美国-4.96MB, server: 107.173.148.91, port: 10093, type: ss, cipher: aes-256-gcm, password: Ge8RK9CqlH1XyYrw}
-  - {name: 🇯🇵 -日本-bgpca2.amazon-az..., server: bgpca2.amazon-azure.com, port: 443, type: vmess, uuid: 61066d41-afe9-4354-8d1d-648d280a0b58, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b, headers: {Host: bgpca2.amazon-azure.com}}}
   - {name: 🇮🇷 4FreeIran-508, server: 134.195.196.70, port: 8118, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO}
   - {name: 3673(@Outline_Vpn), server: 13.49.4.91, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇩 印度尼西亚 001 2, server: id.ftvpn.xyz, port: 443, type: vmess, uuid: 49cfb56e-ae2b-478d-a4ee-cddb92213dc2, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess, headers: {Host: id.ftvpn.xyz}}}
@@ -1606,6 +1612,7 @@ proxies:
   - {name: TG@hkaa0|中国, server: 120.233.84.203, port: 42645, type: trojan, password: b065b64a-905a-494a-a25f-5e313e93cca8, sni: id02tk.ifengsoutu233.tk, skip-cert-verify: true}
   - {name: 89_中国-3.89MB, server: zz.sexavv.com, port: 31505, type: vmess, uuid: 7b493f86-e3f1-3597-8dce-75337f73b45f, alterId: 2, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: zz.sexavv.com}}}
   - {name: 🇯🇵 Japan 20 TG@nodpai, server: awsjp18-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
+  - {name: 🇺🇸 v2rayfree.eu.org - 美国C..., server: us1.sanfencdn.net, port: 443, type: vmess, uuid: 506d93ec-ffdb-41cd-bbc3-367039c4b18f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us1.sanfencdn.net}}}
   - {name: ETIID(@Outline_Vpn), server: 167.235.207.213, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: ConfigV2RayNG_, server: 78.141.219.25, port: 443, type: vmess, uuid: 8f038972-c195-41b5-dcc9-6ecf2a9b9f07, alterId: 0, cipher: auto, tls: false}
   - {name: 🇩🇪 DE-130.162.32.137-24..., server: 130.162.32.137, port: 59630, type: vmess, uuid: 6347a935-60c0-4b4d-d2d9-2d3f3b73f970, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -1613,6 +1620,7 @@ proxies:
   - {name: "@v2rayNG_VPNN اختصاصی ..._", server: h2.arsalanv3.sbs, port: 80, type: vmess, uuid: aa8538c8-d414-4f6d-b9dd-77e8d561b8a5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: h2.arsalanv3.sbs}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_17 4, server: cf-topspeedvv2.uk, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: cf-topspeedvv2.uk}}}
   - {name: 🇮🇷 4FreeIran-272, server: xqtxa-1046-v2-2.hkg-d-hkbn.nd.cjhh.mom, port: 888, type: vmess, uuid: caac6285-511c-4a07-b6db-edfbdcfe3889, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {Host: edge.cjhh.mom}}}
+  - {name: RELAY-172.67.73.106-13..., server: cfcdn.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us2.sanfencdn.net}}}
   - {name: 🇮🇷 4FreeIran-1356, server: 172.105.219.18, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat}}
   - {name: 🇭🇰 Hong Kong 14 TG@no..., server: hkt1-tg-data.amazonwebservicess.com, port: 80, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /aws-china-media/Y699Gjx2rNw.mp4, headers: {Host: media.amazonwebservices.com}}}
   - {name: 🇺🇸 214_美国-3.13MB, server: us5.netflix6.com, port: 443, type: vmess, uuid: 1659d226-c7bb-3cdb-9ff5-4501dc948494, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us5.netflix6.com}}}
@@ -1646,7 +1654,6 @@ proxies:
   - {name: 🇰🇷 KR-146.56.98.211-6194, server: 146.56.98.211, port: 4321, type: vmess, uuid: 141a45f2-002d-4fb6-f875-603978b993ec, alterId: 64, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇮🇷 4FreeIran-1637, server: 5.188.5.190, port: 15256, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4}
   - {name: Pool_Pool_ |19.29Mb, server: 85.208.108.93, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 04/06免费节点|TG频道@kxswa_, server: usshsaba.114514782.xyz, port: 2095, type: vmess, uuid: 5f9c7bda-33f9-3dd0-bcf5-aca324418e31, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /usshsa, headers: {Host: usshsaba.114514782.xyz}}}
   - {name: "|18.05Mb", server: 172.99.190.7, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: "|10.49Mb", server: 134.195.196.143, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 3604(@Outline_Vpn), server: cf.sudoer.net, port: 2087, type: vmess, uuid: ec6bfb6b-7236-462f-bda5-3d4b9c8f9a5a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: toes.safran.market}}}
@@ -1694,6 +1701,7 @@ proxies:
   - {name: RELAY-172.67.204.68-3814, server: 172.67.204.68, port: 443, type: vmess, uuid: be75d100-0b4a-438d-8152-74439ecee551, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: us11.wanwusheng.me}}}
   - {name: 6_中国-7.62MB, server: edge-hncm.themars.top, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: e5fbb896-cf74-44f5-90ae-b3333e1d3ca0}
   - {name: FHH(@Outline_Vpn), server: 91.107.209.206, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
+  - {name: ConfigV2RayNG_______, server: 104.21.91.249, port: 2095, type: vmess, uuid: 3522d2e8-e880-4e3a-a836-496a0bb92f60, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: servsermci15.numallas.shop}}}
   - {name: "@ConfigV2RayNG____", server: 203.24.109.17, port: 2096, type: vmess, uuid: ccf78a03-f878-44b4-d1fe-5d3daaa8f671, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /@melov2ray, headers: {Host: yohoo.melo-eztic.shop}}}
   - {name: 🇮🇷 4FreeIran-1738, server: 144.91.109.71, port: 443, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWOHN0WEtzY1Vwa04}
   - {name: 🇯🇵 IEPL+·+日本JP+·+194+·+广州联通, server: 120.82.67.243, port: 28101, type: trojan, password: zYNLlN, skip-cert-verify: true}
@@ -1706,7 +1714,6 @@ proxies:
   - {name: 🇮🇷 4FreeIran-1592, server: 146.59.43.129, port: 443, type: vmess, uuid: 54c6c823-4957-4c6c-b10c-359bc51f7cc3, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /a54e284cb6/}}
   - {name: "@customv2ray کانفی..._", server: ger.mizbanbit.ir, port: 45533, type: vmess, uuid: 9a6f9a10-e0f9-4d0a-d48d-d095d147e66f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: ger.mizbanbit.ir}}}
   - {name: 3053(@Outline_Vpn), server: lo.freelike.tech, port: 80, type: vmess, uuid: 74b660de-315a-4b9b-dc68-1ffaec7f880a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: n1.freelike.tech}}}
-  - {name: 🇺🇸 美国 012 2, server: la.awsbest.com, port: 443, type: vmess, uuid: 8b6dd709-4d4e-4b92-f542-54a676efbfe4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shares, headers: {Host: la.awsbest.com}}}
   - {name: 4195(@Outline_Vpn), server: 20.205.214.65, port: 10064, type: vmess, uuid: b8ec1401-e5c1-4299-b315-9694cca0c2f8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇰🇷 v2rayfree.eu.org - 韩国  3, server: 210.87.202.140, port: 48736, type: vmess, uuid: 4159a04a-f185-43ed-9aad-457e4296474c, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /kor3/getData, headers: {Host: kor3.verichains.co}}}
   - {name: 🇭🇰 v2rayfree.eu.org - 香港电..., server: 58.152.67.136, port: 80, type: vmess, uuid: 67c2c86e-58df-11ec-bd7c-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -1768,13 +1775,14 @@ proxies:
   - {name: 🇺🇸 TG@hkaa0|美国_, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 5f9c7bda-33f9-3dd0-bcf5-aca324418e31, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}}
   - {name: "|12.02Mb", server: 54.36.174.181, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇭🇰 Hong Kong 51 TG@no..., server: udhk2-tg-data.amazonwebservicess.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: tls.amazonwebservicess.com, skip-cert-verify: true}
+  - {name: 🇺🇸 github.com/freefq - 美国..., server: dj02.yumili.cf, port: 2096, type: vmess, uuid: c5cd4673-78de-43cd-b461-dd245c51f7b1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /aaaa, headers: {Host: dj02.yumili.cf}}}
   - {name: 4312(@Outline_Vpn), server: 5.75.244.229, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-819, server: 167.88.61.236, port: 808, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8}
   - {name: 🇺🇸 US-172.105.138.117-0193, server: 172.105.138.117, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus3.0bad.com}}}
   - {name: 3654(@Outline_Vpn), server: 44.197.176.125, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 波黑 001, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RELAY-172.67.6.14-0156..., server: www.nivod4.tv, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: lg1.v2ray6.xyz}}}
   - {name: "|12.19Mb", server: 134.195.196.107, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇮🇷 4FreeIran-754, server: us2.sanfencdn.net, port: 443, type: vmess, uuid: da9d5c74-a572-4cf4-a375-19b886f5ffc4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: us2.sanfencdn.net}}}
   - {name: 🇯🇵 JP-3.112.97.133-0787, server: jp2.sanfen001.pics, port: 2001, type: vmess, uuid: 3c34f264-6d9c-4234-b1da-3b84f183a931, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /cn, headers: {Host: "%7B%22Host%22:%22aws.amazon.com%22%7D"}}}
   - {name: 3849(@Outline_Vpn, server: 34.244.6.43, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 US-140.99.94.18-15341, server: 140.99.94.18, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/080712342310}}
@@ -1795,7 +1803,6 @@ proxies:
   - {name: Telo(@Outline_Vpn), server: 167.235.62.143, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 3207(@Outline_Vpn), server: 54.38.226.222, port: 55490, type: vmess, uuid: ac8fc9d1-6b37-42ed-edda-ebc1f293fefe, alterId: 0, cipher: auto, tls: false}
   - {name: 3674(@Outline_Vpn), server: 34.220.138.46, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
-  - {name: متفرقه F (بدون هیچ محد..., server: fast_2ray_channel.fastv2ray.eu.org, port: 443, type: trojan, password: 63779501-4c22-4a03-83d3-9f611b227e7b, sni: c4mc.ciscocdn2.live, skip-cert-verify: false}
   - {name: 🇮🇷 4FreeIran-1320, server: trotro.ml, port: 443, type: trojan, password: 79617c79-257d-4063-b2fa-b081b33dd52c, skip-cert-verify: false}
   - {name: 🇯🇵 345_日本-413.2KB, server: 43.207.117.53, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇸 US(AzadNet.t.me)_121 4, server: 192.203.230.235, port: 8880, type: vmess, uuid: 502d3ed3-278d-6ba8-a698-89fbf8fdce67, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -1806,7 +1813,6 @@ proxies:
   - {name: 20_中国-8.81MB, server: ah-cmi-1000m.ikun666.club, port: 56442, type: ss, cipher: aes-256-gcm, password: 97239aa5-913f-44b6-bad1-1d88e9a605b9}
   - {name: 🇺🇸 US-137.175.1.5-4623, server: 137.175.1.5, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/120306182525, headers: {Host: www.17661867.xyz}}}
   - {name: WI7B(@Outline_Vpn), server: 49.12.244.123, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
-  - {name: RELAY-172.67.155.112-0..., server: 1024.day, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: lg1.v2ray6.xyz}}}
   - {name: RELAY-104.21.37.115-5040, server: eu-3.youngns.ml, port: 443, type: vmess, uuid: df69bf7b-7ad5-44d3-a4f0-203f347ed9d0, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: eu-3.youngns.ml}}}
   - {name: 31_中国-13.88MB, server: hncu.donghui.tech, port: 61126, type: vmess, uuid: 1591890d-ec33-4158-843e-8c67708ca92d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: hncu.donghui.tech}}}
   - {name: https//t.me/vpn_iossع..._______, server: 8.218.226.112, port: 20329, type: vmess, uuid: 2f999df9-07d0-42a5-8423-2b0b69b9fa0a, alterId: 0, cipher: auto, tls: false}
@@ -1826,11 +1832,10 @@ proxies:
   - {name: 🇺🇸 US-44.227.242.123-18662, server: us1.sanfen001.pics, port: 2002, type: vmess, uuid: 6db42a0c-5abc-4d1c-a09c-2052c661f9f8, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}}
   - {name: "@ConfigV2RayNG______", server: 139.144.144.63, port: 17743, type: vmess, uuid: e026af6e-f008-4482-a70b-a91cc85f4893, alterId: 0, cipher: auto, tls: false}
   - {name: 04/08免费节点|TG频道@kxswa, server: 108.162.193.56, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
+  - {name: 🇯🇵 BGP|日本04|x5, server: bgpjp4.data.amazon-azure.com, port: 443, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /aws-china-media/Y699Gjx2rNw.mp4, headers: {Host: bgpjp4.data.amazon-azure.com}}}
   - {name: 3635(@Outline_Vpn), server: 54.170.5.163, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
-  - {name: US_@youtube资源分享师_280 2, server: 4bb4ced4.8200860.xyz, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /index, headers: {Host: 4bb4ced4.8200860.xyz}}}
   - {name: 🇯🇵 Relay 🇯🇵 Japan 05 TG@..., server: ns01.gutingting.com, port: 30044, type: vmess, uuid: 8a1afdd9-7420-4401-aae0-595e8467f5f1, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}}
   - {name: HamzeNaroyi(@Outline_Vpn), server: 138af.propae.sbs, port: 25882, type: vmess, uuid: f8d62225-5ad2-4283-cc9e-b34ea1e6b647, alterId: 0, cipher: auto, tls: false}
-  - {name: 248_未知国家-173.8KB, server: spectra.aryogen.store, port: 2052, type: vmess, uuid: 606da12b-c5e2-43fc-e3b8-800c81ace4a6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: spectra.aryogen.store}}}
   - {name: 🇸🇬 Singapore 24 TG@no..., server: sg2.netflix6.com, port: 443, type: vmess, uuid: ea082d78-8d2b-3010-afc5-5230d01c489b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.netflix6.com}}}
   - {name: 09. مبین‌نت, server: mbt.ircf.space, port: 443, type: vmess, uuid: DCE76061-EE65-49DB-997C-A6A880DADE3A, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Amsterdam.kotick.site, headers: {Host: 9.walidfree9.workers.dev}}}
   - {name: 🇨🇳 Taiwan(ChatGPT) 20 ..., server: 165.154.246.14, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
@@ -1904,12 +1909,12 @@ proxies:
   - {name: 3002(@Outline_Vpn), server: 15.204.49.137, port: 46243, type: vmess, uuid: 7f07b462-b708-4fdc-d02f-f87ab378991d, alterId: 0, cipher: auto, tls: false}
   - {name: _236, server: 36.134.16.190, port: 11023, type: vmess, uuid: 8c042a38-71c1-1dcb-00df-54880236e0dc, alterId: 0, cipher: auto, tls: false}
   - {name: 🇬🇧 GB-212.102.53.81-076..., server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 美国 086 2, server: www.codepen.io, port: 443, type: vmess, uuid: c002de50-e64e-4328-b98a-fae82bdcafa4, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmess, headers: {Host: www.codepen.io}}}
   - {name: 🇿🇦 -南非-156.225.67.187, server: 156.225.67.187, port: 55596, type: vmess, uuid: 9549a2cf-129b-43a1-88db-ef7f648de74a, alterId: 64, cipher: auto, tls: false}
   - {name: 🇭🇰 Hong Kong 24 TG@no..., server: awshk17-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: 55_中国-659.7KB, server: tr.iggfastweb.com, port: 28000, type: vmess, uuid: 9e0822c2-75ea-4d30-8895-9fe59da9935c, alterId: 2, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: tr.iggfastweb.com}}}
   - {name: 00. وایفای C 🇩🇪, server: 22.walidfree22.workers.dev, port: 443, type: vmess, uuid: 795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Dusseldorf.kotick.site, headers: {Host: 22.walidfree22.workers.dev}}}
   - {name: 🇮🇷 4FreeIran-1823, server: 165.232.169.142, port: 29332, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6MWU1MTExNjk5YzQ1NDk2ZGE4NDExMmYzNWRiNjY1YzQ}
-  - {name: 🇳🇱 NL-81.171.28.45-057, server: cloudflare.xrenblog.com, port: 443, type: vmess, uuid: a8910831-f56b-4ac4-c68f-e4dd83f71e60, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: cloudflare.xrenblog.com}}}
   - {name: https//t.me/vpn_iossع..._, server: 8.218.206.118, port: 60148, type: vmess, uuid: c33f0e11-3ac7-4225-a03a-f0f33603a3c1, alterId: 0, cipher: auto, tls: false}
   - {name: ir_2✅ @v2rayNG_VPNN - ..., server: avalpardakht.com, port: 80, type: vmess, uuid: 57c3b39a-6e89-4931-ad87-9b7eb0b933f9, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: ir33.arsalanv3.sbs}}}
   - {name: 2993(@Outline_Vpn), server: 54.244.39.181, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
@@ -1921,7 +1926,6 @@ proxies:
   - {name: 🇯🇵 v2rayfree.eu.org - 日本  1_, server: 43.154.90.134, port: 38906, type: vmess, uuid: 6b6dd11a-798c-401e-ba46-d6272e29aca3, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /hk4/getData, headers: {Host: hk4.verichains.co}}}
   - {name: 🇭🇰 v2rayfree.eu.org - 香港A..., server: 18.167.126.63, port: 443, type: vmess, uuid: 2d506805-626a-4669-8c8b-23f383e371ca, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn}}
   - {name: 435_伯利兹-3.13MB, server: 203.30.191.18, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
-  - {name: -欧盟-srv4.shodam.tech, server: srv4.shodam.tech, port: 2053, type: vmess, uuid: c695a1ed-1b3e-45bf-c492-e895fea39cf1, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /@parsashonam, headers: {Host: srv4.shodam.tech}}}
   - {name: 🇺🇸 US-93.179.112.70-065..., server: 93.179.112.70, port: 253, type: ss, cipher: aes-256-cfb, password: bwhskrskr06}
   - {name: 🇻🇳 VN越南 02, server: cf-hk.aoop.top, port: 8080, type: vmess, uuid: a0835719-0de6-4d1b-92cd-ebdbc15ca66a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /jntm=2048, headers: {Host: vn.91ip.xyz}}}
   - {name: ✅ @ShadowSocks_S____, server: 172.67.185.49, port: 2082, type: vmess, uuid: c7b9ce0b-e57d-4202-f833-bfda57b7d25d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Suq7ohg2KzvvGK, headers: {Host: testmci.symodi.ml}}}
@@ -1929,6 +1933,7 @@ proxies:
   - {name: "新[直连]6-流媒体NF", server: sg6.netflix6.com, port: 443, type: vmess, uuid: 784ede01-8b10-3f69-95a3-aa0832557330, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /hls/sg6.m3u8, headers: {Host: sg6.netflix6.com}}}
   - {name: "@ConfigV2RayNG", server: z24.zirogame24.pw, port: 44311, type: vmess, uuid: ebf90cc4-fa2c-4879-ae31-80390b2994a1, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_45 4, server: kaizen-jp-11.mielink-dns2.com, port: 443, type: trojan, password: 265f092f-418b-30c9-a479-4800fd44dd19mielink, sni: paydiu.com, skip-cert-verify: true}
+  - {name: RELAY-173.245.58.221-..., server: 173.245.58.221, port: 443, type: vmess, uuid: 544f7985-cde4-584f-bf09-ea933936ac57, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /api15, headers: {Host: scherehtzhel01.schere.net}}}
   - {name: 40_中国-3.20MB, server: 120.240.236.28, port: 37503, type: ss, cipher: chacha20-ietf-poly1305, password: 58187267-e3eb-44c9-9fa5-9dc3e90a6ea8}
   - {name: 🇺🇸 105_美国-2.85MB, server: 156.225.67.168, port: 41138, type: vmess, uuid: ebec2adf-e940-446f-bed4-d8c91143b54a, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US-66.42.105.84-0319, server: 66.42.105.84, port: 2096, type: vmess, uuid: b6565fe2-d6ae-4f41-f487-8fc8f94a698e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -1951,7 +1956,6 @@ proxies:
   - {name: 🇺🇸 -美国-172.67.96.55, server: 172.67.96.55, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 415_未知国家-3.75MB, server: eu3.glucy.top, port: 443, type: vmess, uuid: ea7e0bc4-739b-4afb-a5cb-4331a257b7ea, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: eu3.glucy.top}}}
   - {name: 3640(@Outline_Vpn), server: 13.51.86.234, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 77_美国-300.7KB, server: woiden.739256.xyz, port: 443, type: vmess, uuid: d05d144a-71a9-4720-8c4e-565257953069, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: woiden.739256.xyz}}}
   - {name: 🇺🇸 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, type: trojan, password: ecae9916-7986-4be6-b217-abe9dadcf33d, sni: 74.120.175.243, skip-cert-verify: true}
   - {name: 🇭🇰 HK(AzadNet.t.me)_10 4, server: 58.152.47.118, port: 443, type: trojan, password: ab93a4c6-00b0-4e29-b979-dfa4071e3dbd, sni: download2hkt.windowsupdate.lol, skip-cert-verify: true}
   - {name: 413_未知国家-5.85MB, server: www.damonhuang.top, port: 443, type: vmess, uuid: 3b6d199e-c090-4a82-8887-815929ba3aff, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: www.damonhuang.top}}}
@@ -1983,19 +1987,17 @@ proxies:
   - {name: "@v2rayng_vpnn اختصاصی_", server: 149.202.153.239, port: 2095, type: vmess, uuid: 2fd04fdb-cd23-40b0-8ae3-e86211a2d6e7, alterId: 0, cipher: auto, tls: false}
   - {name: 36_中国-3.05MB, server: sz.cny.page, port: 31614, type: vmess, uuid: 88c6d12b-614f-485f-83fc-fb0cc57c4801, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: sz.cny.page}}}
   - {name: 4726(@Outline_Vpn), server: 38.54.105.76, port: 27599, type: vmess, uuid: ec95b2cb-e22c-4943-9081-6a2930a33647, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /tk1/getData, headers: {Host: tk1.verichains.co}}}
-  - {name: 🇨🇳 CN(AzadNet.t.me)_22 4, server: official.taipeicitygovernment.kyiv.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
   - {name: 🇺🇸 US(AzadNet.t.me)_12 4, server: freequranbook.uk, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: freequranbook.uk}}}
   - {name: 04/08免费节点|TG频道@kxswa 4, server: 103.21.244.231, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇯🇵 JP-172.104.113.245-4..., server: vjp2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: vjp2.0bad.com}}}
   - {name: 🇯🇵 JP(AzadNet.t.me)_58 4, server: 160.16.207.174, port: 443, type: trojan, password: 18844%40zxcvbn, sni: tk5.cats22.net, skip-cert-verify: true}
   - {name: "@V2RAYNG_ORG", server: 52.158.47.166, port: 30077, type: vmess, uuid: f4246e14-2fc9-4c9a-c0c7-dd4148b1d561, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇹🇷 土耳其01|原生|x5, server: bgptr1.amazon-azure.com, port: 443, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b, headers: {Host: bgptr1.amazon-azure.com}}}
   - {name: Majidreza(@Outline_Vpn), server: 91.107.199.17, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 BGP|日本03|x5, server: bgpjp3.data.amazon-azure.com, port: 443, type: vmess, uuid: 5fdb26b6-fac9-4fe2-8cb3-c0ecd6a1847d, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /aws-china-media/Y699Gjx2rNw.mp4, headers: {Host: bgpjp3.data.amazon-azure.com}}}
   - {name: 4852(@Outline_Vpn), server: 168.119.226.180, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: "| 7.16Mb", server: 193.108.118.36, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
   - {name: 🇭🇰 HK-18.162.228.19-5050, server: 18.162.228.19, port: 443, type: vmess, uuid: 2d506805-626a-4669-8c8b-23f383e371ca, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn}}
   - {name: HamidGoli(@Outline_Vpn), server: mci.anahid.beauty, port: 2053, type: vmess, uuid: a14855b7-1dd3-4286-8e1f-3428d775dd61, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: s1.shahrivar.shop}}}
-  - {name: همراه, server: ham10.numallas.shop, port: 2082, type: vmess, uuid: ae643014-6237-4eb2-df5c-f9357cff2562, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: ham10.numallas.shop}}}
   - {name: 4337(@Outline_Vpn), server: 168.119.174.229, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 4644(@Outline_Vpn), server: 70.34.221.101, port: 29047, type: vmess, uuid: 8b9257c1-38ae-4ae1-9d88-0ff01b90d2ed, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 v2rayfree.eu.org - 美国  5, server: c92s3.jjvip8.com, port: 51589, type: vmess, uuid: 8b06d4d1-5c03-47a7-83e3-1a8c7ae098ab, alterId: 0, cipher: auto, tls: false}
@@ -2087,6 +2089,7 @@ proxies:
   - {name: 五叶节点分享 https//t.me/hkaa0__, server: 198.41.196.149, port: 2095, type: vmess, uuid: 3de8ae4c-f379-42f1-990e-24b7ea6eb457, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us.wyhkaa0.ml}}}
   - {name: 04/08免费节点|TG频道@kxswa__, server: 172.67.18.214, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_1923, server: 172.67.199.32, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV}}
+  - {name: 🇭🇰 HK(AzadNet.t.me)_33 4, server: uk.mjt001.com, port: 443, type: trojan, password: 0a5a2476-ac92-4703-9293-0d4fa5d33308, skip-cert-verify: true}
   - {name: 🇮🇷 4FreeIran-11, server: 81.90.189.152, port: 809, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8}
   - {name: RELAY-104.21.51.102-2277, server: sg.herofree66.tk, port: 443, type: vmess, uuid: 5e3d4757-1395-4843-d498-bf7317470085, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /tg@herhero6, headers: {Host: sg.herofree66.tk}}}
   - {name: ConfigV2RayNG__________, server: 173.245.49.7, port: 443, type: vmess, uuid: 847a92a6-f7f1-42ef-8277-02cf6e379797, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: lsb.jiegebuyao.top}}}
@@ -2097,10 +2100,12 @@ proxies:
   - {name: https//t.me/vpn_ios... 5, server: 3.70.242.173, port: 2053, type: vmess, uuid: 3368f10a-9be9-4231-a564-3a8f4ab756e9, alterId: 0, cipher: auto, tls: false}
   - {name: 2830(@Outline_Vpn), server: 52.208.21.245, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 00. وایفای, server: 23.walidfree23.workers.dev, port: 443, type: vmess, uuid: 795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Amsterdam.kotick.site, headers: {Host: 23.walidfree23.workers.dev}}}
+  - {name: 02. ایرانسل, server: mtnx.ircf.space, port: 443, type: vmess, uuid: F0259D88-2331-4109-A540-B240DFA251F2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Amsterdam.kotick.site, headers: {Host: 2.walidfree2.workers.dev}}}
   - {name: 🇮🇷 4FreeIran-54, server: 167.88.63.11, port: 8090, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3}
   - {name: ConfigV2RayNG___, server: 5.180.180.184, port: 26733, type: vmess, uuid: ae27e7c0-0cf7-4e28-d421-0483fa1a22e5, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-551, server: aus01.paopaocloud.cyou, port: 443, type: vmess, uuid: d8c5b486-84bb-3887-a1d9-07455ea608f2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: aus01.paopaocloud.cyou}}}
   - {name: 🇯🇵 JP(AzadNet.t.me)_53 4, server: os2a.cats22.net, port: 443, type: trojan, password: 18844%40zxcvbn, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_7 4, server: 172.67.217.129, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time}}
   - {name: 🇺🇸 -美国加利福尼亚州圣何塞-103.21...., server: 103.21.244.214, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇭🇰 214_香港-857.2KB, server: 156.245.8.53, port: 44659, type: vmess, uuid: 65ea6727-4461-47a7-a5c4-fef2c67f2f79, alterId: 64, cipher: auto, tls: false}
   - {name: 🇳🇱 NL(AzadNet.t.me)_3 4, server: ping1.yebrahimi.ir, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: ping1.yebrahimi.ir}}}
@@ -2129,6 +2134,7 @@ proxies:
   - {name: 🇺🇸 US-104.225.236.198-0..., server: 104.225.236.198, port: 80, type: vmess, uuid: 17525034-b1c5-46ce-c258-7b9aa966ddb9, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: ✅ @ShadowSocks_S, server: 165.227.38.6, port: 23907, type: vmess, uuid: 4a8079cc-29e2-4533-f877-fbd3ea7e477b, alterId: 0, cipher: auto, tls: false}
   - {name: "|11.83Mb", server: 193.108.117.24, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇦🇷 阿根廷2|原生|X5, server: bgpar2.amazon-azure.com, port: 443, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b, headers: {Host: bgpar2.amazon-azure.com}}}
   - {name: MahsaAmini(@Outline_Vpn), server: 5.75.186.59, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-396, server: 38.68.134.48, port: 7001, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH}
   - {name: "@v2rayNG_VPNN-adfqawfq...", server: 45.85.119.0, port: 2052, type: vmess, uuid: a9144feb-0857-4203-892d-f7ad5940d31f, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: aa.v2jey.fun}}}
@@ -2208,7 +2214,6 @@ proxies:
   - {name: 04/11免费节点|TG频道@kxswa______, server: 104.16.15.109, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /huhublog, headers: {Host: zhuyong.hucloud-dns.xyz}}}
   - {name: 3726(@Outline_Vpn), server: 3.249.78.30, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: "@v2rayNG_VPNN - اختصاص...", server: grpc.freenet.sbs, port: 5887, type: vmess, uuid: 6a74446a-d364-4c80-9aa4-cd4f1437d9d3, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 -美国-bgpth1.amazon-az..., server: bgpth1.amazon-azure.com, port: 443, type: vmess, uuid: d310f62c-6d12-4354-a2a4-460c0994ece7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b, headers: {Host: bgpth1.amazon-azure.com}}}
   - {name: ZA-129.151.164.152-1850, server: 129.151.164.152, port: 55600, type: vmess, uuid: e30f8588-2555-48b8-c354-c8e63f57232d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇮🇷 4FreeIran-783, server: twb-zf.jiashumao.net, port: 25888, type: trojan, password: e2afc128-ca51-39b6-897c-eb2649825df9, skip-cert-verify: false}
   - {name: 🇮🇷 4FreeIran-246, server: 162.251.61.47, port: 800, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8}
@@ -2232,6 +2237,7 @@ proxies:
   - {name: 052@oneclickvpnkeys, server: 1000.100-1000.ir, port: 2052, type: vmess, uuid: 776e05e8-a4bd-4782-83b4-6bfc2465211d, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /graphql, headers: {Host: 1000.100-1000.ir}}}
   - {name: 🇨🇳 Relay 🇹🇼 Taiwan(ChatGP...___, server: 223.166.157.46, port: 63088, type: vmess, uuid: c796ecaf-e6ca-3eba-96d3-21df44550cbc, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /mugua, headers: {Host: tw-load-balancer.myn1des.com}}}
   - {name: 🇭🇰 Hong Kong 40 TG@no..., server: awshk1-zj.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
+  - {name: 68_中国-9.12MB, server: gz.daxun.cyou, port: 38002, type: vmess, uuid: 19aecb41-12fb-4203-be0f-8bf055a01adf, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-1757, server: taobao.babazhuji.com, port: 443, type: vmess, uuid: 2a4918de-adce-4c4e-aa00-88a4227cf6ea, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /didi, headers: {Host: taobao.babazhuji.com}}}
   - {name: RELAY-162.159.7.84-0296, server: 162.159.7.84, port: 80, type: vmess, uuid: 735ff430-9d1a-4f57-fb66-e43a26a76f70, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ccpp, headers: {Host: ccpp.91pan.one}}}
   - {name: 🇯🇵 Japan(ChatGPT) 11 T..., server: awsjp5-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
@@ -2240,7 +2246,6 @@ proxies:
   - {name: 🇨🇳 Taiwan(ChatGPT) 21 ..., server: 165.154.253.141, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: کانال  V2rayNG_Outline@_____, server: 52.56.64.165, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇩🇪 DE(AzadNet.t.me)_3 4, server: 51.75.76.22, port: 443, type: trojan, password: c60fbf90-4b55-11ed-b935-225401db9d57, skip-cert-verify: true}
-  - {name: 🇺🇸 TG@hkaa0|美国__, server: jpadwinfs.114514782.xyz, port: 2052, type: vmess, uuid: 5f9c7bda-33f9-3dd0-bcf5-aca324418e31, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /jwafgfdt, headers: {Host: jpadwinfs.114514782.xyz}}}
   - {name: 🇦🇺 澳大利亚, server: au1.netflix6.com, port: 11168, type: vmess, uuid: 784ede01-8b10-3f69-95a3-aa0832557330, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /v2ray, headers: {Host: au1.netflix6.com}}}
   - {name: 🇮🇷 4FreeIran-1843, server: 51.38.118.42, port: 811, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw}
   - {name: 🇮🇷 4FreeIran-280, server: 167.88.63.21, port: 8119, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO}
@@ -2248,6 +2253,7 @@ proxies:
   - {name: "@v2rayng_org___", server: 3.39.6.80, port: 16333, type: vmess, uuid: 009002a7-058e-4f5c-bc5c-ec7b038ab672, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-1284, server: 38.143.66.87, port: 6697, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T}
   - {name: 412_未知国家-5.06MB, server: hg02.wruox.cf, port: 2096, type: vmess, uuid: 69e92166-f2e7-4093-a98b-5113711fb0e7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: hg02.wruox.cf}}}
+  - {name: 🇩🇪 DE-172.105.251.205-0..., server: series7.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0r91Aj1MeFRSvoy6}
   - {name: "|12.23Mb", server: 134.195.196.178, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 4640(@Outline_Vpn), server: 49.12.73.179, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇰🇷 韩国【付费推荐：https//tt.vg/..., server: cloud.cluster.download.cloudsys.buzz, port: 80, type: vmess, uuid: 522e8c21-156c-4125-b821-755956840e64, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ac9c9cf8-d1c3-4eb7-aa66-5052edaf9a94.ts, headers: {Host: cloud.cluster.download.cloudsys.buzz}}}
@@ -2256,6 +2262,7 @@ proxies:
   - {name: 4706(@Outline_Vpn), server: 78.46.163.38, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇦🇺 AU(AzadNet.t.me)_1 4, server: syd14.yukiss.eu.org, port: 18818, type: trojan, password: 8a03bc28-2a33-42c4-be59-30464dbb9954, skip-cert-verify: true}
   - {name: RELAY-104.24.64.240-1..., server: 104.24.64.240, port: 8880, type: vmess, uuid: a5c804aa-8a4d-4fd2-97a1-4f0cc1384953, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /hkaa0, headers: {Host: sg1021.hkaa0.tk}}}
+  - {name: ✅ @ShadowSocks_S__, server: srv6.digimovie.tech, port: 2096, type: vmess, uuid: b071af56-0062-480d-9b5d-e7f49d314f14, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /@parsashonam, headers: {Host: example6.digimovie.tech}}}
   - {name: 04/05免费节点|TG频道@kxswa_, server: sa.steamdownload.top, port: 36632, type: trojan, password: 987fb87b-fc03-426a-bc9a-a5c065535d05, sni: data.xn--vur082k.cc, skip-cert-verify: false}
   - {name: 04/08免费节点|TG频道@kxswa 5_, server: 172.67.119.160, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇯🇵 Japan 27 TG@nodpai, server: awsjp14-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
@@ -2320,6 +2327,7 @@ proxies:
   - {name: 4361(@Outline_Vpn), server: 3.145.74.184, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 Japan 22 TG@nodpai, server: awsjp19-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: 🇨🇳 CN-116.129.253.105-6383, server: 116.129.253.105, port: 50033, type: vmess, uuid: af01c6dd-9eb0-349e-83a7-7c63ac2d069a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /v2ray, headers: {Host: 116.129.253.105}}}
+  - {name: 🇯🇵 Relay 🇯🇵 Japan 12 TG@..., server: jp.iepl.pinssr.ml, port: 22549, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNDgwMDdlNS1mYWI3LTRiOWItOGRmNC03MTgwMDFkODVhNzM}
   - {name: 🇭🇰 HK-58.152.67.136-18838, server: hgc1.tcpbbr.net, port: 80, type: vmess, uuid: 67c2c86e-58df-11ec-bd7c-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: hgc1.tcpbbr.net}}}
   - {name: "|18.44Mb", server: 3.99.152.11, port: 50000, type: ss, cipher: aes-256-cfb, password: "!<str> 3135771619"}
   - {name: 🇩🇪 DE-172.104.132.14-07..., server: 172.104.132.14, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0r91Aj1MeFRSvoy6}
@@ -2408,6 +2416,7 @@ proxies:
   - {name: 4412(@Outline_Vpn), server: z76.zirogame76.pw, port: 18557, type: vmess, uuid: 561d0e58-cdee-45cd-f5ff-24ebc08415c4, alterId: 0, cipher: auto, tls: false}
   - {name: 4034(@Outline_Vpn), server: 8.218.150.29, port: 31595, type: vmess, uuid: 2c370b03-c322-4ddc-81f1-67ac84e8d09b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇮🇷 4FreeIran-1089, server: 79.133.110.137, port: 1002, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1h2WjdvenJWMDQ2RjRwOHE2NTAxTEg}
+  - {name: 🇺🇸 US(AzadNet.t.me)_70 4, server: 104.21.53.66, port: 443, type: vmess, uuid: d05d144a-71a9-4720-8c4e-565257953069, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: 🇯🇵 Japan 17 TG@nodpai, server: awsjp11-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: "港1[直连]-流媒体NF", server: v2hk1.594888.xyz, port: 35203, type: vmess, uuid: 784ede01-8b10-3f69-95a3-aa0832557330, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /maohk1, headers: {Host: v2hk1.594888.xyz}}}
   - {name: 🇭🇰 426_香港-1.28MB, server: 156.245.8.246, port: 38930, type: vmess, uuid: 964bf499-9ec0-4378-92b6-87d8d861b2d0, alterId: 64, cipher: auto, tls: false}
@@ -2446,7 +2455,6 @@ proxies:
   - {name: 3224(@Outline_Vpn), server: 3.8.137.52, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: "@vpn_ocean", server: 13.213.45.172, port: 26704, type: vmess, uuid: 95ab0ae8-63a4-4f17-cd60-fd17d579489a, alterId: 0, cipher: auto, tls: false}
   - {name: 04. رایتل, server: rtl.ircf.space, port: 443, type: vmess, uuid: DCE76061-EE65-49DB-997C-A6A880DADE3A, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /speedtest/Amsterdam.kotick.site, headers: {Host: 4.walidfree4.workers.dev}}}
-  - {name: 4761(@Outline_Vpn), server: mqtt.ranginkamaan.de, port: 80, type: vmess, uuid: d3990020-4d90-4d1a-bd6b-61d506ff7038, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /graphql, headers: {Host: riky.mqtt.kyann.de}}}
   - {name: 2939(@Outline_Vpn), server: 167.235.70.15, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 Hong Kong 06 TG@no..., server: awshk14-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: 🇺🇸 US(AzadNet.t.me)_65 4, server: 43.153.34.170, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: anetwork.ir, skip-cert-verify: true}
@@ -2457,6 +2465,7 @@ proxies:
   - {name: 🇭🇰 v2rayfree.eu.org - 香港A..._, server: hk6.sanfen001.pics, port: 443, type: vmess, uuid: 3a97d3b0-54ee-47fc-a11a-f7091c7a0408, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /zh-cn, headers: {Host: hk1.sanfen001.pics}}}
   - {name: 🇮🇷 4FreeIran-1603, server: 172.64.144.100, port: 443, type: vmess, uuid: 6e9217de-ad7e-4a67-bd17-a6dca951733b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: lg3.zhujicn2.com}}}
   - {name: 4217(@Outline_Vpn), server: 45.85.118.47, port: 2086, type: vmess, uuid: 71806f3d-472f-4422-a093-7cc3f45bfd3e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: arsd.arsalanv3.sbs}}}
+  - {name: 🇺🇸 TG@hkaa0|美国, server: dbamwv.76898102.xyz, port: 2082, type: vmess, uuid: 5f9c7bda-33f9-3dd0-bcf5-aca324418e31, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tadvchk, headers: {Host: dbamwv.76898102.xyz}}}
   - {name: 🇺🇸 -美国-3.99.173.57, server: 3.99.173.57, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 -美国加利福尼亚州圣何塞-103.21...._, server: 103.21.244.33, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇯🇵 183_日本-514.1KB, server: 43.207.120.229, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -2480,7 +2489,6 @@ proxies:
   - {name: 🇮🇷 4FreeIran-158, server: 152.67.213.242, port: 443, type: vmess, uuid: 9aa80017-3427-4165-a522-f5f9a11330d0, alterId: 0, cipher: auto, tls: true}
   - {name: 2784(@Outline_Vpn), server: 5.75.187.226, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇩🇪 DE-5.75.198.117-0222, server: 5.75.198.117, port: 80, type: vmess, uuid: e30cf2d5-1210-4c9d-8c1b-6c9acb773579, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: YTB-awkj}}}
-  - {name: 🇮🇷 4FreeIran-1741, server: sgamd.ptuu.tk, port: 443, type: vmess, uuid: 80f1e736-4b86-4e31-80d1-aac867666095, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /123, headers: {Host: sgamd.ptuu.tk}}}
   - {name: 🇺🇸 US-172.96.192.100-06..., server: 172.96.192.100, port: 246, type: ss, cipher: aes-256-cfb, password: bwhskrskr05}
   - {name: 🇮🇷 4FreeIran-1800, server: ee.oppo.quest, port: 80, type: vmess, uuid: f9247df4-02d5-4b31-acc5-4022652c5953, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /aries, headers: {Host: ee.oppo.quest}}}
   - {name: 🇺🇸 -美国-200.aquabazi.site, server: 200.aquabazi.site, port: 443, type: vmess, uuid: 0b873cff-11ab-4716-c41a-04f886135091, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /suzhihan.eu.org/roewesu, headers: {Host: 200.aquabazi.site}}}
@@ -2488,7 +2496,6 @@ proxies:
   - {name: 🇰🇷 KR-130.162.143.109-1584, server: 130.162.143.109, port: 42422, type: vmess, uuid: a9f0ac04-83bd-43d8-d916-b73366a4f783, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue}}
   - {name: 🇯🇵 JP-43.207.108.0-2685..., server: 43.207.108.0, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: https//t.me/vpn_iossع...________, server: z.dachef.top, port: 2086, type: vmess, uuid: a06e3a23-e81c-4040-a2fc-53a50d080890, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: z.dachef.top}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_81 4, server: 172.67.222.57, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time}}
   - {name: 🇺🇸 US-23.224.202.83-2524, server: 23.224.202.83, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/080712342310}}
   - {name: RELAY-185.148.104.215..., server: 185.148.104.215, port: 2053, type: vmess, uuid: 0268eba3-522d-43f2-ba0e-93674fa8017a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /Telegram-@VPNHouse_Official, headers: {Host: dl.mmdmahdi.tk}}}
   - {name: https//t.me/vpn_ios... 11, server: 8.218.150.152, port: 45106, type: vmess, uuid: aa7f7fd3-8f88-45c7-9e27-a03380d6cc89, alterId: 0, cipher: auto, tls: false}
@@ -2505,7 +2512,6 @@ proxies:
   - {name: "@v2rayNG_VPNN__", server: www.speedtest.net, port: 2052, type: vmess, uuid: 6066abf1-cdb1-4818-d35a-7c8e0ee90320, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: ee.v2jey.fun}}}
   - {name: 3624(@Outline_Vpn), server: 44.199.194.12, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HK(AzadNet.t.me)_18 4, server: 20.205.103.131, port: 443, type: trojan, password: 7f9ef59e-20fb-4343-bafc-3a84fa22fe70, sni: ru01.awcloud.top, skip-cert-verify: true}
-  - {name: 🇩🇪 DE-143.42.26.44-0789..., server: 143.42.26.44, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0r91Aj1MeFRSvoy6}
   - {name: speednode_0240, server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: RELAY-104.18.26.157-7535, server: 104.18.26.157, port: 8880, type: vmess, uuid: a5c804aa-8a4d-4fd2-97a1-4f0cc1384953, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /hkaa0, headers: {Host: sg1021.hkaa0.tk}}}
   - {name: "@ConfigV2RayNG🕊اگه قط..._", server: 80.92.204.109, port: 11006, type: vmess, uuid: 5ed4db2a-837d-44e6-a1dd-c1907900e341, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
@@ -2553,7 +2559,6 @@ proxies:
   - {name: 3830(@Outline_Vpn), server: 3.71.90.133, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇰🇷 KR-146.56.44.34-2297, server: 146.56.44.34, port: 443, type: vmess, uuid: b340e360-b215-4c73-8b58-018ba0d0c4bf, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /qq}}
   - {name: 🇭🇰 223_香港-3.10MB, server: 156.245.8.66, port: 40519, type: vmess, uuid: 5a4d69ad-20a9-4941-b223-87bbd09f5f52, alterId: 64, cipher: auto, tls: false}
-  - {name: 2_中国-2.08MB, server: szct.lele233.top, port: 26319, type: ss, cipher: aes-128-gcm, password: a46480ac-45b8-4e60-8096-46a3d574b828}
   - {name: "|16.77Mb", server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇮🇷 4FreeIran-7, server: 185.204.1.253, port: 443, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI}
   - {name: 🇭🇰 HK-18.163.111.221-1180, server: 18.163.111.221, port: 80, type: vmess, uuid: 8216e1fd-7f67-440d-9a63-51d0f6c38b10, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /zh-cn/}}
@@ -2585,11 +2590,9 @@ proxies:
   - {name: 🇮🇷 4FreeIran-340, server: jgwdb4.gaox.ml, port: 443, type: trojan, password: d06a3f01-1ff0-4792-9b8e-a5a604bc74a2, skip-cert-verify: false}
   - {name: 04/08免费节点|TG频道@kxswa______, server: 162.159.36.76, port: 2095, type: vmess, uuid: 156839c4-8c73-44de-87ac-46ecab2b0a12, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us202345.wyhkaa0.ml}}}
   - {name: 🇩🇪 DE(AzadNet.t.me)_4 4, server: 168.119.58.112, port: 80, type: vmess, uuid: e42d68db-4297-4c17-b5cf-44d421aef400, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇮🇷 4FreeIran-1657, server: ccdc2.6252369.xyz, port: 8443, type: vmess, uuid: f8949dfe-c501-453c-96b6-6786fb03d5f9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vxt99, headers: {Host: ccdc2.6252369.xyz}}}
   - {name: 2788(@Outline_Vpn), server: 47.243.187.171, port: 60808, type: vmess, uuid: 99c3c1c3-c27c-49a0-9c2c-7c77c3d92bf6, alterId: 0, cipher: auto, tls: false}
   - {name: RELAY-190.93.247.166-..., server: 190.93.247.166, port: 80, type: vmess, uuid: 735ff430-9d1a-4f57-fb66-e43a26a76f70, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ccpp, headers: {Host: ccpp.91pan.one}}}
   - {name: 🇺🇸 United States 04 TG..., server: awsus1-data.amazon-azure.com, port: 80, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /aws-china-media/Y699Gjx2rNw.mp4, headers: {Host: media.amazonwebservices.com}}}
-  - {name: 🇺🇸 222_美国-277.7KB, server: cdn.yuntujisu.ml, port: 2052, type: vmess, uuid: d59b24b1-b475-4d44-be46-a18563a87711, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: cdn.yuntujisu.ml}}}
   - {name: 🇮🇷 4FreeIran-203, server: 167.88.63.60, port: 8091, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3}
   - {name: 🇸🇬 185_新加坡-1.43MB, server: 13.212.61.111, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇸 US(AzadNet.t.me)_89 4, server: cf-topspeedv4.uk, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: cf-topspeedv4.uk}}}
@@ -2616,10 +2619,10 @@ proxies:
   - {name: 🇸🇬 SG-167.71.216.229-2745, server: 167.71.216.229, port: 45610, type: vmess, uuid: e15ab3cb-42c4-4316-b25f-fcbca7888135, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇰🇷 KR-13.125.251.144-6175, server: 13.125.251.144, port: 58588, type: vmess, uuid: 2a337268-ce87-4952-b815-512d3bac2132, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: "|14.09Mb", server: 38.75.136.102, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: RELAY-104.21.234.239-..., server: jp05.cctvvip.ml, port: 443, type: vmess, uuid: 12dc16dd-1118-457c-9ddf-453996cd7920, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /cctv13.m3u8, headers: {Host: jp05.cctvvip.ml}}}
   - {name: 五叶节点分享 https//t.me/hkaa0, server: 198.41.197.157, port: 2095, type: vmess, uuid: 3de8ae4c-f379-42f1-990e-24b7ea6eb457, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg:@hkaa0, headers: {Host: us.wyhkaa0.ml}}}
   - {name: 🇯🇵 IEPL+·+日本JP+·+209+·+茂名联通, server: 120.82.67.125, port: 28132, type: trojan, password: zYNLlN, skip-cert-verify: true}
   - {name: 🇯🇵 海外|日本|1x - TTK, server: outline-jp.ttkcloud.buzz, port: 33333, type: trojan, password: ecae9916-7986-4be6-b217-abe9dadcf33d, sni: 74.120.175.243, skip-cert-verify: true}
-  - {name: 🇺🇸 US(AzadNet.t.me)_37 4, server: cf-topspeedoneplus.uk, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: cf-topspeedoneplus.uk}}}
   - {name: Relay_-🇺🇸US_279, server: 00000000000000000000000000000000000000000000000000000000000034a.node-for-bigairport.win, port: 12356, type: vmess, uuid: 78065c14-fc80-40b5-a46c-0e34efdf82fa, alterId: 0, cipher: auto, tls: false}
   - {name: 2866(@Outline_Vpn), server: 54.74.236.149, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 US-174.139.21.29-15136, server: 174.139.21.29, port: 55427, type: vmess, uuid: b2be0601-24c7-43fb-b310-094e45cc14e4, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /us12/getData}}
@@ -2692,7 +2695,6 @@ proxies:
   - {name: 🇮🇷 4FreeIran-646, server: 00000000000000000000000000000000000000000000000000000000000002a.node-for-bigairport.win, port: 443, type: vmess, uuid: 78065c14-fc80-40b5-a46c-0e34efdf82fa, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 00000000000000000000000000000000000000000000000000000000000002a.node-for-bigairport.win}}}
   - {name: 🇯🇵 414_日本-5.46MB, server: jp4.microsoftjs.top, port: 443, type: vmess, uuid: bfd69e87-386d-4206-903e-9c0df8a8bfcf, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: jp4.microsoftjs.top}}}
   - {name: 🇨🇳 Taiwan(ChatGPT) 17 ..., server: 165.154.246.33, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
-  - {name: 🇷🇴 211_罗马尼亚-3.77MB, server: eblis.viporg12345.info, port: 8443, type: vmess, uuid: 6811b2a8-c70d-4914-fd52-a7de9044bc35, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: eblis.viporg12345.info}}}
   - {name: 🇬🇧 GB-212.102.53.195-07..., server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: IR_12, server: 46.209.20.209, port: 31270, type: vmess, uuid: d591b877-8ae3-4f96-d327-4673a236e1c8, alterId: 0, cipher: auto, tls: false, network: http, http-opts: {method: GET, path: [/]}}
   - {name: 4-✅ @v2rayNG_VPNN - رف..., server: i4.arsalanv3.sbs, port: 16925, type: vmess, uuid: da7682fe-b357-4432-d456-98cb3d3222f2, alterId: 0, cipher: auto, tls: false}
@@ -2764,7 +2766,6 @@ proxies:
   - {name: 🇺🇸 US-173.82.155.24-14709, server: us1.grpc.stream, port: 80, type: vmess, uuid: 6031b5c3-d8ba-5756-b708-f61084a2b678, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /us1, headers: {Host: us1.grpc.stream}}}
   - {name: Midnight(@Outline_Vpn)_, server: 65.21.55.168, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 3541(@Outline_Vpn), server: im.govermentco.space, port: 443, type: vmess, uuid: ac5048f2-b8c7-44bf-e310-80538addbced, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: hame.govermentco.space}}}
-  - {name: 🇨🇳 CN(AzadNet.t.me)_5 4, server: official.taipeicitygovernment.ivano-frankivsk.ua, port: 8443, type: trojan, password: 96983eb4-c8f1-316e-ab00-500014ed3d8b, skip-cert-verify: true}
   - {name: 🇭🇰 395_香港-4.04MB, server: 43.155.70.24, port: 46106, type: vmess, uuid: ce3f0b98-7414-498e-9d0d-20cc37360896, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
   - {name: AydaRostami(@Outline_Vpn), server: 8.218.204.207, port: 34579, type: vmess, uuid: d1feb230-d383-4c0f-8ad1-344d65e96b01, alterId: 0, cipher: auto, tls: false}
   - {name: 🇰🇷 _KR_韩国_38, server: 43.201.48.212, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -2794,7 +2795,6 @@ proxies:
   - {name: 🇺🇸 US-103.149.145.129-0204, server: sea12.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /clientarea, headers: {Host: sea12.nb1.fr}}}
   - {name: US_@youtube资源分享师_256, server: 172.67.68.8, port: 443, type: trojan, password: 0bc8c688-e142-4a64-8885-f8c7498f8a90, sni: tro4replit.bunnylblbblbl.eu.org, skip-cert-verify: true}
   - {name: 🇺🇸 -美国-142.4.127.28, server: 142.4.127.28, port: 50013, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: RELAY-104.22.5.240-010..., server: quiz.vidio.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dynamic-sg3b.obfs.xyz}}}
   - {name: RELAY-104.17.192.106-..., server: 104.17.192.106, port: 80, type: vmess, uuid: 735ff430-9d1a-4f57-fb66-e43a26a76f70, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /ccpp, headers: {Host: ccpp.91pan.one}}}
   - {name: KGDID(@Outline_Vpn), server: 157.90.164.117, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: کانال  V2rayNG_Outline@__________, server: 3.11.240.5, port: 11111, type: vmess, uuid: 7cb72883-9635-46eb-8531-8d697927ff04, alterId: 0, cipher: auto, tls: false}
@@ -2846,9 +2846,9 @@ proxies:
   - {name: 🇫🇷 FR-35.181.130.16-7102, server: fr-ls03.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /clientarea, headers: {Host: fr-ls03.nb1.fr}}}
   - {name: 🇺🇸 美国 凤凰城101, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: 32e05686-4e90-316b-8aa9-3d7b54fa3c9d, sni: pxvip101.qlgq1.pw, skip-cert-verify: true}
   - {name: 🇺🇸 United States 32 TG..., server: awsus2-data.amazon-azure.com, port: 80, type: vmess, uuid: fa7e175b-fc36-4840-bb92-de40e0eccf35, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /aws-china-media/Y699Gjx2rNw.mp4, headers: {Host: media.amazonwebservices.com}}}
-  - {name: 🇺🇸 美国 071 2, server: cooing-luxuriant-blue.glitch.me, port: 443, type: vmess, uuid: 80e7dd59-b1fc-45a0-98be-1478a9af89f2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /api, headers: {Host: cooing-luxuriant-blue.glitch.me}}}
   - {name: 🇸🇬 240_新加坡-687.2KB, server: 103.83.157.182, port: 8080, type: vmess, uuid: 5d667691-c393-4de9-8962-9bea18bfca9e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇺🇸 212_美国-3.48MB, server: 98.126.18.110, port: 23696, type: vmess, uuid: 9b0b3826-3a7b-41b4-924a-8a77596c8708, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇸 -美国-us07.cctvvip.ml, server: us07.cctvvip.ml, port: 443, type: vmess, uuid: 17c0415c-2557-451d-f017-0486f47dc329, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /cctv13.m3u8, headers: {Host: us07.cctvvip.ml}}}
   - {name: "|26.70Mb", server: 38.114.114.104, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇫🇷 FR-5.135.43.119-4358, server: 5.135.43.119, port: 58732, type: vmess, uuid: d159c5be-8291-45c4-bd21-51d024658a6d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇸🇬 _SG_新加坡 3 2, server: 13.215.183.79, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6ZG91Yi5pbw==}
@@ -2891,6 +2891,7 @@ proxies:
   - {name: 🇺🇸 美国2|tg频道@ripaojiedian, server: 155.138.242.39, port: 8313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg}
   - {name: FI-65.109.213.45-6190, server: 65.109.213.45, port: 80, type: vmess, uuid: cda69196-aa57-466d-c022-6db0227a28f4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇯🇵 JP-43.207.225.151-24..., server: 43.207.225.151, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: "🇨🇳 台湾=tg频道@bpjzx2=4\r", server: piniatw01.abbblog.xyz, port: 37924, type: ss, cipher: ss, password: //YWVzLTEyOC1nY206NjY1MmE1MTctMzZkYS00ZGI0LTk2MDctMzI2YzJkYjlhYTcw}
   - {name: 3521(@Outline_Vpn), server: 162.159.129.81, port: 2052, type: vmess, uuid: 5bf2cd5c-f6cd-4d9b-a119-bdc329cb243b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /saralans, headers: {Host: webshecan3.symodi.ml}}}
   - {name: 🇺🇸 138_美国-1.67MB, server: 156.225.67.188, port: 55596, type: vmess, uuid: 9549a2cf-129b-43a1-88db-ef7f648de74a, alterId: 64, cipher: auto, tls: false}
   - {name: MO(AzadNet.t.me)_2 4, server: 45.64.22.23, port: 443, type: trojan, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, sni: reooec.freetrade.link, skip-cert-verify: true}
@@ -2963,42 +2964,32 @@ proxies:
   - {name: 🇰🇷 South Korea 02 TG@..., server: awskr2-data.amazon-azure.com, port: 443, type: trojan, password: fa7e175b-fc36-4840-bb92-de40e0eccf35, sni: data.amazon-azure.com, skip-cert-verify: true}
   - {name: 🇮🇳 -印度-49.12.222.5, server: 49.12.222.5, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 v2rayfree.eu.org - 日本  1__, server: 43.156.19.14, port: 48317, type: vmess, uuid: 98821111-93ab-4562-946a-61ba95f472f1, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /sg8/getData, headers: {Host: sg8.verichains.co}}}
-  - {name: "_[PF][数据网络]Scaleway-圣卢西亚Digicel 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: nls.cloudflare.quest}}}
   - {name: 纽约测试|@ripaojiedian, server: 216.52.183.242, port: 80, type: ss, cipher: aes-128-gcm, password: 83XvX4Vo%*3a, plugin: obfs, plugin-opts: {mode: "", host: ""}}
   - {name: "🇮🇳 _[PF][移动数据]Scaleway_印度BeamTelecom 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ft.cloudflare.quest}}}
-  - {name: "_[无审计][DONATE]BuyVM_黑弩捐赠 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: lsb-aries.heinu.cf}}}
-  - {name: "_[原生]pilw 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ee.cloudflare.quest}}}
+  - {name: VirMach 2, server: VirMach.JP.securevpn.cc, port: 1020, type: ss, cipher: aes-128-gcm, password: "!<str> 202304300000000000000020", plugin: obfs, plugin-opts: {mode: http, host: bulianglin.com}}
   - {name: "🇺🇸 [04-11]-🇺🇸-美国华盛顿-8397-38.91.100.134", server: 38.91.100.134, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: "_[WARP]Scaleway 3", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: scw-nl.cloudflare.quest}}}
-  - {name: 🇨🇳 _US_美国->🇹🇼_TW_台湾, server: cf.noaries.de, port: 2082, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
-  - {name: US_FreeNode.me_3, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: fr.cloudflare.quest}}}
-  - {name: US_FreeNode.me_19, server: www.nivod4.tv, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: lg2.v2ray6.xyz}}}
+  - {name: "_[PF][数据中心]VNPT-孟加拉AmberIT 2", server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: vn.cloudflare.quest}}}
+  - {name: US_FreeNode.me_10, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv1.sharecentrepro.org}}}
   - {name: US_FreeNode.me_31, server: 4bb4ced4.ikunxiao.top, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /index, headers: {Host: 4bb4ced4.ikunxiao.top}}}
   - {name: US_FreeNode.me_43, server: 45.79.131.52, port: 34708, type: ss, cipher: chacha20-ietf-poly1305, password: "!<str> 2465529435"}
+  - {name: US_FreeNode.me_51, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: aws-usa.cloudflare.quest}}}
+  - {name: US_FreeNode.me_74, server: 4bb4ced4.8200860.xyz, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /index, headers: {Host: 4bb4ced4.8200860.xyz}}}
+  - {name: US_FreeNode.me_77, server: 1024.day, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /5QNROSRV, headers: {Host: lg2.v2ray6.xyz}}}
   - {name: US_FreeNode.me_92, server: els200.jslist.tk, port: 8443, type: vmess, uuid: e30cfa80-bc2c-43df-e808-97876aee77e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /wo.php, headers: {Host: els200.jslist.tk}}}
-  - {name: CN_FreeNode.me_99, server: piniahk01.abbblog.xyz, port: 37903, type: ss, cipher: aes-128-gcm, password: e742e65f-3042-47cb-addd-ce217aaa100d}
   - {name: US_FreeNode.me_114, server: foxpol2.fovi.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxpol2.fovi.tk}}}
-  - {name: US_FreeNode.me_122, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 2e496758-950e-4549-8842-d5eec98d9fde, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv3.sharecentrepro.org}}}
   - {name: US_FreeNode.me_126, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: nls.cloudflare.quest}}}
   - {name: US_FreeNode.me_155, server: r2wind.com, port: 80, type: vmess, uuid: f6aa4440-e7be-44e1-80e1-7e45ccd796cc, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}}
-  - {name: US_FreeNode.me_166, server: cf.noaries.de, port: 2082, type: vmess, uuid: 314c1387-618c-4689-97fc-4bc9a1ae5e05, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: ir2.nmsl.ninja}}}
-  - {name: US_FreeNode.me_171, server: cf.noaries.de, port: 8080, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.cloudflare.quest}}}
-  - {name: US_FreeNode.me_177, server: cf.fovi.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxuk.fovi.tk}}}
-  - {name: US_FreeNode.me_240, server: vi.mot20.ga, port: 8080, type: vmess, uuid: 342e932e-d990-4ad4-b38a-837a8ed3463c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: vi.mot20.ga}}}
-  - {name: US_FreeNode.me_267, server: quiz.vidio.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /worryfree, headers: {Host: dynamic-sg3b.obfs.xyz}}}
-  - {name: US_FreeNode.me_287, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: buyvm.cloudflare.quest}}}
+  - {name: SG_FreeNode.me_157, server: cloud.cluster.download.cloudsys.buzz, port: 80, type: vmess, uuid: 522e8c21-156c-4125-b821-755956840e64, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /msg, headers: {Host: cloud.cluster.download.cloudsys.buzz}}}
+  - {name: US_FreeNode.me_167, server: quiz.vidio.com, port: 443, type: vmess, uuid: e6442903-4753-4783-8916-ac47c8080e4f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dynamic-sg3b.obfs.xyz}}}
+  - {name: US_FreeNode.me_206, server: cf.fovi.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxpol2.fovi.tk}}}
   - {name: 🇭🇰 HK|tg频道@ripaojiedian, server: 47.243.196.220, port: 52738, type: ssr, cipher: dummy, password: "!<str> 8236723", protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: RELAY-104.21.0.212-002, server: usv6warp.happyfree.top, port: 8443, type: vmess, uuid: edf140f1-35e9-4160-b5a0-6b27f3419a6f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: usv6warp.happyfree.top}}}
-  - {name: RELAY-172.67.29.184-018, server: cf.noaries.de, port: 2052, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
+  - {name: RELAY-172.67.29.184-003, server: cf.noaries.de, port: 2086, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: RELAY-104.21.31.232-161, server: hk01.kelecloud.xyz, port: 443, type: vmess, uuid: fcca4d06-3d1a-4d11-b2bb-d8b87d0aa91c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /qwerty, headers: {Host: hk01.kelecloud.xyz}}}
-  - {name: RELAY-172.64.80.1-164, server: dj02.yumili.cf, port: 2096, type: vmess, uuid: c5cd4673-78de-43cd-b461-dd245c51f7b1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: dj02.yumili.cf}}}
-  - {name: 🇺🇸 US-76.76.21.142-188, server: www.v2rayfree.eu.org, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 🇺🇸 _US_美国_1_0@0, server: 172.64.154.155, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com}}
   - {name: 🇰🇷 _KR_韩国_1_0@5, server: 43.201.86.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 _KR_韩国_2_0@6, server: 43.201.37.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 _SG_新加坡_0@15, server: xw.zemzoh.cf, port: 29542, type: trojan, password: GVGbsjXG, skip-cert-verify: true}
   - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国_1_0@24, server: quranweb40.xyz, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: quranweb40.xyz}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国_3_0@32, server: cf-topspeedonline.uk, port: 443, type: vmess, uuid: 8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /current_time, headers: {Host: cf-topspeedonline.uk}}}
   - {name: 🇺🇸 _BZ_伯利兹->🇺🇸_US_美国_0@37, server: 203.30.191.4, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: _BZ_伯利兹_0@38, server: 203.30.191.9, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: 🇺🇸 _US_美国_1_1@3, server: 148.59.74.196, port: 443, type: trojan, password: 2ea5fc44-bd38-4fb0-a9b9-88c83fc56622, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: true}
@@ -3007,22 +2998,20 @@ proxies:
   - {name: 🇺🇸 _US_美国_4_1@23, server: v2.emovpn.xyz, port: 443, type: vmess, uuid: 01e5d674-9212-47a8-8653-298e21be6560, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: v2.emovpn.xyz}}}
   - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港_1_1@29, server: lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou, port: 12324, type: trojan, password: 001a5927-bcf7-368a-8a4d-cb8c2fd6aab5, sni: lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou, skip-cert-verify: true}
   - {name: 🇯🇵 _JP_日本_3_1@38, server: 141.147.149.101, port: 443, type: vmess, uuid: b3b6c94b-01a4-4760-ce8b-d7f3f443b7f0, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 _US_美国_9_1@44, server: kh1.scproxy.top, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: kh1.scproxy.top}}}
   - {name: 🇯🇵 _CN_中国->🇯🇵_JP_日本_1_2@3, server: b7878d49-5541-d83b-ee11-7355941dd5f9.cnnic.rip, port: 80, type: vmess, uuid: 2d221593-9af0-4391-ba40-9c88b501aa36, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: b7878d49-5541-d83b-ee11-7355941dd5f9.cnnic.rip}}}
   - {name: 🇰🇷 _KR_韩国_1_2@5, server: 43.201.57.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇨🇳 _CN_中国_1_2@6, server: 106.55.234.95, port: 31372, type: vmess, uuid: 374d3519-455c-45b8-e3b1-0e2e9fcf4411, alterId: 0, cipher: auto, tls: false}
   - {name: 🇲🇴 _MO_澳门_2@7, server: macau.hapchung.com, port: 10443, type: trojan, password: 49687a13-99f0-4772-a1f8-af100f4687de, skip-cert-verify: true}
   - {name: 🇸🇬 _US_美国->🇸🇬_SG_新加坡_2@12, server: sg.718398.xyz, port: 8443, type: vmess, uuid: be35f39f-571d-4240-8ab2-8055aae3a53e, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ssvcus, headers: {Host: sg.718398.xyz}}}
-  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港_2@13, server: lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou, port: 12323, type: trojan, password: 001a5927-bcf7-368a-8a4d-cb8c2fd6aab5, sni: lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou, skip-cert-verify: true}
   - {name: 🇨🇳 _CN_中国_4_2@17, server: 39.103.165.178, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇯🇵 _JP_日本_2_2@34, server: 54.168.136.231, port: 443, type: trojan, password: 2ea5fc44-bd38-4fb0-a9b9-88c83fc56622, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: true}
-  - {name: 🇸🇬 _CN_中国->🇸🇬_SG_新加坡_3@1, server: hn.xiaohouzi.club, port: 19023, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: siga03.xiaohouzi.club, skip-cert-verify: true}
   - {name: _BZ_伯利兹_3@2, server: 203.30.191.20, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com}}
   - {name: 🇺🇸 _US_美国_3_3@7, server: 172.67.145.166, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国_3@16, server: germany2.yj2022.ga, port: 443, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /8kH8qnepjkprbsidLrLkmX, headers: {Host: germany2.yj2022.ga}}}
   - {name: 🇺🇸 _US_美国_9_3@39, server: 172.93.47.4, port: 10512, type: vmess, uuid: 58781eee-baba-6666-baba-2ca0ada6568b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 _JP_日本_1_4@0, server: 54.238.83.65, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 _JP_日本_2_4@10, server: jp6.lianpi.xyz, port: 23234, type: vmess, uuid: 93d94f53-e7d1-41f5-bd65-b2fcd99928e3, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 _CN_中国->🇯🇵_JP_日本_4@15, server: hn.xiaohouzi.club, port: 18735, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: ajpn05.xiaohouzi.club, skip-cert-verify: true}
   - {name: 🇰🇷 _KR_韩国_2_4@18, server: 3.38.210.189, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 _SG_新加坡_1_4@29, server: 54.151.148.141, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 _SG_新加坡_2_4@32, server: agroup.node3.v.nodelist-gfwairport1.download, port: 50001, type: vmess, uuid: 3f319a18-1d20-4475-b775-f5c98a52ba18, alterId: 0, cipher: auto, tls: false}
@@ -3033,11 +3022,13 @@ proxies:
   - {name: 🇺🇸 _US_美国_5_5@12, server: e3dd.v9966.shop, port: 443, type: vmess, uuid: 2f6b7260-c1ba-11ed-b136-205c6d5f5d78, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: e3dd.v9966.shop}}}
   - {name: 🇸🇬 _SG_新加坡_1_5@14, server: 00000000000000000000000000000000000000000000000000000000000026a.node-for-bigairport.win, port: 52356, type: vmess, uuid: b755afc5-bdb7-4bf4-87e5-49051ad58ddb, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 _US_美国_6_5@16, server: lmg1.xiaoliebao.club, port: 443, type: trojan, password: 017cc98c-79b8-3459-b7c5-359cee8e2093, sni: lmg1.xiaoliebao.club, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_9_5@19, server: 8908.v9966.shop, port: 443, type: vmess, uuid: efde6d40-c1bf-11ed-b636-205c6d5f5d78, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: 8908.v9966.shop}}}
   - {name: 🇯🇵 _US_美国->🇯🇵_JP_日本_5@20, server: jp1.scproxy.top, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: jp1.scproxy.top}}}
   - {name: 🇨🇦 _CA_加拿大_2_5@21, server: 23.227.38.11, port: 443, type: vmess, uuid: 9379fea0-006d-4fd3-8e35-d45a5af72aa2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /UMW36262}}
   - {name: 🇺🇸 _US_美国_10_5@22, server: 172.67.164.125, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: 🇺🇸 _US_美国_13_5@28, server: 38.91.107.66, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_5@30, server: 117.164.185.221, port: 16105, type: vmess, uuid: b8cce40a-6eba-3bcd-a255-005930040937, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 _US_美国_15_5@32, server: dp2.scproxy.top, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /shirker, headers: {Host: dp2.scproxy.top}}}
   - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国_6@2, server: fr1.pqjc.buzz, port: 443, type: vmess, uuid: 27509613-bbd5-403a-868c-8022d36aa565, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "/pq/fr1?ed=2048", headers: {Host: fr1.pqjc.buzz}}}
   - {name: 🇺🇸 _US_美国_6_6@11, server: 35.91.221.138, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇫🇮 _FI_芬兰->🇮🇷_IR_伊朗_6@14, server: 95.217.25.166, port: 8081, type: vmess, uuid: dc4cf0b7-386f-4fc6-ec46-998b77ccd916, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /@hashmakvpn 🇩🇪}}
@@ -3098,6 +3089,7 @@ proxies:
   - {name: 🇺🇸 _US_美国->🇬🇧_GB_英国_12@15, server: cdn.imnibaba.tk, port: 80, type: vmess, uuid: 9dbfdc2b-f3ef-418b-b5d5-221b78a4ea63, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg@sudoxin, headers: {Host: cdn.imnibaba.tk}}}
   - {name: 🇺🇸 _US_美国_10_12@17, server: main.millionaireaisle.com, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /9JZFDTKE, headers: {Host: main.millionaireaisle.com}}}
   - {name: 🇺🇸 _US_美国_15_12@32, server: 54.213.251.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇨🇳 _CN_中国_4_12@35, server: zfd-hkv1.aliyun-o1bs.xyz, port: 16112, type: vmess, uuid: 158e8a4f-08dd-3d78-91cb-b7099c5ce49a, alterId: 0, cipher: auto, tls: false}
   - {name: 🇸🇬 _SG_新加坡_4_12@41, server: 18.143.137.38, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇸 _US_美国_2_13@3, server: b.gguu.pp.ua, port: 443, type: vmess, uuid: e959bcfa-500d-419a-b71d-e7fa2bf63969, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /123, headers: {Host: b.gguu.pp.ua}}}
   - {name: 🇸🇬 _SG_新加坡_2_13@6, server: 13.215.154.95, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -3108,6 +3100,7 @@ proxies:
   - {name: 🇸🇬 _SG_新加坡_3_13@34, server: sg-ovh2.1server.co, port: 8080, type: vmess, uuid: 397489e0-a0b4-11ed-b443-1577c1651679, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: sg-ovh2.1server.co}}}
   - {name: 🇨🇳 _TW_台湾_13@35, server: 012.AP.POP.node-for-smallairport.win, port: 45215, type: vmess, uuid: 291e4554-5356-411f-879e-e554a3f35baa, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 012.AP.POP.node-for-smallairport.win}}}
   - {name: 🇺🇸 _US_美国_9_13@36, server: 155.248.193.254, port: 31853, type: trojan, password: jKRJgS7uvI, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_1_14@0, server: 4bb4ced4.ikunxiao.top, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /index, headers: {Host: 4bb4ced4.ikunxiao.top}}}
   - {name: 🇨🇳 _CN_中国_1_14@1, server: 124.222.189.225, port: 80, type: vmess, uuid: a8c9ad5b-1f58-4234-b5fe-a895bee9a047, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇸🇬 _SG_新加坡_4_14@8, server: 00000000000000000000000000000000000000000000000000000000000035a.node-for-bigairport.win, port: 12356, type: vmess, uuid: 2100274e-55ae-4686-a380-a66ae8b0ef1b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 _JP_日本_14@9, server: ssrsub.o07.trojan.tel, port: 80, type: trojan, password: 98ccbde8-a407-4d43-9463-4b0ee12e238e, skip-cert-verify: true}
@@ -3117,7 +3110,6 @@ proxies:
   - {name: 🇺🇸 _US_美国_6_14@15, server: us-sjc.okman.cf, port: 2096, type: trojan, password: f62b7fbe09, sni: us-sjc.okman.cf, skip-cert-verify: true}
   - {name: 🇺🇸 _CA_加拿大->🇺🇸_US_美国_1_14@19, server: 23.227.38.23, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: 🇺🇸 _US_美国_8_14@22, server: 172.67.137.72, port: 443, type: vmess, uuid: db39ef95-4245-418a-84c0-14c202f29bc6, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /videnset}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国_2_14@33, server: a8c74c6c.ikunxiao.top, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /index, headers: {Host: a8c74c6c.ikunxiao.top}}}
   - {name: 🇺🇸 _BZ_伯利兹->🇺🇸_US_美国_15@3, server: 203.30.188.121, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU}}
   - {name: 🇺🇸 _US_美国_2_15@4, server: us1.bestcloud.tk, port: 2053, type: trojan, password: 1b4c9734-f112-404d-a4ab-89f053093fd0, sni: us1.mybestjj.com, skip-cert-verify: true}
   - {name: 🇸🇬 _SG_新加坡_1_15@10, server: 18.141.224.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -3157,6 +3149,7 @@ proxies:
   - {name: 🇨🇳 _CN_中国->🇹🇼_TW_台湾_18@39, server: 500.sayitfree.website, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 3307ba30-a638-490a-9910-672c4049a722}
   - {name: 🇺🇸 _US_美国_16_18@42, server: 172.64.153.158, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com}}
   - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国_3_19@5, server: 43.kccic2pa.xyz, port: 50043, type: vmess, uuid: 834ed4d6-b0c5-4b4b-96a4-b3056a3dc441, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 _CN_中国->🇹🇼_TW_台湾_1_19@6, server: 08.kccic2pa.xyz, port: 50008, type: vmess, uuid: 834ed4d6-b0c5-4b4b-96a4-b3056a3dc441, alterId: 0, cipher: auto, tls: false}
   - {name: 🇸🇬 _SG_新加坡_1_19@10, server: 18.141.181.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇳🇱 _NL_荷兰_19@11, server: 213.183.51.172, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX}
   - {name: 🇸🇬 _SG_新加坡_2_19@12, server: sg1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 16952:9bik8I, obfs-param: ""}
@@ -3244,13 +3237,14 @@ proxies:
   - {name: 🇯🇵 _JP_日本_5_24@28, server: jp01-vm0.entry.srthdw.art, port: 448, type: vmess, uuid: 1bc52308-0bd9-30d0-90fd-cef337875d10, alterId: 1, cipher: auto, tls: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: jp01-vm0.entry.srthdw.art}}}
   - {name: 🇭🇰 _HK_香港_2_24@33, server: 3ab83739-e995-4f97-9629-41faac2255c9.xn--9kq12xdq7a.com, port: 80, type: vmess, uuid: c9a56865-edcc-4989-a601-c42ced94c8f8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: 3ab83739-e995-4f97-9629-41faac2255c9.xn--9kq12xdq7a.com}}}
   - {name: 🇯🇵 _JP_日本_9_24@35, server: jp04-vm0.entry.srthdw.art, port: 446, type: vmess, uuid: 947453fe-c8f0-3079-9e7f-2f67b78d8fe8, alterId: 1, cipher: auto, tls: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: jp04-vm0.entry.srthdw.art}}}
-  - {name: 🇺🇸 美国 V2CROSS.COM 3, server: trxjp.ballistics.top, port: 443, type: trojan, password: 39386ab3-db28-468f-b87b-471f4ab7ca1c, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: trxjp.ballistics.top, port: 443, type: trojan, password: 39386ab3-db28-468f-b87b-471f4ab7ca1c, skip-cert-verify: false}
   - {name: 🇦🇺 澳大利亚 Cranbourne Secondary College, server: 203.30.191.5, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /AUIKN8AU, headers: {Host: oplg1.cfcdn2.xyz}}}
   - {name: 🇯🇵 日本 东京Linode数据中心, server: 172.104.114.137, port: 7302, type: vmess, uuid: 8b770a3a-7ad9-4573-bfd6-2b146bf93af7, alterId: 0, cipher: auto, tls: false}
   - {name: 🇨🇳 中国_0411058, server: usa1.vfun.icu, port: 443, type: ssr, cipher: aes-256-cfb, password: vyunme, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 17422:TTp0SX, obfs-param: ab93117422.jd.hk}
   - {name: 🇨🇦 加拿大_0411047, server: ak1658.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
   - {name: 🇩🇪 德国_0411059, server: 217.182.198.219, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇸🇬 新加坡_0411136, server: 51.79.161.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4Hub2f9JyhECyAq2Opm0NS}
+  - {name: 未知_0411450 2, server: cf.noaries.de, port: 2082, type: vmess, uuid: 4f7d5d43-226e-48d8-9df0-5e8bf9f77288, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: ovh.cloudflare.quest}}}
   - {name: 🇫🇷 法国_0411045, server: 51.178.87.37, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇺🇸 美国_0411808, server: 38.91.102.125, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
   - {name: 🇺🇸 美国_0411809, server: 38.91.102.124, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
