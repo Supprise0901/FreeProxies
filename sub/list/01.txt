@@ -35,9 +35,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMjFhMTM1OS03OWI0LTQ0ZGQtOWE3MC1kNmI5YjE5YmV
 ss://YWVzLTEyOC1nY206MDYxMWZiODktNmU0OC00YTQwLWFiZGItYzg4M2ZiNjhjYWZm@gb-service.bygcloud.xyz:23002#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_23
 ss://YWVzLTEyOC1nY206MDYxMWZiODktNmU0OC00YTQwLWFiZGItYzg4M2ZiNjhjYWZm@gb-service.bygcloud.xyz:22001#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMjFhMTM1OS03OWI0LTQ0ZGQtOWE3MC1kNmI5YjE5YmViMTQ@fscm.v-too.cloud:21262#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_25
-trojan://cdyB1Q@183.213.200.225:28114?allowInsecure=1&sni=download.windowsupdate.com#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_1%202
-trojan://cdyB1Q@183.213.200.225:28113?allowInsecure=1&sni=ctldl.windowsupdate.com#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_2%202
-trojan://42b99403-2702-4163-8878-92f853a8f0e3@20.239.165.30:40408?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_3%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM5YThkZS0wMjRlLTQyZWEtYjFmMy1iOWVhN2E4NWY5ZWQ@a.gfw.services:64739#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_4%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM5YThkZS0wMjRlLTQyZWEtYjFmMy1iOWVhN2E4NWY5ZWQ@a.gfw.services:21566#%F0%9F%87%A8%F0%9F%87%B3%20www.dongtaiwang.com_5%202
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mgd3d3LmRvbmd0YWl3YW5nLmNvbV82IDIiLCJhZGQiOiJoY21mYXN0LmZ1enp5bmcubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImVjN2M5NGI1LTZjYTYtNDI4OS1iNDRiLWM2NTgzZjJjNWY2YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInRscyI6IiJ9
