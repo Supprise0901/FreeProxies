@@ -331,7 +331,7 @@
     "id": 41,
     "remarks": "TG@FreeNode",
     "site": "https://t.me/freenodechannel",
-    "url": "https://freenode.me/wp-content/uploads/2023/05/118.txt",
+    "url": "https://freenode.me/wp-content/uploads/2023/05/128.txt",
     "update_method": "page_release",
     "enabled": true
   },
@@ -355,7 +355,7 @@
     "id": 44,
     "remarks": "v2rayshare",
     "site": "https://v2rayshare.com",
-    "url": "https://v2rayshare.com/wp-content/uploads/2023/05/20230511.txt",
+    "url": "https://v2rayshare.com/wp-content/uploads/2023/05/20230512.txt",
     "update_method": "change_date",
     "enabled": true
   },
