@@ -323,7 +323,7 @@
     "id": 40,
     "remarks": "ClashNode",
     "site": "https://clashnode.com/f/freenode",
-    "url": "https://clashnode.com/wp-content/uploads/2023/05/20230515.txt",
+    "url": "https://clashnode.com/wp-content/uploads/2023/05/20230516.txt",
     "update_method": "change_date",
     "enabled": true
   },
@@ -331,7 +331,7 @@
     "id": 41,
     "remarks": "TG@FreeNode",
     "site": "https://t.me/freenodechannel",
-    "url": "https://freenode.me/wp-content/uploads/2023/05/158.txt",
+    "url": "https://freenode.me/wp-content/uploads/2023/05/168.txt",
     "update_method": "page_release",
     "enabled": true
   },
