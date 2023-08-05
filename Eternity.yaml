@@ -5,262 +5,270 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇭🇰 香港【付费推荐：https//tt.vg/vip】189, server: 154.92.9.69, port: 80, type: vmess, uuid: dd41b5cb-b72e-4a8c-c75a-3ecc928d6eb3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: ecc.vtcss.top}}}
-  - {name: 🇯🇵 _JP_日本_1_5@11, server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: 🇯🇵 JP(AzadNet.t.me)_023, server: 45.88.43.163, port: 51801, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇯🇵 JP(AzadNet.t.me)_014, server: 15.152.34.79, port: 31845, type: vmess, uuid: 323d8b87-345d-4065-b7df-2af764d2d1df, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 JP(AzadNet.t.me)_024, server: 45.88.43.143, port: 51801, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇯🇵 _JP_日本_1_5@11, server: jp-am48-6.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: eAokbaDN6, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: JP_23 | 2.26Mb, server: 146.56.174.31, port: 8080, type: vmess, uuid: c2eb5ff8-508d-4100-e0ca-9739f4d1c52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tg@herhero6}}
   - {name: 🇨🇳 台湾_0804005, server: 61.219.15.81, port: 11872, type: vmess, uuid: 0913b1ac-1f6c-436b-99b4-a5d6e343d025, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇯🇵 日本_0804009, server: 131.186.41.192, port: 26297, type: vmess, uuid: b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇸🇬 _SG_新加坡 2, server: 3.0.147.22, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_001, server: shuijun01.sologoog.xyz, port: 25577, type: vmess, uuid: f7d480fd-450d-4162-b65e-4df7daa69a08, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: shuijun01.sologoog.xyz}}}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_004, server: hang02.sologoog.xyz, port: 26888, type: vmess, uuid: f7d480fd-450d-4162-b65e-4df7daa69a08, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: hang02.sologoog.xyz}}}
   - {name: 🇭🇰 HK 14 → tg@nicevpn123, server: 103.234.53.23, port: 50014, type: trojan, password: 73658d71-be45-4495-bc3e-e69d36ce73b5, skip-cert-verify: true}
-  - {name: 🇭🇰 HK(AzadNet.t.me)_016, server: 218.255.149.45, port: 80, type: vmess, uuid: 4a75c3ba-f2e9-11ed-bf1b-f23c91369f2d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇯🇵 日本 315, server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇰🇷 _KR_韩国 2, server: 125.141.26.5, port: 2003, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_022, server: 202.79.174.157, port: 55264, type: vmess, uuid: 121c9c89-7d11-4f49-9112-dc1e85363f6f, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian, server: 13.250.35.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_015, server: 27.124.47.64, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇯🇵 日本_0804009, server: 131.186.41.192, port: 26297, type: vmess, uuid: b0ed6eb7-dc30-4897-df50-c2c1d4ee6e91, alterId: 0, cipher: auto, tls: false}
   - {name: 🇸🇬 新加坡_0804003, server: 146.190.106.128, port: 12280, type: vmess, uuid: 5a5ec64d-baff-49bb-ab6a-d5978dc53e4a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tharuwafree, headers: {Host: zoom.us}}}
-  - {name: 🇸🇬 _SG_新加坡, server: 13.213.44.183, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇭🇰 HK(AzadNet.t.me)_016, server: 218.255.149.45, port: 80, type: vmess, uuid: 4a75c3ba-f2e9-11ed-bf1b-f23c91369f2d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇸🇬 _SG_新加坡 2, server: 3.0.147.22, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 SG(AzadNet.t.me)_009, server: vsg1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vsg1.0bad.com}}}
-  - {name: 🇸🇬 SG(AzadNet.t.me)_114, server: ak1803.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4Hub2f9JyhECyAq2Opm0NS}
+  - {name: 🇯🇵 日本 315, server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian, server: 13.250.35.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_004, server: hang02.sologoog.xyz, port: 26888, type: vmess, uuid: f7d480fd-450d-4162-b65e-4df7daa69a08, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: hang02.sologoog.xyz}}}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_001, server: shuijun01.sologoog.xyz, port: 25577, type: vmess, uuid: f7d480fd-450d-4162-b65e-4df7daa69a08, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: shuijun01.sologoog.xyz}}}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_015, server: 27.124.47.64, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇸🇬 SG(AzadNet.t.me)_022, server: 202.79.174.157, port: 55264, type: vmess, uuid: 121c9c89-7d11-4f49-9112-dc1e85363f6f, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇸🇬 _SG_新加坡 2 2, server: 13.212.199.120, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 _SG_新加坡, server: 13.213.44.183, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian, server: 27.255.82.49, port: 5731, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: 🇨🇳 TW(AzadNet.t.me)_008, server: tw1.kidcc.xyz, port: 8443, type: vmess, uuid: a8974bec-526d-4b4e-a46f-f0d6626ca576, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: tw1.kidcc.xyz}}}
   - {name: "🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian", server: 61.220.130.70, port: 50701, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: 🇺🇸 US(AzadNet.t.me)_005, server: series-v1.samanehha.co, port: 443, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dT9s3HqgZeD3eApzDAfhOHq, headers: {Host: series-v1.samanehha.co}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 4, server: cf1.992688.xyz, port: 8080, type: vmess, uuid: e6e14e13-359d-4f07-d60a-92533c5c025a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: vcus1.vpn66.eu.org}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_798, server: 205.134.180.145, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hgLCgfLRgB6d}
-  - {name: 🇺🇸 US(AzadNet.t.me)_800, server: 205.134.180.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: R9Xc4dHXGv3c}
+  - {name: 🇨🇳 TW(AzadNet.t.me)_008, server: tw1.kidcc.xyz, port: 8443, type: vmess, uuid: a8974bec-526d-4b4e-a46f-f0d6626ca576, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: tw1.kidcc.xyz}}}
+  - {name: "🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752", server: ak1803.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4Hub2f9JyhECyAq2Opm0NS}
+  - {name: 🇺🇸 US(AzadNet.t.me)_805, server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2}
   - {name: 🇺🇸 US(AzadNet.t.me)_799, server: 205.134.180.137, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: g13S7doXar0A}
   - {name: 🇺🇸 US(AzadNet.t.me)_802, server: 205.134.180.141, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vMJXK15zOa8K}
-  - {name: 🇺🇸 US(AzadNet.t.me)_804, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8}
-  - {name: "🇨🇦 CA加拿大(youtube阿伟科技)\r", server: 35.183.65.223, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_798, server: 205.134.180.145, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hgLCgfLRgB6d}
   - {name: 🇺🇸 US(AzadNet.t.me)_796, server: 156.146.38.163, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-  - {name: 🇺🇸 US(AzadNet.t.me)_805, server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2}
-  - {name: 🇺🇸 US(AzadNet.t.me)_752, server: us.blazeppn.info, port: 443, type: trojan, password: xxoo, sni: telewebion.com, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_804, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8}
   - {name: 🇺🇸 US(AzadNet.t.me)_797, server: 37.218.241.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: j4wkIrreHEdC}
+  - {name: 🇺🇸 US(AzadNet.t.me)_800, server: 205.134.180.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: R9Xc4dHXGv3c}
+  - {name: 🇺🇸 美国 58, server: vus5.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus5.0bad.com}}}
+  - {name: "🇨🇦 CA加拿大(youtube阿伟科技)\r", server: 35.183.65.223, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
+  - {name: 🇺🇸 US(AzadNet.t.me)_060, server: cloudconebbb.gorgorchicken.one, port: 8443, type: vmess, uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /cloudconebbb, headers: {Host: cloudconebbb.gorgorchicken.one}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_199, server: 23.224.202.86, port: 57702, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_432, server: 64.32.24.211, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_431, server: 64.32.24.213, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_447, server: 64.32.4.6, port: 50005, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_08041439, server: 129.146.46.181, port: 52408, type: vmess, uuid: a797ff7b-8161-40a6-d577-1b2c213b3885, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_411, server: 67.21.64.84, port: 43123, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_441, server: 64.32.20.101, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1, server: 108.166.203.183, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804116, server: 107.167.30.132, port: 43900, type: vmess, uuid: 58e560b4-bba6-4843-be5f-83321022fa0d, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_661, server: 45.58.186.85, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_433, server: 64.32.24.210, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_662, server: 45.58.186.83, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_440, server: 64.32.20.103, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_447, server: 64.32.4.6, port: 50005, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_402, server: 67.21.95.73, port: 53314, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804116, server: 107.167.30.132, port: 43900, type: vmess, uuid: 58e560b4-bba6-4843-be5f-83321022fa0d, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_442, server: 64.32.20.97, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国_0804066, server: 107.167.16.34, port: 45592, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_663, server: 45.58.186.81, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804031, server: 171.22.116.44, port: 46909, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804176, server: 171.22.116.2, port: 41665, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1, server: 108.166.203.183, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804038, server: 107.167.29.93, port: 45585, type: vmess, uuid: 465dec1a-e09b-4bb6-9905-70f75d6035c8, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_441, server: 64.32.20.101, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_607, server: 45.92.160.19, port: 41098, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804256, server: 129.146.247.135, port: 42598, type: vmess, uuid: 1773b226-0bdb-43c5-87d8-270d26211dda, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_448, server: 64.32.4.50, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_659, server: 45.58.186.91, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
   - {name: "🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30", server: 140.99.59.242, port: 55100, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804256, server: 129.146.247.135, port: 42598, type: vmess, uuid: 1773b226-0bdb-43c5-87d8-270d26211dda, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804068, server: 64.32.4.51, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】183, server: 64.32.4.52, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_08041439, server: 129.146.46.181, port: 52408, type: vmess, uuid: a797ff7b-8161-40a6-d577-1b2c213b3885, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804391, server: 142.4.109.68, port: 46672, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_448, server: 64.32.4.50, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US美国(youtube阿伟科技), server: 142.4.112.18, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/1691143986594, headers: {Host: www.35617630.xyz}}}
-  - {name: 🇺🇸 美国_0804038, server: 107.167.29.93, port: 45585, type: vmess, uuid: 465dec1a-e09b-4bb6-9905-70f75d6035c8, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 _US_美国_12, server: 137.175.61.140, port: 46670, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国 319, server: 129.146.133.157, port: 51009, type: vmess, uuid: 81714cef-9bde-4a08-aa50-d6bc0172d78b, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804835, server: 198.200.33.5, port: 51041, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_439, server: 64.32.20.104, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_440, server: 64.32.20.103, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国 227, server: sj1.alieszvps.cf, port: 45555, type: trojan, password: VpRuqFDCJo, skip-cert-verify: true}
+  - {name: 🇺🇸 美国_0804031, server: 171.22.116.44, port: 46909, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_661, server: 45.58.186.85, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】183, server: 64.32.4.52, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_660, server: 45.58.186.90, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_431, server: 64.32.24.213, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_432, server: 64.32.24.211, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_663, server: 45.58.186.81, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804391, server: 142.4.109.68, port: 46672, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804835, server: 198.200.33.5, port: 51041, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US美国(youtube阿伟科技), server: 142.4.112.18, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/1691143986594, headers: {Host: www.35617630.xyz}}}
+  - {name: 🇺🇸 _US_美国_12, server: 137.175.61.140, port: 46670, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804068, server: 64.32.4.51, port: 43136, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国(油管破解资源君2.0) 3, server: vus4.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus4.0bad.com}}}
   - {name: 🇺🇸 美国(油管破解资源君2.0) 2, server: vus3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus3.0bad.com}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_660, server: 45.58.186.90, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804014, server: 45.199.138.148, port: 47922, type: vmess, uuid: f9fa3a9c-f7d5-414f-88e6-6970585d9949, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_576, server: 45.199.138.151, port: 49232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_571, server: 45.199.138.165, port: 55015, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_667, server: 45.58.147.195, port: 50022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804167, server: 45.199.138.166, port: 55015, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_556, server: 45.199.138.91, port: 49232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804161, server: 45.199.138.168, port: 49175, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f013421b, alterId: 64, cipher: auto, tls: false}
-  - {name: "[VMess] 🇺🇲 US_speednode_0066", server: 45.199.138.169, port: 49175, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f013421b, alterId: 64, cipher: auto, tls: false}
-  - {name: "🇺🇸 [VMess] 🇺🇲 -US-038", server: 45.199.138.178, port: 40778, type: vmess, uuid: 37c29f42-b7c7-40c7-9da9-743dcc4895bc, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804165, server: 45.199.138.183, port: 44144, type: vmess, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804169, server: 45.199.138.184, port: 44144, type: vmess, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804172, server: 45.199.138.186, port: 42111, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_555, server: 45.199.138.92, port: 49232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804014, server: 45.199.138.148, port: 47922, type: vmess, uuid: f9fa3a9c-f7d5-414f-88e6-6970585d9949, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 US(AzadNet.t.me)_578, server: 45.199.138.145, port: 42111, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_556, server: 45.199.138.91, port: 49232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_571, server: 45.199.138.165, port: 55015, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3", server: scaleway.696960.xyz, port: 443, type: vmess, uuid: e357cd63-f1a5-4c8e-c42e-26da11207fee, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /root/, headers: {Host: scaleway.696960.xyz}}}
+  - {name: 🇺🇸 美国_0804172, server: 45.199.138.186, port: 42111, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804167, server: 45.199.138.166, port: 55015, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: "[VMess] 🇺🇲 US_speednode_0066", server: 45.199.138.169, port: 49175, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f013421b, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804161, server: 45.199.138.168, port: 49175, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f013421b, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国 319, server: 129.146.133.157, port: 51009, type: vmess, uuid: 81714cef-9bde-4a08-aa50-d6bc0172d78b, alterId: 0, cipher: auto, tls: false}
+  - {name: "🇺🇸 [VMess] 🇺🇲 -US-038", server: 45.199.138.178, port: 40778, type: vmess, uuid: 37c29f42-b7c7-40c7-9da9-743dcc4895bc, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_667, server: 45.58.147.195, port: 50022, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国 227, server: sj1.alieszvps.cf, port: 45555, type: trojan, password: VpRuqFDCJo, skip-cert-verify: true}
+  - {name: 🇺🇸 美国_0804169, server: 45.199.138.184, port: 44144, type: vmess, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国_0804165, server: 45.199.138.183, port: 44144, type: vmess, uuid: 078eb24d-8d1d-4fbd-b914-ee58a897a35e, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇨🇦 CA(AzadNet.t.me)_006, server: 23.26.239.163, port: 18420, type: vmess, uuid: 65578c09-f23e-49cc-abee-4ad2a1850f9a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇸 美国_0804099, server: 45.199.138.135, port: 49129, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇸 美国(油管破解资源君2.0) 45, server: 129.159.41.233, port: 32586, type: vmess, uuid: 341a9182-c423-499c-c46e-d17838b29037, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇸 美国 337, server: 15.204.210.176, port: 80, type: trojan, password: c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f, skip-cert-verify: true}
-  - {name: 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub, server: ns1.v2-vip.fun, port: 8080, type: vmess, uuid: 44c48fbe-cfbf-40ee-b0e4-12a1cec4da69, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v02.ssrsub.com}}}
-  - {name: 🇺🇸 美国_0804105, server: 45.199.138.176, port: 50417, type: vmess, uuid: 6fa560d4-35c5-4968-adfc-812c52878b84, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇨🇦 CA(AzadNet.t.me)_040, server: 158.69.122.231, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: xkud5hn}
-  - {name: "🇺🇸 US美国(youtube阿伟科技)\r", server: 54.89.85.192, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US(AzadNet.t.me)_801, server: 95.164.36.192, port: 64751, type: ss, cipher: chacha20-ietf-poly1305, password: xSOmiMASb2uLAcS0z8fvCI}
   - {name: "[VMess] 🇺🇲 US_speednode_0070", server: 45.199.138.74, port: 50417, type: vmess, uuid: 6fa560d4-35c5-4968-adfc-812c52878b84, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804099, server: 45.199.138.135, port: 49129, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_001, server: sw-94.131.10.5.nip.io, port: 443, type: vmess, uuid: 88d476c1-48f7-4d3d-a0e6-acccbff02db6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: sw-94.131.10.5.nip.io}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_588, server: 45.131.248.228, port: 59102, type: vmess, uuid: ac027362-c988-4670-f78f-021b5be6f4e3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_434, server: 64.32.21.247, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇨🇦 CA(AzadNet.t.me)_040, server: 158.69.122.231, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: xkud5hn}
+  - {name: 🇺🇸 US(AzadNet.t.me)_090, server: ahsorathiyaa.fly.dev, port: 443, type: vmess, uuid: de04add9-5c68-8bab-950c-08cd5320df18, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmess, headers: {Host: ahsorathiyaa.fly.dev}}}
+  - {name: "🇺🇸 US美国(youtube阿伟科技)\r", server: 54.89.85.192, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
+  - {name: 🇨🇦 加拿大 01, server: ip.saintink.eu.org, port: 443, type: vmess, uuid: d4b6f48f-7474-44dc-9492-8fa3f63db887, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: ro2.v2rayserv.com/vmess, headers: {Host: 4.saintink.eu.org}}}
+  - {name: 🇺🇸 美国_0804105, server: 45.199.138.176, port: 50417, type: vmess, uuid: 6fa560d4-35c5-4968-adfc-812c52878b84, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_801, server: 95.164.36.192, port: 64751, type: ss, cipher: chacha20-ietf-poly1305, password: xSOmiMASb2uLAcS0z8fvCI}
+  - {name: 🇺🇸 US(AzadNet.t.me)_589, server: 45.131.248.140, port: 50068, type: vmess, uuid: 557e532e-de4a-4b3e-9fb2-5d355ccb5da9, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇺🇸 US(AzadNet.t.me)_803, server: 169.197.141.186, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: tvX1v#NSFP_LG_bJ}
-  - {name: 🇺🇸 US(AzadNet.t.me)_785, server: 38.91.101.159, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】174, server: 172.64.164.47, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: 4a47e680, headers: {Host: ddp2.1808.cf}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_437, server: 64.32.21.241, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_436, server: 64.32.21.245, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 10, server: zjg.shabijichang.com, port: 80, type: vmess, uuid: 16478092-eecd-4577-89fc-9b12c5be18dd, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: zjg.shabijichang.com}}}
-  - {name: 🇺🇸 美国_0804007, server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
-  - {name: 🇺🇸 美国(油管破解资源君2.0) 16, server: 167.88.61.175, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 8|🇺🇸_US_美国, server: 162.159.133.233, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: 4a47e680, headers: {Host: ddp2.1808.cf}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}}
-  - {name: 🇨🇦 加拿大_0804003, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}}
-  - {name: 🇨🇦 加拿大 01, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_435, server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}}
-  - {name: 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
-  - {name: 🇺🇸 美国CloudFlare公司CDN节点 7, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_434, server: 64.32.21.247, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_785, server: 38.91.101.159, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare节点 10, server: zjg.shabijichang.com, port: 80, type: vmess, uuid: 16478092-eecd-4577-89fc-9b12c5be18dd, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: zjg.shabijichang.com}}}
+  - {name: 🇺🇸 美国_0804176, server: 171.22.116.2, port: 41665, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 _US_美国 10, server: 162.159.242.18, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: 4a47e680, headers: {Host: ddp2.1808.cf}}}
+  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】100, server: 141.101.115.104, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: 4a47e680, headers: {Host: ddp2.1808.cf}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_436, server: 64.32.21.245, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_437, server: 64.32.21.241, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}}
+  - {name: 🇺🇸 美国_0804110, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}}
+  - {name: 🇨🇦 加拿大【付费推荐：https//tt.vg/vip】126, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 2.freek1.xyz}}}
+  - {name: 🇺🇸 美国_0804007, server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20, server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
+  - {name: 🇺🇸 美国 10, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
+  - {name: 🇺🇸 美国_0804469, server: 154.9.234.16, port: 58673, type: vmess, uuid: bea4da94-81b6-44f3-eadb-a327be1a491e, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(AzadNet.t.me)_006, server: series-v1.samanehha.co, port: 80, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /dT9s3HqgZeD3eApzDAfhOHq, headers: {Host: series-v1.samanehha.co}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_005, server: series-v1.samanehha.co, port: 443, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dT9s3HqgZeD3eApzDAfhOHq, headers: {Host: series-v1.samanehha.co}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_500, server: 47.254.89.211, port: 80, type: vmess, uuid: 203b2ab2-4994-4193-8193-6631a575edb0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /GSoTl9ZoYG5V2R0k4tUTGI8k}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_119, server: us45.encrypted.my.id, port: 80, type: vmess, uuid: aab6d192-00dc-4284-beda-bc44bc65758c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tG5vcs17wGgTff, headers: {Host: us45.encrypted.my.id}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_113, server: us49.encrypted.my.id, port: 80, type: vmess, uuid: 86f8f25d-9d26-41a6-a75b-e0ef992cc74a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /rxrsOUmNbuTJCk4izFEHWrb9qm, headers: {Host: us49.encrypted.my.id}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_115, server: us48.encrypted.my.id, port: 80, type: vmess, uuid: 82f58397-480e-4975-b3ec-fea904dc5912, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /O0emfe0pBfYovpz5526rhq, headers: {Host: us48.encrypted.my.id}}}
+  - {name: 🇺🇸 美国(油管破解资源君2.0) 16, server: 167.88.61.175, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇺🇸 US(AzadNet.t.me)_107, server: us51.encrypted.my.id, port: 80, type: vmess, uuid: 6cc722d0-f6b5-4179-be13-c15cb9e75dd9, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /84BxD2shFYFpsiRGXACUPqWt, headers: {Host: us51.encrypted.my.id}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_499, server: 47.254.92.41, port: 80, type: vmess, uuid: 4bf9b7e0-85d1-4a59-9a29-e6619dcd7c50, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /pSAXxD8Ib7FZloqUMG}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_117, server: us46.encrypted.my.id, port: 80, type: vmess, uuid: e9dc5466-3768-4d45-8fd0-f1181139bb4e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /4DJIP58JF6JTq4HIG0yr, headers: {Host: us46.encrypted.my.id}}}
-  - {name: 🇺🇸 美国_0804110, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15, server: 104.16.238.237, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /GdtYWlsLmNvbSJ9LCJjb3V, headers: {Host: newyork.yj2022.gq}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_115, server: us48.encrypted.my.id, port: 80, type: vmess, uuid: 82f58397-480e-4975-b3ec-fea904dc5912, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /O0emfe0pBfYovpz5526rhq, headers: {Host: us48.encrypted.my.id}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_109, server: us50.encrypted.my.id, port: 80, type: vmess, uuid: 2caa5a0e-519b-4503-80d4-5363193e5018, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Ogl9djGbo2NTAt3Ovj1NvwjJ, headers: {Host: us50.encrypted.my.id}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_523, server: 47.88.89.251, port: 80, type: vmess, uuid: dd92e2b3-03f3-4899-a34e-797ff6a0cea8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /MqINN7CF6UeFSASP4LNTFNn}}
-  - {name: 🇺🇸 美国_0804469, server: 154.9.234.16, port: 58673, type: vmess, uuid: bea4da94-81b6-44f3-eadb-a327be1a491e, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(AzadNet.t.me)_119, server: us45.encrypted.my.id, port: 80, type: vmess, uuid: aab6d192-00dc-4284-beda-bc44bc65758c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /tG5vcs17wGgTff, headers: {Host: us45.encrypted.my.id}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_111, server: us54.encrypted.my.id, port: 80, type: vmess, uuid: f3464642-f113-4575-aa33-f68aef56b5c0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /mePGXW6SFZZw2QyAqaYK, headers: {Host: us54.encrypted.my.id}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_519, server: 47.89.192.94, port: 80, type: vmess, uuid: 301d815f-a02a-4c2c-a424-b16cf0a241ae, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /4a5yXsGODBM1cvl9TzyF0SHR3v}}
-  - {name: 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub, server: speedip.eu.org, port: 8080, type: vmess, uuid: 44c48fbe-cfbf-40ee-b0e4-12a1cec4da69, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v01.ssrsub.com}}}
-  - {name: 🇺🇸 US(AzadNet.t.me)_500, server: 47.254.89.211, port: 80, type: vmess, uuid: 203b2ab2-4994-4193-8193-6631a575edb0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /GSoTl9ZoYG5V2R0k4tUTGI8k}}
+  - {name: 🇺🇸 美国_0804427, server: 104.31.16.27, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: ca5.tehme2.fun}}}
+  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14, server: www.codepen.io, port: 443, type: vmess, uuid: 2cd39102-0799-4c61-abb6-2e7a258f0397, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /vmess, headers: {Host: us-v.sshmax.xyz}}}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_117, server: us46.encrypted.my.id, port: 80, type: vmess, uuid: e9dc5466-3768-4d45-8fd0-f1181139bb4e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /4DJIP58JF6JTq4HIG0yr, headers: {Host: us46.encrypted.my.id}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_109, server: us50.encrypted.my.id, port: 80, type: vmess, uuid: 2caa5a0e-519b-4503-80d4-5363193e5018, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Ogl9djGbo2NTAt3Ovj1NvwjJ, headers: {Host: us50.encrypted.my.id}}}
+  - {name: 🇺🇸 US(AzadNet.t.me)_111, server: us54.encrypted.my.id, port: 80, type: vmess, uuid: f3464642-f113-4575-aa33-f68aef56b5c0, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /mePGXW6SFZZw2QyAqaYK, headers: {Host: us54.encrypted.my.id}}}
   - {name: 🇺🇸 US(AzadNet.t.me)_503, server: 47.254.30.243, port: 80, type: vmess, uuid: 468cde3d-26b5-4007-a20a-1cd19f46d5d6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /KXwHGCrIVG4NYiB2}}
   - {name: 🇺🇸 US(AzadNet.t.me)_520, server: 47.88.106.47, port: 80, type: vmess, uuid: 52fe86cc-db7f-43d0-83f8-7e4c91a61f35, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /qRV8zMMajQyex4KWUBkia1vvH}}
   - {name: 🇺🇸 美国_0804093, server: 137.175.58.132, port: 53999, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇸 美国_0804123, server: 104.25.245.118, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: tot.vtcss.top}}}
-  - {name: 🇺🇸 美国_0804125, server: 104.27.34.83, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: tot.vtcss.top}}}
-  - {name: 🇺🇸 美国_0804132, server: 104.24.255.84, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: tot.vtcss.top}}}
   - {name: 🇺🇸 美国_0804168, server: 108.186.116.166, port: 46605, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: 伯利兹 01, server: 45.131.211.253, port: 443, type: vmess, uuid: 79770a32-9607-4919-9483-0f1794559390, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /juYLyvNBpY0LBOAommy2aJE, headers: {Host: nika3hdfy2.foriran.trade}}}
+  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】184, server: cf.fovi.tk, port: 443, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxlux.fovi.tk}}}
+  - {name: 🇺🇸 美国【付费推荐：https//tt.vg/vip】45, server: 108.186.116.167, port: 46605, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: 未知_0804016, server: cloudflare.piaole.me, port: 443, type: vmess, uuid: 7e7c5d75-1547-4385-a6f9-1a0a5e0ec4f3, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /huawei, headers: {Host: cloudflare.piaole.me}}}
   - {name: Relay_ |25.53Mb, server: 108.166.203.181, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_080, server: ak1793.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_085, server: 212.102.53.198, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_081, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_088, server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_090, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_083, server: 212.102.53.79, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_082, server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_077, server: 139.162.236.79, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_084, server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: 🇬🇧 GB(AzadNet.t.me)_076, server: 77.72.5.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_087, server: 212.102.53.196, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_085, server: 212.102.53.198, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_077, server: 139.162.236.79, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_081, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: 🇬🇧 GB(AzadNet.t.me)_086, server: 212.102.53.197, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_004, server: vuk2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vuk2.0bad.com}}}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_079, server: beacomf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: T1pb7XxxrolvPSb0u2xSOA}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_001, server: phosphorylative.aurorainiceland.com, port: 443, type: vmess, uuid: 6388bd92-6cbc-4b72-a9a6-931f071d0ffa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /nimvws, headers: {Host: phosphorylative.aurorainiceland.com}}}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_075, server: 77.72.5.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_082, server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_087, server: 212.102.53.196, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_090, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_084, server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: 🇳🇱 NL(AzadNet.t.me)_070, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_068, server: 51.15.27.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_071, server: passconf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: qGjmI8WQlF0tfhDbkLqGdN}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_221, server: 51.159.111.208, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇩🇪 DE(AzadNet.t.me)_156, server: 89.163.140.153, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_223, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_075, server: masting.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: XvK0ltH67Xhv9ht9RhYsFy}
-  - {name: 🇫🇷 法国_0804002, server: 156.249.18.38, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_004, server: vuk2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vuk2.0bad.com}}}
   - {name: 🇫🇷 FR(AzadNet.t.me)_222, server: 195.154.185.174, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_014, server: 156.249.18.36, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: "🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2", server: 192.248.179.228, port: 2083, type: vmess, uuid: ce03a832-d6bb-45a3-9121-f7bd6f189469, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: "🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3", server: 199.247.3.208, port: 2087, type: vmess, uuid: d5350465-ab63-4d30-ebda-5cbe0751cbd6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇩🇪 DE德国(youtube阿伟科技) 2, server: 192.248.178.174, port: 2083, type: vmess, uuid: ce03a832-d6bb-45a3-9121-f7bd6f189469, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_013, server: 156.249.18.37, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_068, server: 51.15.27.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_075, server: masting.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: XvK0ltH67Xhv9ht9RhYsFy}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_071, server: passconf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: qGjmI8WQlF0tfhDbkLqGdN}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_076, server: 57.128.173.6, port: 443, type: trojan, password: 29f2cf65-f0ee-4a08-83f3-df1beb74d55d, skip-cert-verify: true}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_001, server: phosphorylative.aurorainiceland.com, port: 443, type: vmess, uuid: 6388bd92-6cbc-4b72-a9a6-931f071d0ffa, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /nimvws, headers: {Host: phosphorylative.aurorainiceland.com}}}
+  - {name: 🇩🇪 DE(AzadNet.t.me)_156, server: 89.163.140.153, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_221, server: 51.159.111.208, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_223, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: "🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net5-1", server: 80.240.17.155, port: 2053, type: vmess, uuid: 4134efe7-d935-416c-c2cc-24943e4a80ca, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇫🇷 法国_0804002, server: 156.249.18.38, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇩🇪 DE德国(youtube阿伟科技) 2, server: 192.248.178.174, port: 2083, type: vmess, uuid: ce03a832-d6bb-45a3-9121-f7bd6f189469, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: "🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2", server: 192.248.179.228, port: 2083, type: vmess, uuid: ce03a832-d6bb-45a3-9121-f7bd6f189469, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_079, server: beacomf.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: T1pb7XxxrolvPSb0u2xSOA}
+  - {name: "🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3", server: 199.247.3.208, port: 2087, type: vmess, uuid: d5350465-ab63-4d30-ebda-5cbe0751cbd6, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
   - {name: 🇩🇪 DE(AzadNet.t.me)_157, server: 139.162.128.90, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
-  - {name: 🇩🇪 DE(AzadNet.t.me)_019, server: 164.92.225.191, port: 58056, type: vmess, uuid: 4b2446f6-ab80-478f-e0cc-2b4e029aacf1, alterId: 0, cipher: auto, tls: false}
   - {name: 🇩🇪 DE(AzadNet.t.me)_021, server: 130.61.111.167, port: 21872, type: vmess, uuid: 9a7a75d4-ab7e-4ba0-bbfa-a4acddc18084, alterId: 0, cipher: auto, tls: false}
-  - {name: CH(AzadNet.t.me)_005, server: 156.146.62.160, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
-  - {name: CH(AzadNet.t.me)_004, server: 84.17.53.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇩🇪 DE(AzadNet.t.me)_019, server: 164.92.225.191, port: 58056, type: vmess, uuid: 4b2446f6-ab80-478f-e0cc-2b4e029aacf1, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇩🇪 DE(AzadNet.t.me)_015, server: vde2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vde2.0bad.com}}}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_083, server: 212.102.53.79, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇩🇪 DE(AzadNet.t.me)_155, server: 130.162.53.215, port: 24576, type: ss, cipher: aes-256-gcm, password: VdaItKYmFf}
   - {name: 🇩🇪 DE(AzadNet.t.me)_158, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA}
-  - {name: "@SSRSUB-V13-付费推荐dlj.tf/ssrsub", server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
-  - {name: AT(AzadNet.t.me)_002, server: 185.180.12.81, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: AF(AzadNet.t.me), server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CH(AzadNet.t.me)_004, server: 84.17.53.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CH(AzadNet.t.me)_005, server: 156.146.62.160, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_014, server: 156.249.18.36, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
   - {name: "@customv2ray کانفیگ های بیشتر عضو شو 6", server: 154.85.1.129, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-opts: {path: /path/1690282577532, headers: {Host: www.42077230.xyz}}}
-  - {name: 135.148.148.480, server: 135.148.148.4, port: 80, type: trojan, password: ee2bccd3-0f30-42d4-86d6-3d393ad230bd, sni: us3.trojanvh.xyz, skip-cert-verify: true}
+  - {name: AT(AzadNet.t.me)_002, server: 185.180.12.81, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇳🇱 荷兰_0804002, server: 154.85.1.130, port: 42524, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: AF(AzadNet.t.me), server: 121.127.46.147, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_013, server: 156.249.18.37, port: 48222, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇵🇱 PL(AzadNet.t.me)_051, server: 5.188.108.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 135.148.148.480, server: 135.148.148.4, port: 80, type: trojan, password: ee2bccd3-0f30-42d4-86d6-3d393ad230bd, sni: us3.trojanvh.xyz, skip-cert-verify: true}
+  - {name: IM(AzadNet.t.me)_002, server: 192.71.211.161, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇵🇱 PL(AzadNet.t.me)_009, server: 51.83.186.142, port: 80, type: trojan, password: 555034c8-6420-45d0-893c-905c02342150, sni: pl1.trojanvh.xyz, skip-cert-verify: true}
-  - {name: RO(AzadNet.t.me)_015, server: 194.14.217.115, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_011, server: uk2-vmess.greenssh.xyz, port: 80, type: vmess, uuid: 2076df30-81e3-4312-840b-3e1462c0b85e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: uk2-vmess.greenssh.xyz}}}
   - {name: 🇩🇪 DE(AzadNet.t.me)_160, server: 212.227.146.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: GvsjQ0OZ5nGQXDGfzfWZf5}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_065, server: 51.91.11.29, port: 80, type: trojan, password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad, skip-cert-verify: true}
+  - {name: RO(AzadNet.t.me)_015, server: 194.14.217.115, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_088, server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: BA(AzadNet.t.me), server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇫🇷 FR(AzadNet.t.me)_002, server: pl2-vmess.greenssh.xyz, port: 80, type: vmess, uuid: a60d4d2f-6a61-4c16-9d63-94a97e65d1f3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess, headers: {Host: pl2-vmess.greenssh.xyz}}}
   - {name: 🇫🇷 FR(AzadNet.t.me)_004, server: pl1-vmess.greenssh.xyz, port: 80, type: vmess, uuid: 26cd2459-4f68-4e56-b19c-b0b26f6ff843, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: pl1-vmess.greenssh.xyz}}}
-  - {name: UA(AzadNet.t.me)_016, server: 5.188.6.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_011, server: uk2-vmess.greenssh.xyz, port: 80, type: vmess, uuid: 2076df30-81e3-4312-840b-3e1462c0b85e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: uk2-vmess.greenssh.xyz}}}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_080, server: ak1793.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
   - {name: IT(AzadNet.t.me)_008, server: 5.188.226.187, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇵🇱 PL(AzadNet.t.me)_051, server: 5.188.108.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_008, server: fr-v.sshmax.xyz, port: 80, type: vmess, uuid: 8500264f-8362-4c30-a97f-6594d8445e0b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fr-v.sshmax.xyz}}}
   - {name: IL(AzadNet.t.me), server: 193.182.144.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇪🇸 ES(AzadNet.t.me)_004, server: 92.38.171.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: UA(AzadNet.t.me)_016, server: 5.188.6.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 54.199.83.2392333, server: 54.199.83.239, port: 2333, type: ss, cipher: aes-256-cfb, password: doub.io}
-  - {name: BG(AzadNet.t.me)_003, server: 89.44.197.156, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_008, server: fr-v.sshmax.xyz, port: 80, type: vmess, uuid: 8500264f-8362-4c30-a97f-6594d8445e0b, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess, headers: {Host: fr-v.sshmax.xyz}}}
+  - {name: 🇪🇸 ES(AzadNet.t.me)_004, server: 92.38.171.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: AZ(AzadNet.t.me)_002, server: 180.149.44.120, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: AE(AzadNet.t.me)_003, server: series-g1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: sgjJsZJHLlhmdvUk}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_065, server: 146.19.230.241, port: 443, type: trojan, password: xxoo, sni: sentry.divar.cloud, skip-cert-verify: true}
+  - {name: 🇮🇳 IN(AzadNet.t.me)_003, server: vin1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /chat, headers: {Host: vin1.0bad.com}}}
   - {name: 🇸🇬 sg-am3.eqsunshine.com32001, server: sg-am3.eqsunshine.com, port: 32001, type: ssr, cipher: aes-256-cfb, password: 3g0dHlKME, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: FI(AzadNet.t.me)_025, server: 37.143.129.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: Relay_ |21.99Mb, server: 139.99.245.164, port: 49921, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
-  - {name: RS(AzadNet.t.me)_001, server: 37.120.193.102, port: 52920, type: vmess, uuid: 57170ff0-7180-4664-8f61-8debdda345f7, alterId: 64, cipher: auto, tls: false}
-  - {name: 未知_0804019, server: 198.41.223.186, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: tot.vtcss.top}}}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_065, server: 146.19.230.241, port: 443, type: trojan, password: xxoo, sni: sentry.divar.cloud, skip-cert-verify: true}
   - {name: AL(AzadNet.t.me), server: 31.171.153.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: "|30.83Mb", server: 141.147.153.244, port: 41545, type: vmess, uuid: d47d7135-0954-46ab-a190-17b6c8630a85, alterId: 0, cipher: auto, tls: false}
+  - {name: CY(AzadNet.t.me)_026, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 二爷翻墙 https//1808.cf Node_2, server: speed.cloudflare.com, port: 443, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: 4a47e680, headers: {Host: ddp2.1808.cf}}}
   - {name: NO(AzadNet.t.me)_003, server: 185.90.61.153, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2, server: 13.250.35.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_065, server: 51.91.11.29, port: 80, type: trojan, password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad, skip-cert-verify: true}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_075, server: 77.72.5.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_081, server: ak1812.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇬🇧 GB(AzadNet.t.me)_072, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇫🇷 法国(油管破解资源君2.0) 3, server: 149.202.82.172, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 白嫖-061, server: 138.2.44.211, port: 20081, type: vmess, uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973, alterId: 0, cipher: auto, tls: false}
+  - {name: RELAY-104.31.16.25-169, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}}
   - {name: UA(AzadNet.t.me)_018, server: ak1815.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Chayf4Frea}
+  - {name: EE(AzadNet.t.me)_003, server: 45.129.96.62, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: dafHo6GF3d67mOdji}
+  - {name: 🇬🇧 GB(AzadNet.t.me)_072, server: ak1757.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_081, server: ak1812.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇫🇷 法国(油管破解资源君2.0) 3, server: 149.202.82.172, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇫🇷 法国(油管破解资源君2.0) 2, server: 145.239.1.100, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
   - {name: 🇩🇪 DE(AzadNet.t.me)_153, server: ak1820.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇫🇷 FR(AzadNet.t.me)_078, server: 54.36.174.181, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
   - {name: 🇪🇺 欧洲(油管破解资源君2.0) 20, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: "%�\x11�%�P���白嫖-485", server: 163.172.218.164, port: 443, type: ssr, cipher: aes-256-ctr, password: NewBypasser2023, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: RELAY-104.31.16.25-169, server: ns1.v2-vip.fun, port: 8880, type: vmess, uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY, headers: {Host: fr7.tehme100.fun}}}
-  - {name: 🇫🇷 FR(AzadNet.t.me)_076, server: 57.128.173.6, port: 443, type: trojan, password: 29f2cf65-f0ee-4a08-83f3-df1beb74d55d, skip-cert-verify: true}
-  - {name: CY(AzadNet.t.me)_026, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: YouTube阿伟科技, server: 154.9.204.54, port: 60000, type: ssr, cipher: dummy, password: 52*wentermethod, protocol: auth_chain_a, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: BG(AzadNet.t.me)_003, server: 89.44.197.156, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇫🇷 FR(AzadNet.t.me)_220, server: 54.36.115.241, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇫🇷 法国(油管破解资源君2.0) 2, server: 145.239.1.100, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: IM(AzadNet.t.me)_002, server: 192.71.211.161, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 101, server: 152.69.197.60, port: 1069, type: vmess, uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf, alterId: 0, cipher: auto, tls: false}
+  - {name: IE(AzadNet.t.me)_002, server: 23.92.127.134, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "%�\x11�%�P���白嫖-485", server: 163.172.218.164, port: 443, type: ssr, cipher: aes-256-ctr, password: NewBypasser2023, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: 🇮🇳 IN(AzadNet.t.me)_005, server: 27.124.20.216, port: 44902, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
+  - {name: 动态节点, server: dongtaiwang3.com, port: 443, type: vmess, uuid: 6deddb7f-e557-42db-bfa0-cf40b36b27e2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: d.freeh1.xyz}}}
+  - {name: 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2, server: 13.250.35.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: IE(AzadNet.t.me)_003, server: 23.92.127.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇳🇱 NL(AzadNet.t.me)_069, server: 51.15.25.187, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: IE(AzadNet.t.me)_002, server: 23.92.127.134, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 白嫖-061, server: 138.2.44.211, port: 20081, type: vmess, uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇳🇱 荷兰 01, server: ming2.kiwireich.com, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: ming2.kiwireich.com}}}
   - {name: 🇷🇺 _RU_俄罗斯联邦 2, server: www.dongtaiwang4.com, port: 22222, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
-  - {name: UA(AzadNet.t.me)_017, server: 195.28.182.217, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: shwoghRia}
-  - {name: 未知_0804767, server: ming2.kiwireich.com, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /ray, headers: {Host: ming2.kiwireich.com}}}
-  - {name: EE(AzadNet.t.me)_003, server: 45.129.96.62, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: dafHo6GF3d67mOdji}
+  - {name: 🇪🇸 西班牙 01, server: shm.ircf.space, port: 443, type: vmess, uuid: 79770a32-9607-4919-9483-0f1794559390, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /juYLyvNBpY0LBOAommy2aJE, headers: {Host: hiddis2.freelines.net}}}
+  - {name: RS(AzadNet.t.me)_001, server: 37.120.193.102, port: 52920, type: vmess, uuid: 57170ff0-7180-4664-8f61-8debdda345f7, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇫🇷 FR(AzadNet.t.me)_224, server: 135.125.244.103, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: "@SSRSUB-V13-付费推荐dlj.tf/ssrsub", server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
   - {name: MT(AzadNet.t.me), server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RELAY-104.31.16.27-183, server: ns1.v2-vip.fun, port: 80, type: vmess, uuid: 8abe9496-5e24-4e49-b566-dcf86116017d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /i99LgvSaslbsPLLQQ7j6Z, headers: {Host: de5.irteh.fun}}}
   - {name: SK(AzadNet.t.me), server: 185.48.248.126, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Onsheypy}
-  - {name: 未知_0804039, server: 104.18.64.251, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /GdtYWlsLmNvbSJ9LCJjb3V, headers: {Host: newyork.yj2022.gq}}}
-  - {name: BE(AzadNet.t.me)_002, server: 192.71.249.108, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: HU(AzadNet.t.me)_001, server: 5.181.77.86, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇮🇸 IS(AzadNet.t.me)_002, server: 37.235.49.152, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: HR(AzadNet.t.me)_002, server: 46.183.184.60, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: LU(AzadNet.t.me)_009, server: 92.38.163.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: CZ(AzadNet.t.me)_004, server: 195.123.246.15, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: cyi4FDe4FdrTG3rUpna}
+  - {name: 未知_0804039, server: 104.18.64.251, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /GdtYWlsLmNvbSJ9LCJjb3V, headers: {Host: newyork.yj2022.gq}}}
+  - {name: HR(AzadNet.t.me)_002, server: 46.183.184.60, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: HR(AzadNet.t.me)_001, server: 46.183.184.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇮🇸 IS(AzadNet.t.me)_001, server: 37.235.49.162, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇳🇱 NL(AzadNet.t.me)_010, server: 185.162.235.250, port: 2054, type: vmess, uuid: 6f117af4-cd52-40f8-9236-7c5e3f357cc8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /socket.io}}
-  - {name: MK(AzadNet.t.me)_001, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: GR(AzadNet.t.me)_001, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: BE(AzadNet.t.me)_001, server: 192.71.249.71, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: MK(AzadNet.t.me)_002, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: GR(AzadNet.t.me)_002, server: 192.71.166.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇮🇸 IS(AzadNet.t.me)_002, server: 37.235.49.152, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇳🇱 NL(AzadNet.t.me)_010, server: 185.162.235.250, port: 2054, type: vmess, uuid: 6f117af4-cd52-40f8-9236-7c5e3f357cc8, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /socket.io}}
+  - {name: LU(AzadNet.t.me)_009, server: 92.38.163.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BE(AzadNet.t.me)_002, server: 192.71.249.108, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MK(AzadNet.t.me)_001, server: 46.183.185.37, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: RS(AzadNet.t.me)_002, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇩🇪 德国_0804025, server: 116.202.30.76, port: 42000, type: vmess, uuid: 408438b0-fe40-44de-af19-0e5e6bb750ce, alterId: 0, cipher: auto, tls: false}
   - {name: 🇩🇰 DK(AzadNet.t.me)_001, server: 192.36.27.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇩🇰 DK(AzadNet.t.me)_002, server: 192.36.27.116, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: HR(AzadNet.t.me)_001, server: 46.183.184.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MK(AzadNet.t.me)_002, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SI(AzadNet.t.me), server: 192.71.244.150, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇩🇪 德国_0804025, server: 116.202.30.76, port: 42000, type: vmess, uuid: 408438b0-fe40-44de-af19-0e5e6bb750ce, alterId: 0, cipher: auto, tls: false}
-  - {name: GR(AzadNet.t.me)_001, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇳🇱 荷兰_0804014, server: 188.114.98.42, port: 2082, type: vmess, uuid: 0ddf0cc4-1487-4ff1-a6a7-d9ab93040606, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /blue, headers: {Host: tot.vtcss.top}}}
+  - {name: GR(AzadNet.t.me)_002, server: 192.71.166.100, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: Telegram@kxswa | https//t.me/kxswa 2, server: ip.saintink.eu.org, port: 443, type: vmess, uuid: d4b6f48f-7474-44dc-9492-8fa3f63db887, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: ro2.v2rayserv.com/vmess, headers: {Host: 4.saintink.eu.org}}}
+  - {name: HU(AzadNet.t.me)_001, server: 5.181.77.86, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: github.com/freefq - 乌克兰  12, server: 95.164.34.184, port: 80, type: vmess, uuid: 3af9754e-f2a8-406c-a8a1-4553065e6da4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /vmess, headers: {Host: tr-01vm.mr-radwan-daoud.de}}}
+  - {name: 🇦🇺 _AU_澳大利亚_13@38, server: 168.138.102.89, port: 80, type: vmess, uuid: 0792ca95-a0ba-4510-eab3-8ea03239c532, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -277,262 +285,270 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港【付费推荐：https//tt.vg/vip】189
-      - 🇯🇵 _JP_日本_1_5@11
       - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇯🇵 JP(AzadNet.t.me)_014
       - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇯🇵 _JP_日本_1_5@11
+      - JP_23 | 2.26Mb
       - 🇨🇳 台湾_0804005
-      - 🇯🇵 日本_0804009
-      - 🇸🇬 _SG_新加坡 2
-      - 🇸🇬 SG(AzadNet.t.me)_001
-      - 🇸🇬 SG(AzadNet.t.me)_004
       - 🇭🇰 HK 14 → tg@nicevpn123
-      - 🇭🇰 HK(AzadNet.t.me)_016
-      - 🇯🇵 日本 315
-      - 🇰🇷 _KR_韩国 2
-      - 🇸🇬 SG(AzadNet.t.me)_022
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇯🇵 日本_0804009
       - 🇸🇬 新加坡_0804003
-      - 🇸🇬 _SG_新加坡
+      - 🇭🇰 HK(AzadNet.t.me)_016
+      - 🇸🇬 _SG_新加坡 2
       - 🇸🇬 SG(AzadNet.t.me)_009
-      - 🇸🇬 SG(AzadNet.t.me)_114
+      - 🇯🇵 日本 315
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇸🇬 SG(AzadNet.t.me)_004
+      - 🇸🇬 SG(AzadNet.t.me)_001
+      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇸🇬 _SG_新加坡 2 2
+      - 🇸🇬 _SG_新加坡
       - 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian
-      - 🇨🇳 TW(AzadNet.t.me)_008
       - 🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian
-      - 🇺🇸 US(AzadNet.t.me)_005
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 4
-      - 🇺🇸 US(AzadNet.t.me)_798
-      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇨🇳 TW(AzadNet.t.me)_008
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_805
       - 🇺🇸 US(AzadNet.t.me)_799
       - 🇺🇸 US(AzadNet.t.me)_802
-      - 🇺🇸 US(AzadNet.t.me)_804
-      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_798
       - 🇺🇸 US(AzadNet.t.me)_796
-      - 🇺🇸 US(AzadNet.t.me)_805
-      - 🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_804
       - 🇺🇸 US(AzadNet.t.me)_797
+      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇺🇸 美国 58
+      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_060
       - 🇺🇸 US(AzadNet.t.me)_199
-      - 🇺🇸 US(AzadNet.t.me)_432
-      - 🇺🇸 US(AzadNet.t.me)_431
-      - 🇺🇸 US(AzadNet.t.me)_447
+      - 🇺🇸 美国_08041439
       - 🇺🇸 US(AzadNet.t.me)_411
-      - 🇺🇸 US(AzadNet.t.me)_441
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 美国_0804116
-      - 🇺🇸 US(AzadNet.t.me)_661
       - 🇺🇸 US(AzadNet.t.me)_433
-      - 🇺🇸 US(AzadNet.t.me)_662
+      - 🇺🇸 US(AzadNet.t.me)_440
+      - 🇺🇸 US(AzadNet.t.me)_447
       - 🇺🇸 US(AzadNet.t.me)_402
+      - 🇺🇸 美国_0804116
+      - 🇺🇸 US(AzadNet.t.me)_442
       - 🇺🇸 美国_0804066
-      - 🇺🇸 US(AzadNet.t.me)_663
-      - 🇺🇸 美国_0804031
-      - 🇺🇸 美国_0804176
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
+      - 🇺🇸 美国_0804038
+      - 🇺🇸 US(AzadNet.t.me)_441
       - 🇺🇸 US(AzadNet.t.me)_607
+      - 🇺🇸 美国_0804256
+      - 🇺🇸 US(AzadNet.t.me)_448
       - 🇺🇸 US(AzadNet.t.me)_659
       - 🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30
-      - 🇺🇸 美国_0804256
-      - 🇺🇸 美国_0804068
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
-      - 🇺🇸 美国_08041439
-      - 🇺🇸 美国_0804391
-      - 🇺🇸 US(AzadNet.t.me)_448
-      - 🇺🇸 US美国(youtube阿伟科技)
-      - 🇺🇸 美国_0804038
-      - 🇺🇸 _US_美国_12
-      - 🇺🇸 美国 319
-      - 🇺🇸 美国_0804835
       - 🇺🇸 US(AzadNet.t.me)_439
-      - 🇺🇸 US(AzadNet.t.me)_440
-      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804031
+      - 🇺🇸 US(AzadNet.t.me)_661
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
+      - 🇺🇸 US(AzadNet.t.me)_660
+      - 🇺🇸 US(AzadNet.t.me)_431
+      - 🇺🇸 US(AzadNet.t.me)_432
+      - 🇺🇸 US(AzadNet.t.me)_663
+      - 🇺🇸 美国_0804391
+      - 🇺🇸 美国_0804835
+      - 🇺🇸 US美国(youtube阿伟科技)
+      - 🇺🇸 _US_美国_12
+      - 🇺🇸 美国_0804068
       - 🇺🇸 美国(油管破解资源君2.0) 3
       - 🇺🇸 美国(油管破解资源君2.0) 2
-      - 🇺🇸 US(AzadNet.t.me)_660
-      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_576
-      - 🇺🇸 US(AzadNet.t.me)_571
-      - 🇺🇸 US(AzadNet.t.me)_667
-      - 🇺🇸 美国_0804167
-      - 🇺🇸 US(AzadNet.t.me)_556
-      - 🇺🇸 美国_0804161
-      - "[VMess] 🇺🇲 US_speednode_0066"
-      - 🇺🇸 [VMess] 🇺🇲 -US-038
-      - 🇺🇸 美国_0804165
-      - 🇺🇸 美国_0804169
-      - 🇺🇸 美国_0804172
       - 🇺🇸 US(AzadNet.t.me)_555
+      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_578
+      - 🇺🇸 US(AzadNet.t.me)_556
+      - 🇺🇸 US(AzadNet.t.me)_571
+      - "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3"
+      - 🇺🇸 美国_0804172
+      - 🇺🇸 美国_0804167
+      - "[VMess] 🇺🇲 US_speednode_0066"
+      - 🇺🇸 美国_0804161
+      - 🇺🇸 美国 319
+      - 🇺🇸 [VMess] 🇺🇲 -US-038
+      - 🇺🇸 US(AzadNet.t.me)_667
+      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804169
+      - 🇺🇸 美国_0804165
+      - 🇨🇦 CA(AzadNet.t.me)_006
+      - 🇺🇸 美国_0804099
       - 🇺🇸 美国(油管破解资源君2.0) 45
       - 🇺🇸 美国 337
-      - 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 美国_0804105
-      - 🇨🇦 CA(AzadNet.t.me)_040
-      - "🇺🇸 US美国(youtube阿伟科技)\r"
-      - 🇺🇸 US(AzadNet.t.me)_801
       - "[VMess] 🇺🇲 US_speednode_0070"
-      - 🇺🇸 美国_0804099
-      - 🇺🇸 US(AzadNet.t.me)_001
-      - 🇺🇸 US(AzadNet.t.me)_588
-      - 🇺🇸 US(AzadNet.t.me)_434
-      - 🇺🇸 US(AzadNet.t.me)_803
-      - 🇺🇸 US(AzadNet.t.me)_785
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】174
-      - 🇺🇸 US(AzadNet.t.me)_437
-      - 🇺🇸 US(AzadNet.t.me)_436
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
-      - 🇺🇸 美国_0804007
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
-      - 🇺🇸 美国(油管破解资源君2.0) 16
-      - 🇺🇸 8|🇺🇸_US_美国
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
-      - 🇨🇦 加拿大_0804003
+      - 🇨🇦 CA(AzadNet.t.me)_040
+      - 🇺🇸 US(AzadNet.t.me)_090
+      - "🇺🇸 US美国(youtube阿伟科技)\r"
       - 🇨🇦 加拿大 01
+      - 🇺🇸 美国_0804105
+      - 🇺🇸 US(AzadNet.t.me)_801
+      - 🇺🇸 US(AzadNet.t.me)_589
+      - 🇺🇸 US(AzadNet.t.me)_803
       - 🇺🇸 US(AzadNet.t.me)_435
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_785
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 美国_0804176
+      - 🇺🇸 _US_美国 10
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】100
+      - 🇺🇸 US(AzadNet.t.me)_436
+      - 🇺🇸 US(AzadNet.t.me)_437
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
+      - 🇺🇸 美国_0804110
+      - 🇨🇦 加拿大【付费推荐：https//tt.vg/vip】126
+      - 🇺🇸 美国_0804007
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国_0804469
+      - 🇺🇸 US(AzadNet.t.me)_006
+      - 🇺🇸 US(AzadNet.t.me)_005
+      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 US(AzadNet.t.me)_119
       - 🇺🇸 US(AzadNet.t.me)_113
+      - 🇺🇸 US(AzadNet.t.me)_115
+      - 🇺🇸 美国(油管破解资源君2.0) 16
       - 🇺🇸 US(AzadNet.t.me)_107
       - 🇺🇸 US(AzadNet.t.me)_499
-      - 🇺🇸 US(AzadNet.t.me)_117
-      - 🇺🇸 美国_0804110
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
-      - 🇺🇸 US(AzadNet.t.me)_115
-      - 🇺🇸 US(AzadNet.t.me)_109
       - 🇺🇸 US(AzadNet.t.me)_523
-      - 🇺🇸 美国_0804469
-      - 🇺🇸 US(AzadNet.t.me)_119
-      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_519
-      - 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 美国_0804427
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1
+      - 🇺🇸 US(AzadNet.t.me)_117
+      - 🇺🇸 US(AzadNet.t.me)_109
+      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_503
       - 🇺🇸 US(AzadNet.t.me)_520
       - 🇺🇸 美国_0804093
-      - 🇺🇸 美国_0804123
-      - 🇺🇸 美国_0804125
-      - 🇺🇸 美国_0804132
       - 🇺🇸 美国_0804168
-      - 伯利兹 01
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】184
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】45
       - 未知_0804016
       - Relay_ |25.53Mb
-      - 🇬🇧 GB(AzadNet.t.me)_080
-      - 🇬🇧 GB(AzadNet.t.me)_085
-      - 🇬🇧 GB(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_088
-      - 🇬🇧 GB(AzadNet.t.me)_090
-      - 🇬🇧 GB(AzadNet.t.me)_083
-      - 🇬🇧 GB(AzadNet.t.me)_082
-      - 🇬🇧 GB(AzadNet.t.me)_077
-      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇬🇧 GB(AzadNet.t.me)_076
-      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_085
+      - 🇬🇧 GB(AzadNet.t.me)_077
+      - 🇬🇧 GB(AzadNet.t.me)_081
       - 🇬🇧 GB(AzadNet.t.me)_086
-      - 🇬🇧 GB(AzadNet.t.me)_004
-      - 🇳🇱 NL(AzadNet.t.me)_079
-      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇬🇧 GB(AzadNet.t.me)_075
+      - 🇬🇧 GB(AzadNet.t.me)_082
+      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_090
+      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇳🇱 NL(AzadNet.t.me)_070
-      - 🇳🇱 NL(AzadNet.t.me)_068
-      - 🇳🇱 NL(AzadNet.t.me)_071
-      - 🇫🇷 FR(AzadNet.t.me)_221
-      - 🇩🇪 DE(AzadNet.t.me)_156
-      - 🇫🇷 FR(AzadNet.t.me)_223
-      - 🇳🇱 NL(AzadNet.t.me)_075
-      - 🇫🇷 法国_0804002
+      - 🇬🇧 GB(AzadNet.t.me)_004
       - 🇫🇷 FR(AzadNet.t.me)_222
-      - 🇫🇷 FR(AzadNet.t.me)_014
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
-      - 🇩🇪 DE德国(youtube阿伟科技) 2
-      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇳🇱 NL(AzadNet.t.me)_068
+      - 🇳🇱 NL(AzadNet.t.me)_075
+      - 🇳🇱 NL(AzadNet.t.me)_071
+      - 🇫🇷 FR(AzadNet.t.me)_076
+      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇩🇪 DE(AzadNet.t.me)_156
+      - 🇫🇷 FR(AzadNet.t.me)_221
+      - 🇫🇷 FR(AzadNet.t.me)_223
       - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net5-1
+      - 🇫🇷 法国_0804002
+      - 🇩🇪 DE德国(youtube阿伟科技) 2
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
+      - 🇳🇱 NL(AzadNet.t.me)_079
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
       - 🇩🇪 DE(AzadNet.t.me)_157
-      - 🇩🇪 DE(AzadNet.t.me)_019
       - 🇩🇪 DE(AzadNet.t.me)_021
-      - CH(AzadNet.t.me)_005
-      - CH(AzadNet.t.me)_004
+      - 🇩🇪 DE(AzadNet.t.me)_019
+      - 🇩🇪 DE(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_083
+      - 🇩🇪 DE(AzadNet.t.me)_155
       - 🇩🇪 DE(AzadNet.t.me)_158
-      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
-      - AT(AzadNet.t.me)_002
-      - AF(AzadNet.t.me)
+      - CH(AzadNet.t.me)_004
+      - CH(AzadNet.t.me)_005
+      - 🇫🇷 FR(AzadNet.t.me)_014
       - "@customv2ray کانفیگ های بیشتر عضو شو 6"
-      - 135.148.148.480
+      - AT(AzadNet.t.me)_002
       - 🇳🇱 荷兰_0804002
+      - AF(AzadNet.t.me)
+      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇵🇱 PL(AzadNet.t.me)_051
+      - 135.148.148.480
+      - IM(AzadNet.t.me)_002
       - 🇵🇱 PL(AzadNet.t.me)_009
-      - RO(AzadNet.t.me)_015
-      - 🇫🇷 FR(AzadNet.t.me)_011
       - 🇩🇪 DE(AzadNet.t.me)_160
+      - 🇫🇷 FR(AzadNet.t.me)_065
+      - RO(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_088
       - BA(AzadNet.t.me)
       - 🇫🇷 FR(AzadNet.t.me)_002
       - 🇫🇷 FR(AzadNet.t.me)_004
-      - UA(AzadNet.t.me)_016
+      - 🇫🇷 FR(AzadNet.t.me)_011
+      - 🇬🇧 GB(AzadNet.t.me)_080
       - IT(AzadNet.t.me)_008
-      - 🇵🇱 PL(AzadNet.t.me)_051
-      - 🇫🇷 FR(AzadNet.t.me)_008
       - IL(AzadNet.t.me)
-      - 🇪🇸 ES(AzadNet.t.me)_004
+      - UA(AzadNet.t.me)_016
       - 54.199.83.2392333
-      - BG(AzadNet.t.me)_003
+      - 🇫🇷 FR(AzadNet.t.me)_008
+      - 🇪🇸 ES(AzadNet.t.me)_004
       - AZ(AzadNet.t.me)_002
       - AE(AzadNet.t.me)_003
-      - 🇬🇧 GB(AzadNet.t.me)_065
+      - 🇮🇳 IN(AzadNet.t.me)_003
       - 🇸🇬 sg-am3.eqsunshine.com32001
       - FI(AzadNet.t.me)_025
-      - Relay_ |21.99Mb
-      - RS(AzadNet.t.me)_001
-      - 未知_0804019
+      - 🇬🇧 GB(AzadNet.t.me)_065
       - AL(AzadNet.t.me)
       - "|30.83Mb"
+      - CY(AzadNet.t.me)_026
+      - 二爷翻墙 https//1808.cf Node_2
       - NO(AzadNet.t.me)_003
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
-      - 🇫🇷 FR(AzadNet.t.me)_065
-      - 🇬🇧 GB(AzadNet.t.me)_075
-      - 🇫🇷 FR(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_072
-      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 白嫖-061
+      - RELAY-104.31.16.25-169
       - UA(AzadNet.t.me)_018
+      - EE(AzadNet.t.me)_003
+      - 🇬🇧 GB(AzadNet.t.me)_072
+      - 🇫🇷 FR(AzadNet.t.me)_081
+      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 🇫🇷 法国(油管破解资源君2.0) 2
       - 🇩🇪 DE(AzadNet.t.me)_153
       - 🇫🇷 FR(AzadNet.t.me)_078
       - 🇪🇺 欧洲(油管破解资源君2.0) 20
-      - "%�\x11�%�P���白嫖-485"
-      - RELAY-104.31.16.25-169
-      - 🇫🇷 FR(AzadNet.t.me)_076
-      - CY(AzadNet.t.me)_026
+      - YouTube阿伟科技
+      - BG(AzadNet.t.me)_003
       - 🇫🇷 FR(AzadNet.t.me)_220
-      - 🇫🇷 法国(油管破解资源君2.0) 2
-      - IM(AzadNet.t.me)_002
-      - 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 101
+      - IE(AzadNet.t.me)_002
+      - "%�\x11�%�P���白嫖-485"
+      - 🇮🇳 IN(AzadNet.t.me)_005
+      - 动态节点
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
       - IE(AzadNet.t.me)_003
       - 🇳🇱 NL(AzadNet.t.me)_069
-      - IE(AzadNet.t.me)_002
-      - 白嫖-061
-      - 🇳🇱 荷兰 01
       - 🇷🇺 _RU_俄罗斯联邦 2
-      - UA(AzadNet.t.me)_017
-      - 未知_0804767
-      - EE(AzadNet.t.me)_003
+      - 🇪🇸 西班牙 01
+      - RS(AzadNet.t.me)_001
+      - 🇫🇷 FR(AzadNet.t.me)_224
+      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
       - MT(AzadNet.t.me)
+      - RELAY-104.31.16.27-183
       - SK(AzadNet.t.me)
-      - 未知_0804039
-      - BE(AzadNet.t.me)_002
-      - HU(AzadNet.t.me)_001
-      - 🇮🇸 IS(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_002
-      - LU(AzadNet.t.me)_009
       - CZ(AzadNet.t.me)_004
+      - 未知_0804039
+      - HR(AzadNet.t.me)_002
+      - HR(AzadNet.t.me)_001
       - 🇮🇸 IS(AzadNet.t.me)_001
-      - 🇳🇱 NL(AzadNet.t.me)_010
-      - MK(AzadNet.t.me)_001
+      - GR(AzadNet.t.me)_001
       - BE(AzadNet.t.me)_001
-      - MK(AzadNet.t.me)_002
-      - GR(AzadNet.t.me)_002
+      - 🇮🇸 IS(AzadNet.t.me)_002
+      - 🇳🇱 NL(AzadNet.t.me)_010
+      - LU(AzadNet.t.me)_009
+      - BE(AzadNet.t.me)_002
+      - MK(AzadNet.t.me)_001
       - RS(AzadNet.t.me)_002
+      - 🇩🇪 德国_0804025
       - 🇩🇰 DK(AzadNet.t.me)_001
       - 🇩🇰 DK(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_001
+      - MK(AzadNet.t.me)_002
       - SI(AzadNet.t.me)
-      - 🇩🇪 德国_0804025
-      - GR(AzadNet.t.me)_001
-      - 🇳🇱 荷兰_0804014
+      - GR(AzadNet.t.me)_002
+      - Telegram@kxswa | https//t.me/kxswa 2
+      - HU(AzadNet.t.me)_001
+      - github.com/freefq - 乌克兰  12
+      - 🇦🇺 _AU_澳大利亚_13@38
   - name: 🏳️‍🌈 地区选择
     type: select
     proxies:
@@ -584,262 +600,270 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 香港【付费推荐：https//tt.vg/vip】189
-      - 🇯🇵 _JP_日本_1_5@11
       - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇯🇵 JP(AzadNet.t.me)_014
       - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇯🇵 _JP_日本_1_5@11
+      - JP_23 | 2.26Mb
       - 🇨🇳 台湾_0804005
-      - 🇯🇵 日本_0804009
-      - 🇸🇬 _SG_新加坡 2
-      - 🇸🇬 SG(AzadNet.t.me)_001
-      - 🇸🇬 SG(AzadNet.t.me)_004
       - 🇭🇰 HK 14 → tg@nicevpn123
-      - 🇭🇰 HK(AzadNet.t.me)_016
-      - 🇯🇵 日本 315
-      - 🇰🇷 _KR_韩国 2
-      - 🇸🇬 SG(AzadNet.t.me)_022
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇯🇵 日本_0804009
       - 🇸🇬 新加坡_0804003
-      - 🇸🇬 _SG_新加坡
+      - 🇭🇰 HK(AzadNet.t.me)_016
+      - 🇸🇬 _SG_新加坡 2
       - 🇸🇬 SG(AzadNet.t.me)_009
-      - 🇸🇬 SG(AzadNet.t.me)_114
+      - 🇯🇵 日本 315
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇸🇬 SG(AzadNet.t.me)_004
+      - 🇸🇬 SG(AzadNet.t.me)_001
+      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇸🇬 _SG_新加坡 2 2
+      - 🇸🇬 _SG_新加坡
       - 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian
-      - 🇨🇳 TW(AzadNet.t.me)_008
       - 🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian
-      - 🇺🇸 US(AzadNet.t.me)_005
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 4
-      - 🇺🇸 US(AzadNet.t.me)_798
-      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇨🇳 TW(AzadNet.t.me)_008
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_805
       - 🇺🇸 US(AzadNet.t.me)_799
       - 🇺🇸 US(AzadNet.t.me)_802
-      - 🇺🇸 US(AzadNet.t.me)_804
-      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_798
       - 🇺🇸 US(AzadNet.t.me)_796
-      - 🇺🇸 US(AzadNet.t.me)_805
-      - 🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_804
       - 🇺🇸 US(AzadNet.t.me)_797
+      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇺🇸 美国 58
+      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_060
       - 🇺🇸 US(AzadNet.t.me)_199
-      - 🇺🇸 US(AzadNet.t.me)_432
-      - 🇺🇸 US(AzadNet.t.me)_431
-      - 🇺🇸 US(AzadNet.t.me)_447
+      - 🇺🇸 美国_08041439
       - 🇺🇸 US(AzadNet.t.me)_411
-      - 🇺🇸 US(AzadNet.t.me)_441
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 美国_0804116
-      - 🇺🇸 US(AzadNet.t.me)_661
       - 🇺🇸 US(AzadNet.t.me)_433
-      - 🇺🇸 US(AzadNet.t.me)_662
+      - 🇺🇸 US(AzadNet.t.me)_440
+      - 🇺🇸 US(AzadNet.t.me)_447
       - 🇺🇸 US(AzadNet.t.me)_402
+      - 🇺🇸 美国_0804116
+      - 🇺🇸 US(AzadNet.t.me)_442
       - 🇺🇸 美国_0804066
-      - 🇺🇸 US(AzadNet.t.me)_663
-      - 🇺🇸 美国_0804031
-      - 🇺🇸 美国_0804176
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
+      - 🇺🇸 美国_0804038
+      - 🇺🇸 US(AzadNet.t.me)_441
       - 🇺🇸 US(AzadNet.t.me)_607
+      - 🇺🇸 美国_0804256
+      - 🇺🇸 US(AzadNet.t.me)_448
       - 🇺🇸 US(AzadNet.t.me)_659
       - 🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30
-      - 🇺🇸 美国_0804256
-      - 🇺🇸 美国_0804068
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
-      - 🇺🇸 美国_08041439
-      - 🇺🇸 美国_0804391
-      - 🇺🇸 US(AzadNet.t.me)_448
-      - 🇺🇸 US美国(youtube阿伟科技)
-      - 🇺🇸 美国_0804038
-      - 🇺🇸 _US_美国_12
-      - 🇺🇸 美国 319
-      - 🇺🇸 美国_0804835
       - 🇺🇸 US(AzadNet.t.me)_439
-      - 🇺🇸 US(AzadNet.t.me)_440
-      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804031
+      - 🇺🇸 US(AzadNet.t.me)_661
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
+      - 🇺🇸 US(AzadNet.t.me)_660
+      - 🇺🇸 US(AzadNet.t.me)_431
+      - 🇺🇸 US(AzadNet.t.me)_432
+      - 🇺🇸 US(AzadNet.t.me)_663
+      - 🇺🇸 美国_0804391
+      - 🇺🇸 美国_0804835
+      - 🇺🇸 US美国(youtube阿伟科技)
+      - 🇺🇸 _US_美国_12
+      - 🇺🇸 美国_0804068
       - 🇺🇸 美国(油管破解资源君2.0) 3
       - 🇺🇸 美国(油管破解资源君2.0) 2
-      - 🇺🇸 US(AzadNet.t.me)_660
-      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_576
-      - 🇺🇸 US(AzadNet.t.me)_571
-      - 🇺🇸 US(AzadNet.t.me)_667
-      - 🇺🇸 美国_0804167
-      - 🇺🇸 US(AzadNet.t.me)_556
-      - 🇺🇸 美国_0804161
-      - "[VMess] 🇺🇲 US_speednode_0066"
-      - 🇺🇸 [VMess] 🇺🇲 -US-038
-      - 🇺🇸 美国_0804165
-      - 🇺🇸 美国_0804169
-      - 🇺🇸 美国_0804172
       - 🇺🇸 US(AzadNet.t.me)_555
+      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_578
+      - 🇺🇸 US(AzadNet.t.me)_556
+      - 🇺🇸 US(AzadNet.t.me)_571
+      - "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3"
+      - 🇺🇸 美国_0804172
+      - 🇺🇸 美国_0804167
+      - "[VMess] 🇺🇲 US_speednode_0066"
+      - 🇺🇸 美国_0804161
+      - 🇺🇸 美国 319
+      - 🇺🇸 [VMess] 🇺🇲 -US-038
+      - 🇺🇸 US(AzadNet.t.me)_667
+      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804169
+      - 🇺🇸 美国_0804165
+      - 🇨🇦 CA(AzadNet.t.me)_006
+      - 🇺🇸 美国_0804099
       - 🇺🇸 美国(油管破解资源君2.0) 45
       - 🇺🇸 美国 337
-      - 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 美国_0804105
-      - 🇨🇦 CA(AzadNet.t.me)_040
-      - "🇺🇸 US美国(youtube阿伟科技)\r"
-      - 🇺🇸 US(AzadNet.t.me)_801
       - "[VMess] 🇺🇲 US_speednode_0070"
-      - 🇺🇸 美国_0804099
-      - 🇺🇸 US(AzadNet.t.me)_001
-      - 🇺🇸 US(AzadNet.t.me)_588
-      - 🇺🇸 US(AzadNet.t.me)_434
-      - 🇺🇸 US(AzadNet.t.me)_803
-      - 🇺🇸 US(AzadNet.t.me)_785
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】174
-      - 🇺🇸 US(AzadNet.t.me)_437
-      - 🇺🇸 US(AzadNet.t.me)_436
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
-      - 🇺🇸 美国_0804007
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
-      - 🇺🇸 美国(油管破解资源君2.0) 16
-      - 🇺🇸 8|🇺🇸_US_美国
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
-      - 🇨🇦 加拿大_0804003
+      - 🇨🇦 CA(AzadNet.t.me)_040
+      - 🇺🇸 US(AzadNet.t.me)_090
+      - "🇺🇸 US美国(youtube阿伟科技)\r"
       - 🇨🇦 加拿大 01
+      - 🇺🇸 美国_0804105
+      - 🇺🇸 US(AzadNet.t.me)_801
+      - 🇺🇸 US(AzadNet.t.me)_589
+      - 🇺🇸 US(AzadNet.t.me)_803
       - 🇺🇸 US(AzadNet.t.me)_435
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_785
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 美国_0804176
+      - 🇺🇸 _US_美国 10
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】100
+      - 🇺🇸 US(AzadNet.t.me)_436
+      - 🇺🇸 US(AzadNet.t.me)_437
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
+      - 🇺🇸 美国_0804110
+      - 🇨🇦 加拿大【付费推荐：https//tt.vg/vip】126
+      - 🇺🇸 美国_0804007
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国_0804469
+      - 🇺🇸 US(AzadNet.t.me)_006
+      - 🇺🇸 US(AzadNet.t.me)_005
+      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 US(AzadNet.t.me)_119
       - 🇺🇸 US(AzadNet.t.me)_113
+      - 🇺🇸 US(AzadNet.t.me)_115
+      - 🇺🇸 美国(油管破解资源君2.0) 16
       - 🇺🇸 US(AzadNet.t.me)_107
       - 🇺🇸 US(AzadNet.t.me)_499
-      - 🇺🇸 US(AzadNet.t.me)_117
-      - 🇺🇸 美国_0804110
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
-      - 🇺🇸 US(AzadNet.t.me)_115
-      - 🇺🇸 US(AzadNet.t.me)_109
       - 🇺🇸 US(AzadNet.t.me)_523
-      - 🇺🇸 美国_0804469
-      - 🇺🇸 US(AzadNet.t.me)_119
-      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_519
-      - 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 美国_0804427
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1
+      - 🇺🇸 US(AzadNet.t.me)_117
+      - 🇺🇸 US(AzadNet.t.me)_109
+      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_503
       - 🇺🇸 US(AzadNet.t.me)_520
       - 🇺🇸 美国_0804093
-      - 🇺🇸 美国_0804123
-      - 🇺🇸 美国_0804125
-      - 🇺🇸 美国_0804132
       - 🇺🇸 美国_0804168
-      - 伯利兹 01
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】184
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】45
       - 未知_0804016
       - Relay_ |25.53Mb
-      - 🇬🇧 GB(AzadNet.t.me)_080
-      - 🇬🇧 GB(AzadNet.t.me)_085
-      - 🇬🇧 GB(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_088
-      - 🇬🇧 GB(AzadNet.t.me)_090
-      - 🇬🇧 GB(AzadNet.t.me)_083
-      - 🇬🇧 GB(AzadNet.t.me)_082
-      - 🇬🇧 GB(AzadNet.t.me)_077
-      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇬🇧 GB(AzadNet.t.me)_076
-      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_085
+      - 🇬🇧 GB(AzadNet.t.me)_077
+      - 🇬🇧 GB(AzadNet.t.me)_081
       - 🇬🇧 GB(AzadNet.t.me)_086
-      - 🇬🇧 GB(AzadNet.t.me)_004
-      - 🇳🇱 NL(AzadNet.t.me)_079
-      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇬🇧 GB(AzadNet.t.me)_075
+      - 🇬🇧 GB(AzadNet.t.me)_082
+      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_090
+      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇳🇱 NL(AzadNet.t.me)_070
-      - 🇳🇱 NL(AzadNet.t.me)_068
-      - 🇳🇱 NL(AzadNet.t.me)_071
-      - 🇫🇷 FR(AzadNet.t.me)_221
-      - 🇩🇪 DE(AzadNet.t.me)_156
-      - 🇫🇷 FR(AzadNet.t.me)_223
-      - 🇳🇱 NL(AzadNet.t.me)_075
-      - 🇫🇷 法国_0804002
+      - 🇬🇧 GB(AzadNet.t.me)_004
       - 🇫🇷 FR(AzadNet.t.me)_222
-      - 🇫🇷 FR(AzadNet.t.me)_014
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
-      - 🇩🇪 DE德国(youtube阿伟科技) 2
-      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇳🇱 NL(AzadNet.t.me)_068
+      - 🇳🇱 NL(AzadNet.t.me)_075
+      - 🇳🇱 NL(AzadNet.t.me)_071
+      - 🇫🇷 FR(AzadNet.t.me)_076
+      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇩🇪 DE(AzadNet.t.me)_156
+      - 🇫🇷 FR(AzadNet.t.me)_221
+      - 🇫🇷 FR(AzadNet.t.me)_223
       - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net5-1
+      - 🇫🇷 法国_0804002
+      - 🇩🇪 DE德国(youtube阿伟科技) 2
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
+      - 🇳🇱 NL(AzadNet.t.me)_079
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
       - 🇩🇪 DE(AzadNet.t.me)_157
-      - 🇩🇪 DE(AzadNet.t.me)_019
       - 🇩🇪 DE(AzadNet.t.me)_021
-      - CH(AzadNet.t.me)_005
-      - CH(AzadNet.t.me)_004
+      - 🇩🇪 DE(AzadNet.t.me)_019
+      - 🇩🇪 DE(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_083
+      - 🇩🇪 DE(AzadNet.t.me)_155
       - 🇩🇪 DE(AzadNet.t.me)_158
-      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
-      - AT(AzadNet.t.me)_002
-      - AF(AzadNet.t.me)
+      - CH(AzadNet.t.me)_004
+      - CH(AzadNet.t.me)_005
+      - 🇫🇷 FR(AzadNet.t.me)_014
       - "@customv2ray کانفیگ های بیشتر عضو شو 6"
-      - 135.148.148.480
+      - AT(AzadNet.t.me)_002
       - 🇳🇱 荷兰_0804002
+      - AF(AzadNet.t.me)
+      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇵🇱 PL(AzadNet.t.me)_051
+      - 135.148.148.480
+      - IM(AzadNet.t.me)_002
       - 🇵🇱 PL(AzadNet.t.me)_009
-      - RO(AzadNet.t.me)_015
-      - 🇫🇷 FR(AzadNet.t.me)_011
       - 🇩🇪 DE(AzadNet.t.me)_160
+      - 🇫🇷 FR(AzadNet.t.me)_065
+      - RO(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_088
       - BA(AzadNet.t.me)
       - 🇫🇷 FR(AzadNet.t.me)_002
       - 🇫🇷 FR(AzadNet.t.me)_004
-      - UA(AzadNet.t.me)_016
+      - 🇫🇷 FR(AzadNet.t.me)_011
+      - 🇬🇧 GB(AzadNet.t.me)_080
       - IT(AzadNet.t.me)_008
-      - 🇵🇱 PL(AzadNet.t.me)_051
-      - 🇫🇷 FR(AzadNet.t.me)_008
       - IL(AzadNet.t.me)
-      - 🇪🇸 ES(AzadNet.t.me)_004
+      - UA(AzadNet.t.me)_016
       - 54.199.83.2392333
-      - BG(AzadNet.t.me)_003
+      - 🇫🇷 FR(AzadNet.t.me)_008
+      - 🇪🇸 ES(AzadNet.t.me)_004
       - AZ(AzadNet.t.me)_002
       - AE(AzadNet.t.me)_003
-      - 🇬🇧 GB(AzadNet.t.me)_065
+      - 🇮🇳 IN(AzadNet.t.me)_003
       - 🇸🇬 sg-am3.eqsunshine.com32001
       - FI(AzadNet.t.me)_025
-      - Relay_ |21.99Mb
-      - RS(AzadNet.t.me)_001
-      - 未知_0804019
+      - 🇬🇧 GB(AzadNet.t.me)_065
       - AL(AzadNet.t.me)
       - "|30.83Mb"
+      - CY(AzadNet.t.me)_026
+      - 二爷翻墙 https//1808.cf Node_2
       - NO(AzadNet.t.me)_003
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
-      - 🇫🇷 FR(AzadNet.t.me)_065
-      - 🇬🇧 GB(AzadNet.t.me)_075
-      - 🇫🇷 FR(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_072
-      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 白嫖-061
+      - RELAY-104.31.16.25-169
       - UA(AzadNet.t.me)_018
+      - EE(AzadNet.t.me)_003
+      - 🇬🇧 GB(AzadNet.t.me)_072
+      - 🇫🇷 FR(AzadNet.t.me)_081
+      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 🇫🇷 法国(油管破解资源君2.0) 2
       - 🇩🇪 DE(AzadNet.t.me)_153
       - 🇫🇷 FR(AzadNet.t.me)_078
       - 🇪🇺 欧洲(油管破解资源君2.0) 20
-      - "%�\x11�%�P���白嫖-485"
-      - RELAY-104.31.16.25-169
-      - 🇫🇷 FR(AzadNet.t.me)_076
-      - CY(AzadNet.t.me)_026
+      - YouTube阿伟科技
+      - BG(AzadNet.t.me)_003
       - 🇫🇷 FR(AzadNet.t.me)_220
-      - 🇫🇷 法国(油管破解资源君2.0) 2
-      - IM(AzadNet.t.me)_002
-      - 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 101
+      - IE(AzadNet.t.me)_002
+      - "%�\x11�%�P���白嫖-485"
+      - 🇮🇳 IN(AzadNet.t.me)_005
+      - 动态节点
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
       - IE(AzadNet.t.me)_003
       - 🇳🇱 NL(AzadNet.t.me)_069
-      - IE(AzadNet.t.me)_002
-      - 白嫖-061
-      - 🇳🇱 荷兰 01
       - 🇷🇺 _RU_俄罗斯联邦 2
-      - UA(AzadNet.t.me)_017
-      - 未知_0804767
-      - EE(AzadNet.t.me)_003
+      - 🇪🇸 西班牙 01
+      - RS(AzadNet.t.me)_001
+      - 🇫🇷 FR(AzadNet.t.me)_224
+      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
       - MT(AzadNet.t.me)
+      - RELAY-104.31.16.27-183
       - SK(AzadNet.t.me)
-      - 未知_0804039
-      - BE(AzadNet.t.me)_002
-      - HU(AzadNet.t.me)_001
-      - 🇮🇸 IS(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_002
-      - LU(AzadNet.t.me)_009
       - CZ(AzadNet.t.me)_004
+      - 未知_0804039
+      - HR(AzadNet.t.me)_002
+      - HR(AzadNet.t.me)_001
       - 🇮🇸 IS(AzadNet.t.me)_001
-      - 🇳🇱 NL(AzadNet.t.me)_010
-      - MK(AzadNet.t.me)_001
+      - GR(AzadNet.t.me)_001
       - BE(AzadNet.t.me)_001
-      - MK(AzadNet.t.me)_002
-      - GR(AzadNet.t.me)_002
+      - 🇮🇸 IS(AzadNet.t.me)_002
+      - 🇳🇱 NL(AzadNet.t.me)_010
+      - LU(AzadNet.t.me)_009
+      - BE(AzadNet.t.me)_002
+      - MK(AzadNet.t.me)_001
       - RS(AzadNet.t.me)_002
+      - 🇩🇪 德国_0804025
       - 🇩🇰 DK(AzadNet.t.me)_001
       - 🇩🇰 DK(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_001
+      - MK(AzadNet.t.me)_002
       - SI(AzadNet.t.me)
-      - 🇩🇪 德国_0804025
-      - GR(AzadNet.t.me)_001
-      - 🇳🇱 荷兰_0804014
+      - GR(AzadNet.t.me)_002
+      - Telegram@kxswa | https//t.me/kxswa 2
+      - HU(AzadNet.t.me)_001
+      - github.com/freefq - 乌克兰  12
+      - 🇦🇺 _AU_澳大利亚_13@38
   - name: ⚡ 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -847,381 +871,391 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 香港【付费推荐：https//tt.vg/vip】189
-      - 🇯🇵 _JP_日本_1_5@11
       - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇯🇵 JP(AzadNet.t.me)_014
       - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇯🇵 _JP_日本_1_5@11
+      - JP_23 | 2.26Mb
       - 🇨🇳 台湾_0804005
-      - 🇯🇵 日本_0804009
-      - 🇸🇬 _SG_新加坡 2
-      - 🇸🇬 SG(AzadNet.t.me)_001
-      - 🇸🇬 SG(AzadNet.t.me)_004
       - 🇭🇰 HK 14 → tg@nicevpn123
-      - 🇭🇰 HK(AzadNet.t.me)_016
-      - 🇯🇵 日本 315
-      - 🇰🇷 _KR_韩国 2
-      - 🇸🇬 SG(AzadNet.t.me)_022
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇯🇵 日本_0804009
       - 🇸🇬 新加坡_0804003
-      - 🇸🇬 _SG_新加坡
+      - 🇭🇰 HK(AzadNet.t.me)_016
+      - 🇸🇬 _SG_新加坡 2
       - 🇸🇬 SG(AzadNet.t.me)_009
-      - 🇸🇬 SG(AzadNet.t.me)_114
+      - 🇯🇵 日本 315
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇸🇬 SG(AzadNet.t.me)_004
+      - 🇸🇬 SG(AzadNet.t.me)_001
+      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇸🇬 _SG_新加坡 2 2
+      - 🇸🇬 _SG_新加坡
       - 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian
-      - 🇨🇳 TW(AzadNet.t.me)_008
       - 🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian
-      - 🇺🇸 US(AzadNet.t.me)_005
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 4
-      - 🇺🇸 US(AzadNet.t.me)_798
-      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇨🇳 TW(AzadNet.t.me)_008
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_805
       - 🇺🇸 US(AzadNet.t.me)_799
       - 🇺🇸 US(AzadNet.t.me)_802
-      - 🇺🇸 US(AzadNet.t.me)_804
-      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_798
       - 🇺🇸 US(AzadNet.t.me)_796
-      - 🇺🇸 US(AzadNet.t.me)_805
-      - 🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_804
       - 🇺🇸 US(AzadNet.t.me)_797
+      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇺🇸 美国 58
+      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_060
       - 🇺🇸 US(AzadNet.t.me)_199
-      - 🇺🇸 US(AzadNet.t.me)_432
-      - 🇺🇸 US(AzadNet.t.me)_431
-      - 🇺🇸 US(AzadNet.t.me)_447
+      - 🇺🇸 美国_08041439
       - 🇺🇸 US(AzadNet.t.me)_411
-      - 🇺🇸 US(AzadNet.t.me)_441
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 美国_0804116
-      - 🇺🇸 US(AzadNet.t.me)_661
       - 🇺🇸 US(AzadNet.t.me)_433
-      - 🇺🇸 US(AzadNet.t.me)_662
+      - 🇺🇸 US(AzadNet.t.me)_440
+      - 🇺🇸 US(AzadNet.t.me)_447
       - 🇺🇸 US(AzadNet.t.me)_402
+      - 🇺🇸 美国_0804116
+      - 🇺🇸 US(AzadNet.t.me)_442
       - 🇺🇸 美国_0804066
-      - 🇺🇸 US(AzadNet.t.me)_663
-      - 🇺🇸 美国_0804031
-      - 🇺🇸 美国_0804176
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
+      - 🇺🇸 美国_0804038
+      - 🇺🇸 US(AzadNet.t.me)_441
       - 🇺🇸 US(AzadNet.t.me)_607
+      - 🇺🇸 美国_0804256
+      - 🇺🇸 US(AzadNet.t.me)_448
       - 🇺🇸 US(AzadNet.t.me)_659
       - 🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30
-      - 🇺🇸 美国_0804256
-      - 🇺🇸 美国_0804068
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
-      - 🇺🇸 美国_08041439
-      - 🇺🇸 美国_0804391
-      - 🇺🇸 US(AzadNet.t.me)_448
-      - 🇺🇸 US美国(youtube阿伟科技)
-      - 🇺🇸 美国_0804038
-      - 🇺🇸 _US_美国_12
-      - 🇺🇸 美国 319
-      - 🇺🇸 美国_0804835
       - 🇺🇸 US(AzadNet.t.me)_439
-      - 🇺🇸 US(AzadNet.t.me)_440
-      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804031
+      - 🇺🇸 US(AzadNet.t.me)_661
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
+      - 🇺🇸 US(AzadNet.t.me)_660
+      - 🇺🇸 US(AzadNet.t.me)_431
+      - 🇺🇸 US(AzadNet.t.me)_432
+      - 🇺🇸 US(AzadNet.t.me)_663
+      - 🇺🇸 美国_0804391
+      - 🇺🇸 美国_0804835
+      - 🇺🇸 US美国(youtube阿伟科技)
+      - 🇺🇸 _US_美国_12
+      - 🇺🇸 美国_0804068
       - 🇺🇸 美国(油管破解资源君2.0) 3
       - 🇺🇸 美国(油管破解资源君2.0) 2
-      - 🇺🇸 US(AzadNet.t.me)_660
-      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_576
-      - 🇺🇸 US(AzadNet.t.me)_571
-      - 🇺🇸 US(AzadNet.t.me)_667
-      - 🇺🇸 美国_0804167
-      - 🇺🇸 US(AzadNet.t.me)_556
-      - 🇺🇸 美国_0804161
-      - "[VMess] 🇺🇲 US_speednode_0066"
-      - 🇺🇸 [VMess] 🇺🇲 -US-038
-      - 🇺🇸 美国_0804165
-      - 🇺🇸 美国_0804169
-      - 🇺🇸 美国_0804172
       - 🇺🇸 US(AzadNet.t.me)_555
+      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_578
+      - 🇺🇸 US(AzadNet.t.me)_556
+      - 🇺🇸 US(AzadNet.t.me)_571
+      - "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3"
+      - 🇺🇸 美国_0804172
+      - 🇺🇸 美国_0804167
+      - "[VMess] 🇺🇲 US_speednode_0066"
+      - 🇺🇸 美国_0804161
+      - 🇺🇸 美国 319
+      - 🇺🇸 [VMess] 🇺🇲 -US-038
+      - 🇺🇸 US(AzadNet.t.me)_667
+      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804169
+      - 🇺🇸 美国_0804165
+      - 🇨🇦 CA(AzadNet.t.me)_006
+      - 🇺🇸 美国_0804099
       - 🇺🇸 美国(油管破解资源君2.0) 45
       - 🇺🇸 美国 337
-      - 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 美国_0804105
-      - 🇨🇦 CA(AzadNet.t.me)_040
-      - "🇺🇸 US美国(youtube阿伟科技)\r"
-      - 🇺🇸 US(AzadNet.t.me)_801
       - "[VMess] 🇺🇲 US_speednode_0070"
-      - 🇺🇸 美国_0804099
-      - 🇺🇸 US(AzadNet.t.me)_001
-      - 🇺🇸 US(AzadNet.t.me)_588
-      - 🇺🇸 US(AzadNet.t.me)_434
-      - 🇺🇸 US(AzadNet.t.me)_803
-      - 🇺🇸 US(AzadNet.t.me)_785
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】174
-      - 🇺🇸 US(AzadNet.t.me)_437
-      - 🇺🇸 US(AzadNet.t.me)_436
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
-      - 🇺🇸 美国_0804007
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
-      - 🇺🇸 美国(油管破解资源君2.0) 16
-      - 🇺🇸 8|🇺🇸_US_美国
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
-      - 🇨🇦 加拿大_0804003
+      - 🇨🇦 CA(AzadNet.t.me)_040
+      - 🇺🇸 US(AzadNet.t.me)_090
+      - "🇺🇸 US美国(youtube阿伟科技)\r"
       - 🇨🇦 加拿大 01
+      - 🇺🇸 美国_0804105
+      - 🇺🇸 US(AzadNet.t.me)_801
+      - 🇺🇸 US(AzadNet.t.me)_589
+      - 🇺🇸 US(AzadNet.t.me)_803
       - 🇺🇸 US(AzadNet.t.me)_435
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_785
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 美国_0804176
+      - 🇺🇸 _US_美国 10
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】100
+      - 🇺🇸 US(AzadNet.t.me)_436
+      - 🇺🇸 US(AzadNet.t.me)_437
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
+      - 🇺🇸 美国_0804110
+      - 🇨🇦 加拿大【付费推荐：https//tt.vg/vip】126
+      - 🇺🇸 美国_0804007
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国_0804469
+      - 🇺🇸 US(AzadNet.t.me)_006
+      - 🇺🇸 US(AzadNet.t.me)_005
+      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 US(AzadNet.t.me)_119
       - 🇺🇸 US(AzadNet.t.me)_113
+      - 🇺🇸 US(AzadNet.t.me)_115
+      - 🇺🇸 美国(油管破解资源君2.0) 16
       - 🇺🇸 US(AzadNet.t.me)_107
       - 🇺🇸 US(AzadNet.t.me)_499
-      - 🇺🇸 US(AzadNet.t.me)_117
-      - 🇺🇸 美国_0804110
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
-      - 🇺🇸 US(AzadNet.t.me)_115
-      - 🇺🇸 US(AzadNet.t.me)_109
       - 🇺🇸 US(AzadNet.t.me)_523
-      - 🇺🇸 美国_0804469
-      - 🇺🇸 US(AzadNet.t.me)_119
-      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_519
-      - 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 美国_0804427
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1
+      - 🇺🇸 US(AzadNet.t.me)_117
+      - 🇺🇸 US(AzadNet.t.me)_109
+      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_503
       - 🇺🇸 US(AzadNet.t.me)_520
       - 🇺🇸 美国_0804093
-      - 🇺🇸 美国_0804123
-      - 🇺🇸 美国_0804125
-      - 🇺🇸 美国_0804132
       - 🇺🇸 美国_0804168
-      - 伯利兹 01
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】184
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】45
       - 未知_0804016
       - Relay_ |25.53Mb
-      - 🇬🇧 GB(AzadNet.t.me)_080
-      - 🇬🇧 GB(AzadNet.t.me)_085
-      - 🇬🇧 GB(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_088
-      - 🇬🇧 GB(AzadNet.t.me)_090
-      - 🇬🇧 GB(AzadNet.t.me)_083
-      - 🇬🇧 GB(AzadNet.t.me)_082
-      - 🇬🇧 GB(AzadNet.t.me)_077
-      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇬🇧 GB(AzadNet.t.me)_076
-      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_085
+      - 🇬🇧 GB(AzadNet.t.me)_077
+      - 🇬🇧 GB(AzadNet.t.me)_081
       - 🇬🇧 GB(AzadNet.t.me)_086
-      - 🇬🇧 GB(AzadNet.t.me)_004
-      - 🇳🇱 NL(AzadNet.t.me)_079
-      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇬🇧 GB(AzadNet.t.me)_075
+      - 🇬🇧 GB(AzadNet.t.me)_082
+      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_090
+      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇳🇱 NL(AzadNet.t.me)_070
-      - 🇳🇱 NL(AzadNet.t.me)_068
-      - 🇳🇱 NL(AzadNet.t.me)_071
-      - 🇫🇷 FR(AzadNet.t.me)_221
-      - 🇩🇪 DE(AzadNet.t.me)_156
-      - 🇫🇷 FR(AzadNet.t.me)_223
-      - 🇳🇱 NL(AzadNet.t.me)_075
-      - 🇫🇷 法国_0804002
+      - 🇬🇧 GB(AzadNet.t.me)_004
       - 🇫🇷 FR(AzadNet.t.me)_222
-      - 🇫🇷 FR(AzadNet.t.me)_014
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
-      - 🇩🇪 DE德国(youtube阿伟科技) 2
-      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇳🇱 NL(AzadNet.t.me)_068
+      - 🇳🇱 NL(AzadNet.t.me)_075
+      - 🇳🇱 NL(AzadNet.t.me)_071
+      - 🇫🇷 FR(AzadNet.t.me)_076
+      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇩🇪 DE(AzadNet.t.me)_156
+      - 🇫🇷 FR(AzadNet.t.me)_221
+      - 🇫🇷 FR(AzadNet.t.me)_223
       - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net5-1
+      - 🇫🇷 法国_0804002
+      - 🇩🇪 DE德国(youtube阿伟科技) 2
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
+      - 🇳🇱 NL(AzadNet.t.me)_079
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
       - 🇩🇪 DE(AzadNet.t.me)_157
-      - 🇩🇪 DE(AzadNet.t.me)_019
       - 🇩🇪 DE(AzadNet.t.me)_021
-      - CH(AzadNet.t.me)_005
-      - CH(AzadNet.t.me)_004
+      - 🇩🇪 DE(AzadNet.t.me)_019
+      - 🇩🇪 DE(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_083
+      - 🇩🇪 DE(AzadNet.t.me)_155
       - 🇩🇪 DE(AzadNet.t.me)_158
-      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
-      - AT(AzadNet.t.me)_002
-      - AF(AzadNet.t.me)
+      - CH(AzadNet.t.me)_004
+      - CH(AzadNet.t.me)_005
+      - 🇫🇷 FR(AzadNet.t.me)_014
       - "@customv2ray کانفیگ های بیشتر عضو شو 6"
-      - 135.148.148.480
+      - AT(AzadNet.t.me)_002
       - 🇳🇱 荷兰_0804002
+      - AF(AzadNet.t.me)
+      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇵🇱 PL(AzadNet.t.me)_051
+      - 135.148.148.480
+      - IM(AzadNet.t.me)_002
       - 🇵🇱 PL(AzadNet.t.me)_009
-      - RO(AzadNet.t.me)_015
-      - 🇫🇷 FR(AzadNet.t.me)_011
       - 🇩🇪 DE(AzadNet.t.me)_160
+      - 🇫🇷 FR(AzadNet.t.me)_065
+      - RO(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_088
       - BA(AzadNet.t.me)
       - 🇫🇷 FR(AzadNet.t.me)_002
       - 🇫🇷 FR(AzadNet.t.me)_004
-      - UA(AzadNet.t.me)_016
+      - 🇫🇷 FR(AzadNet.t.me)_011
+      - 🇬🇧 GB(AzadNet.t.me)_080
       - IT(AzadNet.t.me)_008
-      - 🇵🇱 PL(AzadNet.t.me)_051
-      - 🇫🇷 FR(AzadNet.t.me)_008
       - IL(AzadNet.t.me)
-      - 🇪🇸 ES(AzadNet.t.me)_004
+      - UA(AzadNet.t.me)_016
       - 54.199.83.2392333
-      - BG(AzadNet.t.me)_003
+      - 🇫🇷 FR(AzadNet.t.me)_008
+      - 🇪🇸 ES(AzadNet.t.me)_004
       - AZ(AzadNet.t.me)_002
       - AE(AzadNet.t.me)_003
-      - 🇬🇧 GB(AzadNet.t.me)_065
+      - 🇮🇳 IN(AzadNet.t.me)_003
       - 🇸🇬 sg-am3.eqsunshine.com32001
       - FI(AzadNet.t.me)_025
-      - Relay_ |21.99Mb
-      - RS(AzadNet.t.me)_001
-      - 未知_0804019
+      - 🇬🇧 GB(AzadNet.t.me)_065
       - AL(AzadNet.t.me)
       - "|30.83Mb"
+      - CY(AzadNet.t.me)_026
+      - 二爷翻墙 https//1808.cf Node_2
       - NO(AzadNet.t.me)_003
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
-      - 🇫🇷 FR(AzadNet.t.me)_065
-      - 🇬🇧 GB(AzadNet.t.me)_075
-      - 🇫🇷 FR(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_072
-      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 白嫖-061
+      - RELAY-104.31.16.25-169
       - UA(AzadNet.t.me)_018
+      - EE(AzadNet.t.me)_003
+      - 🇬🇧 GB(AzadNet.t.me)_072
+      - 🇫🇷 FR(AzadNet.t.me)_081
+      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 🇫🇷 法国(油管破解资源君2.0) 2
       - 🇩🇪 DE(AzadNet.t.me)_153
       - 🇫🇷 FR(AzadNet.t.me)_078
       - 🇪🇺 欧洲(油管破解资源君2.0) 20
-      - "%�\x11�%�P���白嫖-485"
-      - RELAY-104.31.16.25-169
-      - 🇫🇷 FR(AzadNet.t.me)_076
-      - CY(AzadNet.t.me)_026
+      - YouTube阿伟科技
+      - BG(AzadNet.t.me)_003
       - 🇫🇷 FR(AzadNet.t.me)_220
-      - 🇫🇷 法国(油管破解资源君2.0) 2
-      - IM(AzadNet.t.me)_002
-      - 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 101
+      - IE(AzadNet.t.me)_002
+      - "%�\x11�%�P���白嫖-485"
+      - 🇮🇳 IN(AzadNet.t.me)_005
+      - 动态节点
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
       - IE(AzadNet.t.me)_003
       - 🇳🇱 NL(AzadNet.t.me)_069
-      - IE(AzadNet.t.me)_002
-      - 白嫖-061
-      - 🇳🇱 荷兰 01
       - 🇷🇺 _RU_俄罗斯联邦 2
-      - UA(AzadNet.t.me)_017
-      - 未知_0804767
-      - EE(AzadNet.t.me)_003
+      - 🇪🇸 西班牙 01
+      - RS(AzadNet.t.me)_001
+      - 🇫🇷 FR(AzadNet.t.me)_224
+      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
       - MT(AzadNet.t.me)
+      - RELAY-104.31.16.27-183
       - SK(AzadNet.t.me)
-      - 未知_0804039
-      - BE(AzadNet.t.me)_002
-      - HU(AzadNet.t.me)_001
-      - 🇮🇸 IS(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_002
-      - LU(AzadNet.t.me)_009
       - CZ(AzadNet.t.me)_004
+      - 未知_0804039
+      - HR(AzadNet.t.me)_002
+      - HR(AzadNet.t.me)_001
       - 🇮🇸 IS(AzadNet.t.me)_001
-      - 🇳🇱 NL(AzadNet.t.me)_010
-      - MK(AzadNet.t.me)_001
+      - GR(AzadNet.t.me)_001
       - BE(AzadNet.t.me)_001
-      - MK(AzadNet.t.me)_002
-      - GR(AzadNet.t.me)_002
+      - 🇮🇸 IS(AzadNet.t.me)_002
+      - 🇳🇱 NL(AzadNet.t.me)_010
+      - LU(AzadNet.t.me)_009
+      - BE(AzadNet.t.me)_002
+      - MK(AzadNet.t.me)_001
       - RS(AzadNet.t.me)_002
+      - 🇩🇪 德国_0804025
       - 🇩🇰 DK(AzadNet.t.me)_001
       - 🇩🇰 DK(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_001
+      - MK(AzadNet.t.me)_002
       - SI(AzadNet.t.me)
-      - 🇩🇪 德国_0804025
-      - GR(AzadNet.t.me)_001
-      - 🇳🇱 荷兰_0804014
+      - GR(AzadNet.t.me)_002
+      - Telegram@kxswa | https//t.me/kxswa 2
+      - HU(AzadNet.t.me)_001
+      - github.com/freefq - 乌克兰  12
+      - 🇦🇺 _AU_澳大利亚_13@38
   - name: 🌎 北美地区
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 100
     proxies:
-      - 🇺🇸 US(AzadNet.t.me)_005
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 4
-      - 🇺🇸 US(AzadNet.t.me)_798
-      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_805
       - 🇺🇸 US(AzadNet.t.me)_799
       - 🇺🇸 US(AzadNet.t.me)_802
-      - 🇺🇸 US(AzadNet.t.me)_804
-      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_798
       - 🇺🇸 US(AzadNet.t.me)_796
-      - 🇺🇸 US(AzadNet.t.me)_805
-      - 🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_804
       - 🇺🇸 US(AzadNet.t.me)_797
+      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇺🇸 美国 58
+      - "🇨🇦 CA加拿大(youtube阿伟科技)\r"
+      - 🇺🇸 US(AzadNet.t.me)_060
       - 🇺🇸 US(AzadNet.t.me)_199
-      - 🇺🇸 US(AzadNet.t.me)_432
-      - 🇺🇸 US(AzadNet.t.me)_431
-      - 🇺🇸 US(AzadNet.t.me)_447
+      - 🇺🇸 美国_08041439
       - 🇺🇸 US(AzadNet.t.me)_411
-      - 🇺🇸 US(AzadNet.t.me)_441
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 美国_0804116
-      - 🇺🇸 US(AzadNet.t.me)_661
       - 🇺🇸 US(AzadNet.t.me)_433
-      - 🇺🇸 US(AzadNet.t.me)_662
+      - 🇺🇸 US(AzadNet.t.me)_440
+      - 🇺🇸 US(AzadNet.t.me)_447
       - 🇺🇸 US(AzadNet.t.me)_402
+      - 🇺🇸 美国_0804116
+      - 🇺🇸 US(AzadNet.t.me)_442
       - 🇺🇸 美国_0804066
-      - 🇺🇸 US(AzadNet.t.me)_663
-      - 🇺🇸 美国_0804031
-      - 🇺🇸 美国_0804176
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
+      - 🇺🇸 美国_0804038
+      - 🇺🇸 US(AzadNet.t.me)_441
       - 🇺🇸 US(AzadNet.t.me)_607
+      - 🇺🇸 美国_0804256
+      - 🇺🇸 US(AzadNet.t.me)_448
       - 🇺🇸 US(AzadNet.t.me)_659
       - 🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30
-      - 🇺🇸 美国_0804256
-      - 🇺🇸 美国_0804068
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
-      - 🇺🇸 美国_08041439
-      - 🇺🇸 美国_0804391
-      - 🇺🇸 US(AzadNet.t.me)_448
-      - 🇺🇸 US美国(youtube阿伟科技)
-      - 🇺🇸 美国_0804038
-      - 🇺🇸 _US_美国_12
-      - 🇺🇸 美国 319
-      - 🇺🇸 美国_0804835
       - 🇺🇸 US(AzadNet.t.me)_439
-      - 🇺🇸 US(AzadNet.t.me)_440
-      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804031
+      - 🇺🇸 US(AzadNet.t.me)_661
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
+      - 🇺🇸 US(AzadNet.t.me)_660
+      - 🇺🇸 US(AzadNet.t.me)_431
+      - 🇺🇸 US(AzadNet.t.me)_432
+      - 🇺🇸 US(AzadNet.t.me)_663
+      - 🇺🇸 美国_0804391
+      - 🇺🇸 美国_0804835
+      - 🇺🇸 US美国(youtube阿伟科技)
+      - 🇺🇸 _US_美国_12
+      - 🇺🇸 美国_0804068
       - 🇺🇸 美国(油管破解资源君2.0) 3
       - 🇺🇸 美国(油管破解资源君2.0) 2
-      - 🇺🇸 US(AzadNet.t.me)_660
-      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_576
-      - 🇺🇸 US(AzadNet.t.me)_571
-      - 🇺🇸 US(AzadNet.t.me)_667
-      - 🇺🇸 美国_0804167
-      - 🇺🇸 US(AzadNet.t.me)_556
-      - 🇺🇸 美国_0804161
-      - "[VMess] 🇺🇲 US_speednode_0066"
-      - 🇺🇸 [VMess] 🇺🇲 -US-038
-      - 🇺🇸 美国_0804165
-      - 🇺🇸 美国_0804169
-      - 🇺🇸 美国_0804172
       - 🇺🇸 US(AzadNet.t.me)_555
+      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_578
+      - 🇺🇸 US(AzadNet.t.me)_556
+      - 🇺🇸 US(AzadNet.t.me)_571
+      - "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3"
+      - 🇺🇸 美国_0804172
+      - 🇺🇸 美国_0804167
+      - "[VMess] 🇺🇲 US_speednode_0066"
+      - 🇺🇸 美国_0804161
+      - 🇺🇸 美国 319
+      - 🇺🇸 [VMess] 🇺🇲 -US-038
+      - 🇺🇸 US(AzadNet.t.me)_667
+      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804169
+      - 🇺🇸 美国_0804165
+      - 🇨🇦 CA(AzadNet.t.me)_006
+      - 🇺🇸 美国_0804099
       - 🇺🇸 美国(油管破解资源君2.0) 45
       - 🇺🇸 美国 337
-      - 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 美国_0804105
-      - 🇨🇦 CA(AzadNet.t.me)_040
-      - "🇺🇸 US美国(youtube阿伟科技)\r"
-      - 🇺🇸 US(AzadNet.t.me)_801
       - "[VMess] 🇺🇲 US_speednode_0070"
-      - 🇺🇸 美国_0804099
-      - 🇺🇸 US(AzadNet.t.me)_001
-      - 🇺🇸 US(AzadNet.t.me)_588
-      - 🇺🇸 US(AzadNet.t.me)_434
-      - 🇺🇸 US(AzadNet.t.me)_803
-      - 🇺🇸 US(AzadNet.t.me)_785
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】174
-      - 🇺🇸 US(AzadNet.t.me)_437
-      - 🇺🇸 US(AzadNet.t.me)_436
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
-      - 🇺🇸 美国_0804007
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
-      - 🇺🇸 美国(油管破解资源君2.0) 16
-      - 🇺🇸 8|🇺🇸_US_美国
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
-      - 🇨🇦 加拿大_0804003
+      - 🇨🇦 CA(AzadNet.t.me)_040
+      - 🇺🇸 US(AzadNet.t.me)_090
+      - "🇺🇸 US美国(youtube阿伟科技)\r"
       - 🇨🇦 加拿大 01
+      - 🇺🇸 美国_0804105
+      - 🇺🇸 US(AzadNet.t.me)_801
+      - 🇺🇸 US(AzadNet.t.me)_589
+      - 🇺🇸 US(AzadNet.t.me)_803
       - 🇺🇸 US(AzadNet.t.me)_435
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_785
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 美国_0804176
+      - 🇺🇸 _US_美国 10
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】100
+      - 🇺🇸 US(AzadNet.t.me)_436
+      - 🇺🇸 US(AzadNet.t.me)_437
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
+      - 🇺🇸 美国_0804110
+      - 🇨🇦 加拿大【付费推荐：https//tt.vg/vip】126
+      - 🇺🇸 美国_0804007
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国_0804469
+      - 🇺🇸 US(AzadNet.t.me)_006
+      - 🇺🇸 US(AzadNet.t.me)_005
+      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 US(AzadNet.t.me)_119
       - 🇺🇸 US(AzadNet.t.me)_113
+      - 🇺🇸 US(AzadNet.t.me)_115
+      - 🇺🇸 美国(油管破解资源君2.0) 16
       - 🇺🇸 US(AzadNet.t.me)_107
       - 🇺🇸 US(AzadNet.t.me)_499
-      - 🇺🇸 US(AzadNet.t.me)_117
-      - 🇺🇸 美国_0804110
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
-      - 🇺🇸 US(AzadNet.t.me)_115
-      - 🇺🇸 US(AzadNet.t.me)_109
       - 🇺🇸 US(AzadNet.t.me)_523
-      - 🇺🇸 美国_0804469
-      - 🇺🇸 US(AzadNet.t.me)_119
-      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_519
-      - 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 美国_0804427
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1
+      - 🇺🇸 US(AzadNet.t.me)_117
+      - 🇺🇸 US(AzadNet.t.me)_109
+      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_503
       - 🇺🇸 US(AzadNet.t.me)_520
       - 🇺🇸 美国_0804093
-      - 🇺🇸 美国_0804123
-      - 🇺🇸 美国_0804125
-      - 🇺🇸 美国_0804132
       - 🇺🇸 美国_0804168
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】184
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】45
   - name: 🌏 东亚地区
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1229,28 +1263,30 @@ proxy-groups:
     tolerance: 100
     proxies:
       - 🇭🇰 香港【付费推荐：https//tt.vg/vip】189
-      - 🇯🇵 _JP_日本_1_5@11
       - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇯🇵 JP(AzadNet.t.me)_014
       - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇯🇵 _JP_日本_1_5@11
+      - JP_23 | 2.26Mb
       - 🇨🇳 台湾_0804005
-      - 🇯🇵 日本_0804009
-      - 🇸🇬 _SG_新加坡 2
-      - 🇸🇬 SG(AzadNet.t.me)_001
-      - 🇸🇬 SG(AzadNet.t.me)_004
       - 🇭🇰 HK 14 → tg@nicevpn123
-      - 🇭🇰 HK(AzadNet.t.me)_016
-      - 🇯🇵 日本 315
-      - 🇰🇷 _KR_韩国 2
-      - 🇸🇬 SG(AzadNet.t.me)_022
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇯🇵 日本_0804009
       - 🇸🇬 新加坡_0804003
-      - 🇸🇬 _SG_新加坡
+      - 🇭🇰 HK(AzadNet.t.me)_016
+      - 🇸🇬 _SG_新加坡 2
       - 🇸🇬 SG(AzadNet.t.me)_009
-      - 🇸🇬 SG(AzadNet.t.me)_114
+      - 🇯🇵 日本 315
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇸🇬 SG(AzadNet.t.me)_004
+      - 🇸🇬 SG(AzadNet.t.me)_001
+      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇸🇬 _SG_新加坡 2 2
+      - 🇸🇬 _SG_新加坡
       - 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian
-      - 🇨🇳 TW(AzadNet.t.me)_008
       - 🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian
+      - 🇨🇳 TW(AzadNet.t.me)_008
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
       - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
   - name: 🌍 其它地区
     type: url-test
@@ -1259,242 +1295,248 @@ proxy-groups:
     tolerance: 100
     proxies:
       - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 伯利兹 01
       - 未知_0804016
       - Relay_ |25.53Mb
-      - 🇬🇧 GB(AzadNet.t.me)_080
-      - 🇬🇧 GB(AzadNet.t.me)_085
-      - 🇬🇧 GB(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_088
-      - 🇬🇧 GB(AzadNet.t.me)_090
-      - 🇬🇧 GB(AzadNet.t.me)_083
-      - 🇬🇧 GB(AzadNet.t.me)_082
-      - 🇬🇧 GB(AzadNet.t.me)_077
-      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇬🇧 GB(AzadNet.t.me)_076
-      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_085
+      - 🇬🇧 GB(AzadNet.t.me)_077
+      - 🇬🇧 GB(AzadNet.t.me)_081
       - 🇬🇧 GB(AzadNet.t.me)_086
-      - 🇬🇧 GB(AzadNet.t.me)_004
-      - 🇳🇱 NL(AzadNet.t.me)_079
-      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇬🇧 GB(AzadNet.t.me)_075
+      - 🇬🇧 GB(AzadNet.t.me)_082
+      - 🇬🇧 GB(AzadNet.t.me)_087
+      - 🇬🇧 GB(AzadNet.t.me)_090
+      - 🇬🇧 GB(AzadNet.t.me)_084
       - 🇳🇱 NL(AzadNet.t.me)_070
-      - 🇳🇱 NL(AzadNet.t.me)_068
-      - 🇳🇱 NL(AzadNet.t.me)_071
-      - 🇫🇷 FR(AzadNet.t.me)_221
-      - 🇩🇪 DE(AzadNet.t.me)_156
-      - 🇫🇷 FR(AzadNet.t.me)_223
-      - 🇳🇱 NL(AzadNet.t.me)_075
-      - 🇫🇷 法国_0804002
+      - 🇬🇧 GB(AzadNet.t.me)_004
       - 🇫🇷 FR(AzadNet.t.me)_222
-      - 🇫🇷 FR(AzadNet.t.me)_014
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
-      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
-      - 🇩🇪 DE德国(youtube阿伟科技) 2
-      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇳🇱 NL(AzadNet.t.me)_068
+      - 🇳🇱 NL(AzadNet.t.me)_075
+      - 🇳🇱 NL(AzadNet.t.me)_071
+      - 🇫🇷 FR(AzadNet.t.me)_076
+      - 🇳🇱 NL(AzadNet.t.me)_001
+      - 🇩🇪 DE(AzadNet.t.me)_156
+      - 🇫🇷 FR(AzadNet.t.me)_221
+      - 🇫🇷 FR(AzadNet.t.me)_223
       - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net5-1
+      - 🇫🇷 法国_0804002
+      - 🇩🇪 DE德国(youtube阿伟科技) 2
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net4-2
+      - 🇳🇱 NL(AzadNet.t.me)_079
+      - 🇩🇪 [VMess] 🇩🇪 15|🇩🇪_DE_德国_irancpi.net2-3
       - 🇩🇪 DE(AzadNet.t.me)_157
-      - 🇩🇪 DE(AzadNet.t.me)_019
       - 🇩🇪 DE(AzadNet.t.me)_021
-      - CH(AzadNet.t.me)_005
-      - CH(AzadNet.t.me)_004
+      - 🇩🇪 DE(AzadNet.t.me)_019
+      - 🇩🇪 DE(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_083
+      - 🇩🇪 DE(AzadNet.t.me)_155
       - 🇩🇪 DE(AzadNet.t.me)_158
-      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
-      - AT(AzadNet.t.me)_002
-      - AF(AzadNet.t.me)
+      - CH(AzadNet.t.me)_004
+      - CH(AzadNet.t.me)_005
+      - 🇫🇷 FR(AzadNet.t.me)_014
       - "@customv2ray کانفیگ های بیشتر عضو شو 6"
-      - 135.148.148.480
+      - AT(AzadNet.t.me)_002
       - 🇳🇱 荷兰_0804002
+      - AF(AzadNet.t.me)
+      - 🇫🇷 FR(AzadNet.t.me)_013
+      - 🇵🇱 PL(AzadNet.t.me)_051
+      - 135.148.148.480
+      - IM(AzadNet.t.me)_002
       - 🇵🇱 PL(AzadNet.t.me)_009
-      - RO(AzadNet.t.me)_015
-      - 🇫🇷 FR(AzadNet.t.me)_011
       - 🇩🇪 DE(AzadNet.t.me)_160
+      - 🇫🇷 FR(AzadNet.t.me)_065
+      - RO(AzadNet.t.me)_015
+      - 🇬🇧 GB(AzadNet.t.me)_088
       - BA(AzadNet.t.me)
       - 🇫🇷 FR(AzadNet.t.me)_002
       - 🇫🇷 FR(AzadNet.t.me)_004
-      - UA(AzadNet.t.me)_016
+      - 🇫🇷 FR(AzadNet.t.me)_011
+      - 🇬🇧 GB(AzadNet.t.me)_080
       - IT(AzadNet.t.me)_008
-      - 🇵🇱 PL(AzadNet.t.me)_051
-      - 🇫🇷 FR(AzadNet.t.me)_008
       - IL(AzadNet.t.me)
-      - 🇪🇸 ES(AzadNet.t.me)_004
+      - UA(AzadNet.t.me)_016
       - 54.199.83.2392333
-      - BG(AzadNet.t.me)_003
+      - 🇫🇷 FR(AzadNet.t.me)_008
+      - 🇪🇸 ES(AzadNet.t.me)_004
       - AZ(AzadNet.t.me)_002
       - AE(AzadNet.t.me)_003
-      - 🇬🇧 GB(AzadNet.t.me)_065
+      - 🇮🇳 IN(AzadNet.t.me)_003
       - 🇸🇬 sg-am3.eqsunshine.com32001
       - FI(AzadNet.t.me)_025
-      - Relay_ |21.99Mb
-      - RS(AzadNet.t.me)_001
-      - 未知_0804019
+      - 🇬🇧 GB(AzadNet.t.me)_065
       - AL(AzadNet.t.me)
       - "|30.83Mb"
+      - CY(AzadNet.t.me)_026
+      - 二爷翻墙 https//1808.cf Node_2
       - NO(AzadNet.t.me)_003
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
-      - 🇫🇷 FR(AzadNet.t.me)_065
-      - 🇬🇧 GB(AzadNet.t.me)_075
-      - 🇫🇷 FR(AzadNet.t.me)_081
-      - 🇬🇧 GB(AzadNet.t.me)_072
-      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 白嫖-061
+      - RELAY-104.31.16.25-169
       - UA(AzadNet.t.me)_018
+      - EE(AzadNet.t.me)_003
+      - 🇬🇧 GB(AzadNet.t.me)_072
+      - 🇫🇷 FR(AzadNet.t.me)_081
+      - 🇫🇷 法国(油管破解资源君2.0) 3
+      - 🇫🇷 法国(油管破解资源君2.0) 2
       - 🇩🇪 DE(AzadNet.t.me)_153
       - 🇫🇷 FR(AzadNet.t.me)_078
       - 🇪🇺 欧洲(油管破解资源君2.0) 20
-      - "%�\x11�%�P���白嫖-485"
-      - RELAY-104.31.16.25-169
-      - 🇫🇷 FR(AzadNet.t.me)_076
-      - CY(AzadNet.t.me)_026
+      - YouTube阿伟科技
+      - BG(AzadNet.t.me)_003
       - 🇫🇷 FR(AzadNet.t.me)_220
-      - 🇫🇷 法国(油管破解资源君2.0) 2
-      - IM(AzadNet.t.me)_002
-      - 这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使用) 101
+      - IE(AzadNet.t.me)_002
+      - "%�\x11�%�P���白嫖-485"
+      - 🇮🇳 IN(AzadNet.t.me)_005
+      - 动态节点
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
       - IE(AzadNet.t.me)_003
       - 🇳🇱 NL(AzadNet.t.me)_069
-      - IE(AzadNet.t.me)_002
-      - 白嫖-061
-      - 🇳🇱 荷兰 01
       - 🇷🇺 _RU_俄罗斯联邦 2
-      - UA(AzadNet.t.me)_017
-      - 未知_0804767
-      - EE(AzadNet.t.me)_003
+      - 🇪🇸 西班牙 01
+      - RS(AzadNet.t.me)_001
+      - 🇫🇷 FR(AzadNet.t.me)_224
+      - "@SSRSUB-V13-付费推荐dlj.tf/ssrsub"
       - MT(AzadNet.t.me)
+      - RELAY-104.31.16.27-183
       - SK(AzadNet.t.me)
-      - 未知_0804039
-      - BE(AzadNet.t.me)_002
-      - HU(AzadNet.t.me)_001
-      - 🇮🇸 IS(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_002
-      - LU(AzadNet.t.me)_009
       - CZ(AzadNet.t.me)_004
+      - 未知_0804039
+      - HR(AzadNet.t.me)_002
+      - HR(AzadNet.t.me)_001
       - 🇮🇸 IS(AzadNet.t.me)_001
-      - 🇳🇱 NL(AzadNet.t.me)_010
-      - MK(AzadNet.t.me)_001
+      - GR(AzadNet.t.me)_001
       - BE(AzadNet.t.me)_001
-      - MK(AzadNet.t.me)_002
-      - GR(AzadNet.t.me)_002
+      - 🇮🇸 IS(AzadNet.t.me)_002
+      - 🇳🇱 NL(AzadNet.t.me)_010
+      - LU(AzadNet.t.me)_009
+      - BE(AzadNet.t.me)_002
+      - MK(AzadNet.t.me)_001
       - RS(AzadNet.t.me)_002
+      - 🇩🇪 德国_0804025
       - 🇩🇰 DK(AzadNet.t.me)_001
       - 🇩🇰 DK(AzadNet.t.me)_002
-      - HR(AzadNet.t.me)_001
+      - MK(AzadNet.t.me)_002
       - SI(AzadNet.t.me)
-      - 🇩🇪 德国_0804025
-      - GR(AzadNet.t.me)_001
-      - 🇳🇱 荷兰_0804014
+      - GR(AzadNet.t.me)_002
+      - Telegram@kxswa | https//t.me/kxswa 2
+      - HU(AzadNet.t.me)_001
+      - github.com/freefq - 乌克兰  12
+      - 🇦🇺 _AU_澳大利亚_13@38
   - name: 美国
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 100
     proxies:
-      - 🇺🇸 US(AzadNet.t.me)_005
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 4
-      - 🇺🇸 US(AzadNet.t.me)_798
-      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_805
       - 🇺🇸 US(AzadNet.t.me)_799
       - 🇺🇸 US(AzadNet.t.me)_802
-      - 🇺🇸 US(AzadNet.t.me)_804
+      - 🇺🇸 US(AzadNet.t.me)_798
       - 🇺🇸 US(AzadNet.t.me)_796
-      - 🇺🇸 US(AzadNet.t.me)_805
-      - 🇺🇸 US(AzadNet.t.me)_752
+      - 🇺🇸 US(AzadNet.t.me)_804
       - 🇺🇸 US(AzadNet.t.me)_797
+      - 🇺🇸 US(AzadNet.t.me)_800
+      - 🇺🇸 美国 58
+      - 🇺🇸 US(AzadNet.t.me)_060
       - 🇺🇸 US(AzadNet.t.me)_199
-      - 🇺🇸 US(AzadNet.t.me)_432
-      - 🇺🇸 US(AzadNet.t.me)_431
-      - 🇺🇸 US(AzadNet.t.me)_447
+      - 🇺🇸 美国_08041439
       - 🇺🇸 US(AzadNet.t.me)_411
-      - 🇺🇸 US(AzadNet.t.me)_441
-      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
-      - 🇺🇸 美国_0804116
-      - 🇺🇸 US(AzadNet.t.me)_661
       - 🇺🇸 US(AzadNet.t.me)_433
-      - 🇺🇸 US(AzadNet.t.me)_662
+      - 🇺🇸 US(AzadNet.t.me)_440
+      - 🇺🇸 US(AzadNet.t.me)_447
       - 🇺🇸 US(AzadNet.t.me)_402
+      - 🇺🇸 美国_0804116
+      - 🇺🇸 US(AzadNet.t.me)_442
       - 🇺🇸 美国_0804066
-      - 🇺🇸 US(AzadNet.t.me)_663
-      - 🇺🇸 美国_0804031
-      - 🇺🇸 美国_0804176
+      - 🇺🇸 github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 1
+      - 🇺🇸 美国_0804038
+      - 🇺🇸 US(AzadNet.t.me)_441
       - 🇺🇸 US(AzadNet.t.me)_607
+      - 🇺🇸 美国_0804256
+      - 🇺🇸 US(AzadNet.t.me)_448
       - 🇺🇸 US(AzadNet.t.me)_659
       - 🇺🇸 [VMess] 🇺🇲 6,7,16|美国【付费推荐：https//tt.vg/vip】30
-      - 🇺🇸 美国_0804256
-      - 🇺🇸 美国_0804068
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
-      - 🇺🇸 美国_08041439
-      - 🇺🇸 美国_0804391
-      - 🇺🇸 US(AzadNet.t.me)_448
-      - 🇺🇸 US美国(youtube阿伟科技)
-      - 🇺🇸 美国_0804038
-      - 🇺🇸 _US_美国_12
-      - 🇺🇸 美国 319
-      - 🇺🇸 美国_0804835
       - 🇺🇸 US(AzadNet.t.me)_439
-      - 🇺🇸 US(AzadNet.t.me)_440
-      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804031
+      - 🇺🇸 US(AzadNet.t.me)_661
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】183
+      - 🇺🇸 US(AzadNet.t.me)_660
+      - 🇺🇸 US(AzadNet.t.me)_431
+      - 🇺🇸 US(AzadNet.t.me)_432
+      - 🇺🇸 US(AzadNet.t.me)_663
+      - 🇺🇸 美国_0804391
+      - 🇺🇸 美国_0804835
+      - 🇺🇸 US美国(youtube阿伟科技)
+      - 🇺🇸 _US_美国_12
+      - 🇺🇸 美国_0804068
       - 🇺🇸 美国(油管破解资源君2.0) 3
       - 🇺🇸 美国(油管破解资源君2.0) 2
-      - 🇺🇸 US(AzadNet.t.me)_660
-      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_576
-      - 🇺🇸 US(AzadNet.t.me)_571
-      - 🇺🇸 US(AzadNet.t.me)_667
-      - 🇺🇸 美国_0804167
-      - 🇺🇸 US(AzadNet.t.me)_556
-      - 🇺🇸 美国_0804161
-      - "[VMess] 🇺🇲 US_speednode_0066"
-      - 🇺🇸 [VMess] 🇺🇲 -US-038
-      - 🇺🇸 美国_0804165
-      - 🇺🇸 美国_0804169
-      - 🇺🇸 美国_0804172
       - 🇺🇸 US(AzadNet.t.me)_555
+      - 🇺🇸 美国_0804014
       - 🇺🇸 US(AzadNet.t.me)_578
+      - 🇺🇸 US(AzadNet.t.me)_556
+      - 🇺🇸 US(AzadNet.t.me)_571
+      - "🇺🇸 13,16|github.com/freefq - 美国CloudFla... #3"
+      - 🇺🇸 美国_0804172
+      - 🇺🇸 美国_0804167
+      - "[VMess] 🇺🇲 US_speednode_0066"
+      - 🇺🇸 美国_0804161
+      - 🇺🇸 美国 319
+      - 🇺🇸 [VMess] 🇺🇲 -US-038
+      - 🇺🇸 US(AzadNet.t.me)_667
+      - 🇺🇸 美国 227
+      - 🇺🇸 美国_0804169
+      - 🇺🇸 美国_0804165
+      - 🇺🇸 美国_0804099
       - 🇺🇸 美国(油管破解资源君2.0) 45
       - 🇺🇸 美国 337
-      - 🇺🇸 V005--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 美国_0804105
-      - "🇺🇸 US美国(youtube阿伟科技)\r"
-      - 🇺🇸 US(AzadNet.t.me)_801
       - "[VMess] 🇺🇲 US_speednode_0070"
-      - 🇺🇸 美国_0804099
-      - 🇺🇸 US(AzadNet.t.me)_001
-      - 🇺🇸 US(AzadNet.t.me)_588
-      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_090
+      - "🇺🇸 US美国(youtube阿伟科技)\r"
+      - 🇺🇸 美国_0804105
+      - 🇺🇸 US(AzadNet.t.me)_801
+      - 🇺🇸 US(AzadNet.t.me)_589
       - 🇺🇸 US(AzadNet.t.me)_803
-      - 🇺🇸 US(AzadNet.t.me)_785
-      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】174
-      - 🇺🇸 US(AzadNet.t.me)_437
-      - 🇺🇸 US(AzadNet.t.me)_436
-      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
-      - 🇺🇸 美国_0804007
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
-      - 🇺🇸 美国(油管破解资源君2.0) 16
-      - 🇺🇸 8|🇺🇸_US_美国
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
       - 🇺🇸 US(AzadNet.t.me)_435
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6
-      - 🇺🇸 美国 CloudFlare公司CDN节点(shopify) 3
-      - 🇺🇸 美国CloudFlare公司CDN节点 7
+      - 🇺🇸 US(AzadNet.t.me)_434
+      - 🇺🇸 US(AzadNet.t.me)_785
+      - 🇺🇸 github.com/freefq - 美国CloudFlare节点 10
+      - 🇺🇸 美国_0804176
+      - 🇺🇸 _US_美国 10
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】100
+      - 🇺🇸 US(AzadNet.t.me)_436
+      - 🇺🇸 US(AzadNet.t.me)_437
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 19
+      - 🇺🇸 美国_0804110
+      - 🇺🇸 美国_0804007
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 20
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点(shopify) 17
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国_0804469
+      - 🇺🇸 US(AzadNet.t.me)_006
+      - 🇺🇸 US(AzadNet.t.me)_005
+      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 US(AzadNet.t.me)_119
       - 🇺🇸 US(AzadNet.t.me)_113
+      - 🇺🇸 US(AzadNet.t.me)_115
+      - 🇺🇸 美国(油管破解资源君2.0) 16
       - 🇺🇸 US(AzadNet.t.me)_107
       - 🇺🇸 US(AzadNet.t.me)_499
-      - 🇺🇸 US(AzadNet.t.me)_117
-      - 🇺🇸 美国_0804110
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 15
-      - 🇺🇸 US(AzadNet.t.me)_115
-      - 🇺🇸 US(AzadNet.t.me)_109
       - 🇺🇸 US(AzadNet.t.me)_523
-      - 🇺🇸 美国_0804469
-      - 🇺🇸 US(AzadNet.t.me)_119
-      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_519
-      - 🇺🇸 V003--US-付费推荐dlj.tf/ssrsub
-      - 🇺🇸 US(AzadNet.t.me)_500
+      - 🇺🇸 美国_0804427
+      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 14
+      - 🇺🇸 美国CloudFlare公司CDN节点(shopify) 1
+      - 🇺🇸 US(AzadNet.t.me)_117
+      - 🇺🇸 US(AzadNet.t.me)_109
+      - 🇺🇸 US(AzadNet.t.me)_111
       - 🇺🇸 US(AzadNet.t.me)_503
       - 🇺🇸 US(AzadNet.t.me)_520
       - 🇺🇸 美国_0804093
-      - 🇺🇸 美国_0804123
-      - 🇺🇸 美国_0804125
-      - 🇺🇸 美国_0804132
       - 🇺🇸 美国_0804168
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】184
+      - 🇺🇸 美国【付费推荐：https//tt.vg/vip】45
   - name: 香港
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1510,16 +1552,17 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 🇸🇬 _SG_新加坡 2
-      - 🇸🇬 SG(AzadNet.t.me)_001
-      - 🇸🇬 SG(AzadNet.t.me)_004
-      - 🇸🇬 SG(AzadNet.t.me)_022
-      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
-      - 🇸🇬 SG(AzadNet.t.me)_015
       - 🇸🇬 新加坡_0804003
-      - 🇸🇬 _SG_新加坡
+      - 🇸🇬 _SG_新加坡 2
       - 🇸🇬 SG(AzadNet.t.me)_009
-      - 🇸🇬 SG(AzadNet.t.me)_114
+      - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian
+      - 🇸🇬 SG(AzadNet.t.me)_004
+      - 🇸🇬 SG(AzadNet.t.me)_001
+      - 🇸🇬 SG(AzadNet.t.me)_015
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇸🇬 _SG_新加坡 2 2
+      - 🇸🇬 _SG_新加坡
+      - 🇸🇬 SG(AzadNet.t.me)_114trojan//xxoo@us.blazeppn.info443?allowInsecure=1&sni=telewebion.com#🇺🇸 US(AzadNet.t.me)_752
       - 🇸🇬 18|🇸🇬 狮城特殊|@ripaojiedian 2
   - name: 日本
     type: url-test
@@ -1527,9 +1570,11 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 🇯🇵 _JP_日本_1_5@11
       - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇯🇵 JP(AzadNet.t.me)_014
       - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇯🇵 _JP_日本_1_5@11
+      - JP_23 | 2.26Mb
       - 🇯🇵 日本_0804009
       - 🇯🇵 日本 315
   - name: 台湾
@@ -1539,15 +1584,14 @@ proxy-groups:
     tolerance: 100
     proxies:
       - 🇨🇳 台湾_0804005
-      - 🇨🇳 TW(AzadNet.t.me)_008
       - 🇨🇳 18,18|🇹🇼 台湾A|@ripaojiedian
+      - 🇨🇳 TW(AzadNet.t.me)_008
   - name: 韩国
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 100
     proxies:
-      - 🇰🇷 _KR_韩国 2
       - 🇰🇷 18|🇰🇷 韩国特殊|@ripaojiedian
 rules:
  - DOMAIN,asusrouter.com,DIRECT
